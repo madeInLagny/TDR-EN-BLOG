@@ -39,8 +39,7 @@ These may sound like insignificant numbers, but when global retailers invoice an
 
 Fortunately, in both the UK and EU, merchants are eligible for **duty free returns**. This means that they are exempt or can claim relief on certain customs duties. In this particular case, companies can claim back the duties they paid to import returned items. 
 
-<img src="/assets/images/20231212-2.webp" alt="Albuquerque, New Mexico">
-
+![An illustration of VAT and Duty definition]({{ site.baseurl }}/assets/images/20231212-2.webp)
 
 ***How can Trade Duty Refund help global merchants reclaim customs duties?***
 
