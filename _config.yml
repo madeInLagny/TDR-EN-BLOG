@@ -4,7 +4,7 @@ title: Trade, Borders, Logistics Etc
 description: Explore the dynamic world of cross-border trade, customs, and logistics with our insightful blog. Uncover the secrets of efficient supply chains, navigate the complexities of duty refunds, and master the art of reverse logistics. Stay ahead in the e-commerce game with expert insights on international trade. Your gateway to a seamless global business experience starts here!
 logo: assets/images/logo.webp
 favicon: assets/images/favicon.ico
-# baseurl: /'
+baseurl: /blog'
 google_analytics: G-EGJMGN0WP7
 # disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -56,6 +56,7 @@ markdown: kramdown
 
 kramdown:
   input: GFM
+  html_to_native: true
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:

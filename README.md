@@ -20,6 +20,11 @@ To build the process locally: bundle exec jekyll serve --watch
 ## Tools
 Slugify title: https://slugify.online/
 Picture sources: https://www.vecteezy.com/free-photos/taxes
+Kramdown doc: https://kramdown.gettalong.org/quickref.html
+Markdown doc: https://www.markdownguide.org/basic-syntax
+Image compressor: https://squoosh.app/
+
+
 
 
 
