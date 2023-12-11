@@ -37,6 +37,13 @@ a {
 	border-color: #358f9c;
 }
 
+@media (min-width: 768px) {
+	.postIllustration {
+			width: 50%;
+			margin: 3rem auto!important;
+	}
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",

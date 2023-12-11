@@ -21,6 +21,7 @@ To build the process locally: bundle exec jekyll serve --watch
 Slugify title: https://slugify.online/
 Picture sources: https://www.vecteezy.com/free-photos/taxes
 Kramdown doc: https://kramdown.gettalong.org/quickref.html
+  note: to add a class to a markdown element, add {:.className} before.
 Markdown doc: https://www.markdownguide.org/basic-syntax
 Image compressor: https://squoosh.app/
 
