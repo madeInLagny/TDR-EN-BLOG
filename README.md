@@ -11,11 +11,16 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&family=Signika+Negative:wght@500&display=swap"rel="stylesheet">
 
+### Pictures ratio
+Pictures must be 3:2 (ex 750x500)
+
 ## Process
 To build the process locally: bundle exec jekyll serve --watch
 
 ## Tools
 Slugify title: https://slugify.online/
+Picture sources: https://www.vecteezy.com/free-photos/taxes
+
 
 
 

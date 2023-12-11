@@ -4,10 +4,9 @@ title:  "International Merchants: VAT vs Custom Duties in the UK and EU and your
 description: r
 author: jocelyn
 categories: [ VAT, UK, EU ]
-image: assets/images/20231212-1.jpg
+image: assets/images/20231212-1.webp
+lead: International trade is booming. In fact, the global eCommerce market continues to grow rapidly with over 20% of global retail sales done online [^1]. Globalization and technology have created endless opportunities in international commerce, but the tricky business of understanding taxes and duties remain daunting. Trade Duty Refund is here to help, and explains some must-know concepts when it comes to fiscal responsibility.
 ---
-*International trade is booming. In fact, the global eCommerce market continues to grow rapidly with over 20% of global retail sales done online [^1]. Globalization and technology have created endless opportunities in international commerce, but the tricky business of understanding taxes and duties remain daunting. Trade Duty Refund is here to help, and explains some must-know concepts when it comes to fiscal responsibility.*
-
 Doing business internationally in today’s economy is almost a given for many merchants. Digital platforms and faster and smarter logistics have made it easier to create global demand for products and, consequently, be able to fulfill and ship orders across borders. International eCommerce has already exploded and is only set to steadily grow in the coming years. The United Kingdom and European Union single market are among the top players in international trade. 
 
 While international trade provides significant advantages for many retailers, it comes with a plethora of fiscal responsibilities that can leave any import or export manager overwhelmed, if not at times, dubious. 
