@@ -2,7 +2,6 @@
 layout: post
 title:  "International Merchants: VAT vs Custom Duties in the UK and EU and your right to reclaim"
 description: Unlock VAT and Customs Duties insights for international merchants. Reclaim duties efficiently with Trade Duty Refund's expert assistance. Schedule a discovery call today.
-author: jocelyn
 categories: [ VAT, UK, EU ]
 image: assets/images/20231212-1.webp
 comments: false
