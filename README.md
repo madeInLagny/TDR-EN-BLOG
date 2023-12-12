@@ -4,18 +4,21 @@
 - Demo: https://wowthemesnet.github.io/mediumish-theme-jekyll/
 - github: https://github.com/wowthemesnet/mediumish-theme-jekyll/
 
-### Changes made to original files
-- default.html: changed the google tag manager snippet to reflect GA4
-- default.html: changed the google font loader from 'defered' to 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&family=Signika+Negative:wght@500&display=swap"rel="stylesheet">
-
 ### Pictures ratio
 Pictures must be 3:2 (ex 750x500)
 
 ## Process
-To build the process locally: bundle exec jekyll serve --watch
+### Run the blog locally
+
+```
+bundle exec jekyll serve --watch
+```
+### Add a post
+- Duplicate the latest post in the _posts directory
+- Update the file name, including date
+- Fill the post details accordingly
+- Check the post locally
+- Save changes and commit to uploagd changes to github
 
 ## Tools
 Slugify title: https://slugify.online/
