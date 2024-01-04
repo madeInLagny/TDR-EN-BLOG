@@ -18,7 +18,7 @@ bundle exec jekyll serve --watch
 - Update the file name, including date
 - Fill the post details accordingly
 - Check the post locally
-- Save changes and commit to uploagd changes to github
+- Save changes and commit to upload changes to github
 
 ## Tools
 Slugify title: https://slugify.online/
@@ -27,9 +27,3 @@ Kramdown doc: https://kramdown.gettalong.org/quickref.html
   note: to add a class to a markdown element, add {:.className} before.
 Markdown doc: https://www.markdownguide.org/basic-syntax
 Image compressor: https://squoosh.app/
-
-
-
-
-
-
