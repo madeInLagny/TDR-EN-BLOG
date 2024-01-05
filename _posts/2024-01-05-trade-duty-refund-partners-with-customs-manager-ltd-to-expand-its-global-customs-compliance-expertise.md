@@ -24,7 +24,7 @@ The partnership between the two companies allows for:
 
 >“What a great way to kick off the year announcing our new partner Customs Manager Ltd! Our collaboration promises crossborder businesses a comprehensive trade advantage, blending  Customs Manager meticulous expertise with Trade Duty Refund optimized processes, fostering a competitive edge in the international marketplace".
 
-<em>Jocelyn Montpert - Founder of Trade Duty Refund</em>
+<em>Jocelyn Montpert - Head of Trade Duty Refund</em>
 
 >"Customs Manager Ltd is thrilled to align with Trade Duty Refund, a pioneering startup offering a one-of-a-kind service in duty refunds. We combine our second to none Customs proficiency with their innovative approach, ultimately optimizing trade operations and financial outcomes for our clients."
 
