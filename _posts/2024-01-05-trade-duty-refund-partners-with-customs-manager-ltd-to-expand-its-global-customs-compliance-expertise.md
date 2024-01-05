@@ -22,7 +22,7 @@ The partnership between the two companies allows for:
 - Trusted and knowledgeable point of contact for HMRC 
 
 
->“We are thrilled to kick off the year with our new partner Customs Manager Ltd. Our collaboration promises crossborder businesses a comprehensive trade advantage, blending  Customs Manager meticulous expertise with Trade Duty Refund optimized processes, fostering a competitive edge in the international marketplace".
+>“What a great way to kick off the year announcing our new partner Customs Manager Ltd! Our collaboration promises crossborder businesses a comprehensive trade advantage, blending  Customs Manager meticulous expertise with Trade Duty Refund optimized processes, fostering a competitive edge in the international marketplace".
 
 <em>Jocelyn Montpert - Founder of Trade Duty Refund</em>
 
