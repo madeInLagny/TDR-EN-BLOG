@@ -17,6 +17,7 @@ bundle exec jekyll serve --watch
 - Duplicate the latest post in the _posts directory
 - Update the file name, including date
 - Fill the post details accordingly
+- Use Chat GPT to create an HTML description metatag of 50 to 160 characters
 - Check the post locally
 - Save changes and commit to upload changes to github
 
