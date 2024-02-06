@@ -10,6 +10,9 @@ comments: false
 
 Meanwhile, the European Union has been negotiating the terms of [**EU AI Act**](https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence), the first of its kind to tackle regulation when it comes to this disruptive technology. Last Friday, the 27-EU member bloc finally agreed on a rulebook that will govern the way AI technology is used, trying to find the right balance between protecting EU citizens and fostering innovation in digital transformation. 
 
+![The image illustrate the way Trade Duty Refund uses AI to improve Customs Duty refund](/assets/images/20240206-2.webp)
+
+
 The EU AI Act will restrict some applications of AI technology, impose strict limits on use cases considered high-risk, and bombard the most advanced software models with obligations of transparency and stress-testing. 
 
 While AI has made its way into all aspects of our daily lives, from healthcare to education to shopping, where will it leave its impact on international trade and logistics? Trade Duty Refund looks at some key factors and how companies can factor AI into their strategy.
