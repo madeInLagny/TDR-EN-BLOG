@@ -20,7 +20,7 @@ bundle exec jekyll serve --watch
 - Use Chat GPT to create an HTML description metatag of 50 to 160 characters
 - Check the post locally
 - Save changes and commit to upload changes to github
-- Add the URL to Google Search Console
+- Add the URL to Google Search Console 
 
 ## Tools
 Slugify title: https://slugify.online/
