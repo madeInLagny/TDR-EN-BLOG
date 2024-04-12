@@ -16,26 +16,19 @@ To shed light on the implications of [**EU Customs Reforms**](https://taxation-c
 
 ![The image shows a customs border barrier as an illustration of the EU Customs Union](/assets/images/20240412-2.jpg)
 
-### Q1: What are the key changes stemming from EU Customs Reform, and why are they considered the most impactful in nearly 50 years?
-
+## Q1: What are the key changes stemming from EU Customs Reform, and why are they considered the most impactful in nearly 50 years?
 The latest significant overhaul in EU customs regulations dates back to 1968. The establishment of the customs union in July 1968 led to the elimination of tariffs among member countries, resulting in a substantial surge in intra-community trade and broader consumer access to imported goods. In May 2023, the Commission proposed measures to streamline customs procedures and enhance oversight. Key proposals include the establishment of a unified European Customs Authority and the introduction of the "Trust and Check" accreditation to facilitate customs clearance for trustworthy operators.
 
-### Q2: How will the removal of the low value threshold affect global retailers, and what steps can they take to prepare?
-
+## Q2: How will the removal of the low value threshold affect global retailers, and what steps can they take to prepare?
 The removal of the low value threshold will result in increased import duties and VAT obligations for goods entering the EU. This change will impact the IOSS mechanism and introduce deemed liability for marketplaces and platforms selling goods to EU consumers. Retailers must prepare for these changes by understanding their VAT obligations and adapting their business practices accordingly.
 
-### Q3: What are the primary costs associated with reverse logistics for retailers?
-
+## Q3: What are the primary costs associated with reverse logistics for retailers?
 Reverse logistics entail costs such as transportation, inventory handling, and environmental considerations. Additionally, retailers incur specific costs related to returns, including repacking, restocking, and the potential for "double taxation" of import duties in cross-border flows. However, solutions such as customs duty refunds can help mitigate these expenses.
 
-### Q4: What advice do you have for retailers navigating EU Customs?
-
+## Q4: What advice do you have for retailers navigating EU Customs?
 Navigating EU Customs requires a nuanced understanding of the Union Customs Code (UCC) and its implementation across member states. While the EU aims for harmonization, variations in interpretation and implementation persist. Retailers should leverage local expertise and consider multiple entry scenarios based on factors like customs procedures, logistics infrastructure, and domestic market conditions.
 
-### Q5: Can you clarify the distinction between a customs broker and a dedicated duty reclaim broker, and how can retailers engage with them to address upcoming reforms?
-
+## Q5: Can you clarify the distinction between a customs broker and a dedicated duty reclaim broker, and how can retailers engage with them to address upcoming reforms?
 A general-purpose customs broker offers a range of customs-related services, while a dedicated duty reclaim broker specializes in maximizing duty drawback refunds. Retailers can engage with these brokers to navigate customs procedures and optimize refunds, ensuring compliance with evolving regulations."
 
-
 [Schedule a free discovery call](https://zcal.co/i/ipvlgNrr) with our experts to get a calculation estimate and a chat about customs compliance expectations in the UK and EU.
-
