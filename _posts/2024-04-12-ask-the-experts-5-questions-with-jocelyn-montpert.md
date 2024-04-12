@@ -6,7 +6,7 @@ categories: [ EU Customs Reforms, Global Retailers, Duty Drawback Refunds, VAT I
 image: assets/images/20240412-1.webp
 comments: false
 ---
->Embarking on a new blog series, Trade Duty Refund delves into the complexities of international trade, development, and eCommerce by engaging industry experts in thought-provoking discussions. Our aim is to gain clarity and expert guidance on optimal strategies.
+>Embarking on a new blog series, [**Trade Duty Refund**](https://tradedutyrefund.com) delves into the complexities of international trade, development, and eCommerce by engaging industry experts in thought-provoking discussions. Our aim is to gain clarity and expert guidance on optimal strategies.
 
 Our inaugural post addresses a pressing concern for numerous global retailers exporting to the European Union. In 2023, the EU unveiled substantial reforms to its customs regulations and procedures. Among these reforms, the elimination of the €150 EUR low value threshold stands out, signaling the end of relief on customs duties for popular retail categories like clothing, accessories, and toys.
 
