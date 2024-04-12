@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ask the Experts 5 questions with Jocelyn Montpert
+title:  "Ask the Experts: 5 questions with Jocelyn Montpert"
 description: Explore EU customs reforms' impact on global retailers. Learn VAT implications, reverse logistics costs, & optimize duty drawback refunds.
 categories: [ EU Customs Reforms, Global Retailers, Duty Drawback Refunds, VAT Implications, Ask The Expert]
 image: assets/images/20240412-1.webp
