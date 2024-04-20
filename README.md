@@ -15,15 +15,25 @@ bundle exec jekyll serve --watch
 ```
 ### Add a post
 - Duplicate the latest post in the _posts directory
-- Update the file name, including date
+- Update the file name, including date. Slugify title: https://slugify.online/
 - Fill the post details accordingly
 - Use Chat GPT to create an HTML description metatag of 50 to 160 characters
+
+"Write a SEO friendly description tag in 160 characters max for this blog post:"..."
+"Write 5 relevant tags for the blog post. Each tag must be comma separated. Wrap the list within [ ]. No numbered list"
+
 - Check the post locally
 - Save changes and commit to upload changes to github
-- Add the URL to Google Search Console 
+- Add the URL to Google Search Console
+
+## Snippets
+[**Trade Duty Refund**] (https://tradedutyrefund.com)
+[Jocelyn Montpert](https://tradedutyrefund.com/jocelyn-montpert.html)
+![Image description](/assets/images/20240412-2.jpg)
+
 
 ## Tools
-Slugify title: https://slugify.online/
+
 Picture sources: https://www.vecteezy.com/free-photos/taxes
 Kramdown doc: https://kramdown.gettalong.org/quickref.html
   note: to add a class to a markdown element, add {:.className} before.

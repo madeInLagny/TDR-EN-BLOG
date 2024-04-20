@@ -29,6 +29,6 @@ Reverse logistics entail costs such as transportation, inventory handling, and e
 Navigating EU Customs requires a nuanced understanding of the Union Customs Code (UCC) and its implementation across member states. While the EU aims for harmonization, variations in interpretation and implementation persist. Retailers should leverage local expertise and consider multiple entry scenarios based on factors like customs procedures, logistics infrastructure, and domestic market conditions.
 
 ## Q5: Can you clarify the distinction between a customs broker and a dedicated duty reclaim broker, and how can retailers engage with them to address upcoming reforms?
-A general-purpose customs broker offers a range of customs-related services, while a dedicated duty reclaim broker specializes in maximizing duty drawback refunds. Retailers can engage with these brokers to navigate customs procedures and optimize refunds, ensuring compliance with evolving regulations."
+A general-purpose customs broker offers a range of customs-related services, while a dedicated duty reclaim broker specializes in maximizing duty drawback refunds. Retailers can engage with these brokers to navigate customs procedures and optimize refunds, ensuring compliance with evolving regulations.
 
 [Schedule a free discovery call](https://zcal.co/i/ipvlgNrr) with our experts to get a calculation estimate and a chat about customs compliance expectations in the UK and EU.
