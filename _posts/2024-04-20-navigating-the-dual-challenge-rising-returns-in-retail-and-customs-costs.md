@@ -8,11 +8,11 @@ comments: false
 ---
 >In the ever-evolving landscape of retail, one challenge looms larger than ever: returns. With the proliferation of e-commerce and the convenience it offers, the rate of returns has surged, posing complex logistical and financial challenges for retailers worldwide. According to industry reports, the rate of returns in online retail can be as high as 30%, compared to just 8-10% for brick-and-mortar stores.
 
-In a recent report from Forbes, industry data demonstrates that the rate of returns are now growing faster than eCommerce itself.
+In a recent [report from Forbes](https://www.forbes.com/sites/aleksandrabal/2024/01/17/beyond-borders-eu-customs-reform-and-e-commerce-platforms/), industry data demonstrates that the rate of returns are now growing faster than eCommerce itself.
 
 However, amidst this tide of returns, another crucial factor exacerbates the complexity: customs costs. Additionally, the concept of duty-free returns adds another layer of consideration to the mix.
 
-Returns have become an integral part of the retail experience, influencing consumer behavior and shaping brand perception. While returns offer opportunities for customer satisfaction and repeat business, they also present significant costs and operational challenges for retailers, particularly when it comes to navigating customs regulations. 
+Returns have become an integral part of the retail experience, influencing consumer behavior and shaping brand perception. While returns offer opportunities for customer satisfaction and repeat business, they also present significant costs and operational challenges for retailers, particularly when it comes to navigating customs regulations.
 
 Customs costs are a critical consideration in the management of returns, especially in cross-border transactions. Customs duties, taxes, and fees can significantly impact the financial implications of returns, adding another layer of complexity to the already intricate process. Failure to understand and account for these costs can result in unexpected expenses, eroding profitability and undermining business viability. 
 
@@ -35,7 +35,5 @@ In conclusion, the rising rate of returns in retail presents a dual challenge fo
 By prioritizing compliance efforts, leveraging technology solutions, and fostering collaboration with experts, retailers can mitigate risks, optimize operations, and enhance customer satisfaction. Moreover, proactive consideration of customs costs and broader financial implications is essential for ensuring profitability and long-term success in today's competitive retail landscape.
 
 Does your company engage in high volumes of cross-border retail trade?
-Trade Duty Refund is a dedicated broker that helps companies claim back duties paid on returned items. Schedule a discovery call to learn about our process and get an estimate of how much you can claim back. Trade Duty Refund can also help companies better understand customs regulations.
-
-
-[Schedule a free discovery call](https://zcal.co/i/ipvlgNrr) with our experts to get a calculation estimate and a chat about customs compliance expectations in the UK and EU.
+Trade Duty Refund is a dedicated broker that helps companies claim back duties paid on returned items.\\
+[**Schedule a free discovery call**](https://zcal.co/i/ipvlgNrr) to learn about our process and get an estimate of how much you can claim back. Trade Duty Refund can also help companies better understand customs regulations.
