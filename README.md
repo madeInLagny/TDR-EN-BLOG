@@ -27,7 +27,7 @@ bundle exec jekyll serve --watch
 - Add the URL to Google Search Console
 
 ## Snippets
-[**Trade Duty Refund**] (https://tradedutyrefund.com)
+[**Trade Duty Refund**](https://tradedutyrefund.com)
 [Jocelyn Montpert](https://tradedutyrefund.com/jocelyn-montpert.html)
 ![Image description](/assets/images/20240412-2.jpg)
 

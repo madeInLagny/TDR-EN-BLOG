@@ -2,7 +2,7 @@
 layout: post
 title:  "Trade Duty Refund Partners with Customs Manager Ltd. to Expand its Global Customs Compliance Expertise"
 description: Discover how Trade Duty Refund's strategic partnership with Customs Manager Ltd, a UK-based group of customs and global trade advisors, enhances global customs compliance expertise. Learn about their efficient duty refund process, expert consultancy, and trusted liaison with HMRC, ensuring full compliance for international businesses.
-categories: [ Partnership, UK, HMRC ]
+categories: [ partnership, UK, HMRC ]
 image: assets/images/20240105-1.webp
 comments: false
 ---

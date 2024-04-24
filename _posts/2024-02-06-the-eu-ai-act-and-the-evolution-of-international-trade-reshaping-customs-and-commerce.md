@@ -2,7 +2,7 @@
 layout: post
 title:  "The EU AI Act and the Evolution of International Trade: Reshaping Customs and Commerce"
 description: Discover how AI is transforming international trade and customs operations, from streamlining procedures to improving compliance. Learn about the impact of the EU AI Act and how Trade Duty Refund is leveraging AI-powered technology for customs duty refunds.
-categories: [ AI in Trade, EU AI Act, Customs Operations, International Trade Efficiency, AI-Powered Customs Duty Refunds]
+categories: [ ai in Trade, EU AI Act, customs operations, international trade efficiency, ai-powered customs duty refunds]
 image: assets/images/20240206-1.webp
 comments: false
 ---
