@@ -35,6 +35,6 @@ The impact of low-value e-commerce goods from China on the European Union market
 
 Trade Duty Refund has teamed up with other organizations in the EU to brainstorm and propose ideas to counter the influx of low-value goods. We are looking for global e-commerce retailers and platforms affected by the Chinese e-commerce market to join a think tank that will look to gather expert opinions and suggestions to present to EU authorities.
 
-Contact us at [](mailto:contact@tradedutyrefund.com) for more information!
+Contact us at [contact@tradedutyrefund.com](mailto:contact@tradedutyrefund.com) for more information!
 
 [**Trade Duty Refund**](https://tradedutyrefund.com) can help you understand some of these steps and support you in claiming back customs duties from processing returned items. [**Set up a discovery call**](https://zcal.co/i/ipvlgNrr) to get started!

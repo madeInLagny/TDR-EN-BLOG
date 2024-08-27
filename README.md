@@ -30,7 +30,7 @@ bundle exec jekyll serve --watch
 [**Trade Duty Refund**](https://tradedutyrefund.com)
 [Jocelyn Montpert](https://tradedutyrefund.com/jocelyn-montpert.html)
 ![Image description](/assets/images/20240412-2.jpg)
-[Contact Us](mailto:contact@tradedutyrefund.com)
+Contact us at [contact@tradedutyrefund.com](mailto:contact@tradedutyrefund.com)
 
 ## Tools
 
