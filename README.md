@@ -15,12 +15,19 @@ bundle exec jekyll serve --watch
 ```
 ### Add a post
 - Duplicate the latest post in the _posts directory
-- Update the file name, including date. Slugify title: https://slugify.online/
-- Fill the post details accordingly
-- Use Chat GPT to create an HTML description metatag of 50 to 160 characters
+- Run the following CHATGPT prompt:
 
-"Write a SEO friendly description tag in 160 characters max for this blog post:"..."
-"Write 5 relevant tags for the blog post. Each tag must be comma separated. Wrap the list within [ ]. No numbered list. If it makes sense try to use one of the following tags: vat, uk, eu, partnership, hmrc, global ecommerce, cross-border returns, customs regulations, supply chain management, ai-powered logistics, ai in trade, eu ai act, customs operations, international trade efficiency, ai-powered customs duty refunds, eu customs reforms, global retailers, duty drawback refunds, vat implications, ask the expert, retail returns, customs costs, cross-border trade, logistics management, customer satisfaction, automation, blockchain, consumer behavior, e-commerce trends. Tell me if you created new tags"
+"I want to convert the following article in a jekyll blog post format. Start by giving me a dash separated URL slug version of the title. Then populate a front matter section with this layout. Note within parenthesis are instructions for you. "--- 
+layout: post
+title: (copy here the article title within quotation marks)
+description: (Write a SEO friendly description tag in 160 characters max within quotation marks) 
+categories: (Write 5 relevant tags for the blog post. Each tag must be comma separated. Wrap the list within [ ]. No numbered list. If it makes sense try to use one of the following tags: vat, uk, eu, partnership, hmrc, global ecommerce, cross-border returns, customs regulations, supply chain management, ai-powered logistics, ai in trade, eu ai act, customs operations, international trade efficiency, ai-powered customs duty refunds, eu customs reforms, global retailers, duty drawback refunds, vat implications, ask the expert, retail returns, customs costs, cross-border trade, logistics management, customer satisfaction, automation, blockchain, consumer behavior, e-commerce trends. Tell me if you created new tags)
+image: (leave blank) 
+comments: false
+--- then add the blog text converted into markdown format. The first paragraph must had a > to emphasize it. I will copy the article in the following prompt
+
+
+
 
 - Check the post locally
 - Save changes and commit to upload changes to github
