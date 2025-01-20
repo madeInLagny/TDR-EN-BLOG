@@ -15,6 +15,8 @@ bundle exec jekyll serve --watch
 ```
 ### Add a post
 - Duplicate the latest post in the _posts directory
+- Check if interesting queries appear: https://analytics.google.com/analytics/web/?authuser=1#/p406112824/reports/explorer?params=_u..nav%3Dmaui%26_u.dateOption%3Dlast7Days%26_u.comparisonOption%3Ddisabled&r=search-query&ruid=search-query,search-console,search-console-topic&collectionId=search-console
+- potentially update the prompt with queries
 - Run the following CHATGPT prompt:
 
 "I want to convert the following article in a jekyll blog post format. Start by giving me a dash separated URL slug version of the title. Then populate a front matter section with this layout. Note within parenthesis are instructions for you. "---
@@ -24,7 +26,20 @@ description: (Write a SEO friendly description tag in 160 characters max within 
 categories: (Write 5 relevant tags for the blog post. Each tag must be comma separated. Wrap the list within [ ]. No numbered list. If it makes sense try to use one of the following tags: vat, uk, eu, partnership, hmrc, global ecommerce, cross-border returns, customs regulations, supply chain management, ai-powered logistics, ai in trade, eu ai act, customs operations, international trade efficiency, ai-powered customs duty refunds, eu customs reforms, global retailers, duty drawback refunds, vat implications, ask the expert, retail returns, customs costs, cross-border trade, logistics management, customer satisfaction, automation, blockchain, consumer behavior, e-commerce trends. Tell me if you created new tags)
 image: (leave blank)
 comments: false
---- then add the blog text converted into markdown format. Rephrase it to make it SEO friendly. Make sure to keep the markdown syntax available for copying into visual code. The first paragraph must have a > to emphasize it. Anytime you find Trade Duty Refund, you should convert it to the following link [**Trade Duty Refund**](https://tradedutyrefund.com) I will copy the article in the following prompt
+---
+then add the blog text converted into markdown format.
+Rephrase it to make it SEO friendly.
+I want to improve the website ranking for the following queries:
+* b2c refund solution
+* cross-border retailers
+* duty refunds
+* duty drawback
+* duty free returns
+* e-commerce experts
+Make sure to keep the markdown syntax available for copying into visual code.
+The first paragraph must have a > to emphasize it.
+Anytime you find Trade Duty Refund, you should convert it to the following link [**Trade Duty Refund**](https://tradedutyrefund.com)
+I will copy the article in the following prompt"
 
 
 - Check the post locally
