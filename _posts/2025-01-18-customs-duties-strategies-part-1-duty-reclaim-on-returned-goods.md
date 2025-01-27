@@ -37,6 +37,7 @@ Unlock the full potential of duty reclaim strategies by learning about:
       <li class="glide__slide"><img src="/assets/images/20250118-3.webp"></li>
       <li class="glide__slide"><img src="/assets/images/20250118-4.webp"></li>
       <li class="glide__slide"><img src="/assets/images/20250118-5.webp"></li>
+      <li class="glide__slide"><img src="/assets/images/20250118-6.webp"></li>
     </ul>
   </div>
   <div class="glide__bullets" data-glide-el="controls[nav]">
@@ -44,6 +45,7 @@ Unlock the full potential of duty reclaim strategies by learning about:
     <button class="glide__bullet" data-glide-dir="=1"></button>
     <button class="glide__bullet" data-glide-dir="=2"></button>
     <button class="glide__bullet" data-glide-dir="=3"></button>
+    <button class="glide__bullet" data-glide-dir="=4"></button>
   </div>
 </div>
 

@@ -36,6 +36,7 @@ I want to improve the website ranking for the following queries:
 * duty drawback
 * duty free returns
 * e-commerce experts
+* reclaim duties
 Make sure to keep the markdown syntax available for copying into visual code.
 The first paragraph must have a > to emphasize it.
 Anytime you find Trade Duty Refund, you should convert it to the following link [**Trade Duty Refund**](https://tradedutyrefund.com)
