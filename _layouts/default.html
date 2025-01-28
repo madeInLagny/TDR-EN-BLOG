@@ -218,13 +218,13 @@ endif %}{% endcapture %}
       };
 
       // Google Sheets Web App URL
-      const webAppUrl = 'https://script.google.com/macros/s/AKfycbz8mcF2sQtQKwKGf2D_J85unHF-jxcJxqUFqmVOYniNvA6Yl8XiIl0gACE2J8LaB0c3ug/exec';
+      const webAppUrl = 'https://script.google.com/macros/s/AKfycbyCMn70YsvZlBdz4ma7yBTVqzYZVZ2Ii9G4HNoosAFBHpBCNHxptH4T34fluO3Cen2f_g/exec';
 
       // Send data to Google Sheets
       fetch(webAppUrl, {
         method: 'POST',
         body: JSON.stringify(data),
-        headers: { 'Content-Type': 'application/json' }
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' }
       }).then(response => response.text())
         .then(result => console.log('Success:', result))
         .catch(error => console.error('Error:', error));
