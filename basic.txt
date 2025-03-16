@@ -29,7 +29,7 @@ comments: false
 ---
 then add the blog text converted into markdown format.
 Rephrase it to make it SEO friendly.
-I want to improve the website ranking for the following queries:
+I want to improve the website SEO ranking for the following queries:
 * b2c refund solution
 * cross-border retailers
 * duty refunds
@@ -41,7 +41,8 @@ I want to improve the website ranking for the following queries:
 * e-commerce experts
 * reclaim duties
 * how to calculate duty drawback
-Make sure to keep the markdown syntax available for copying into visual code.
+* 
+
 The first paragraph must have a > to emphasize it.
 Anytime you find Trade Duty Refund, you should convert it to the following link [**Trade Duty Refund**](https://tradedutyrefund.com)
 I will copy the article in the following prompt"
