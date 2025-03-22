@@ -19,6 +19,10 @@ bundle exec jekyll serve --watch
 - potentially update the prompt with queries
 - Run the following CHATGPT prompt:
 
+### Link to Mary's post on Canva
+ https://www.canva.com/folder/FAF1cIJ7a5Y
+ 
+
 "I want to convert the following article in a jekyll blog post format. Start by giving me a dash separated URL slug version of the title. Then populate a front matter section with this layout. Note within parenthesis are instructions for you. "---
 layout: post
 title: (copy here the article title within quotation marks)
