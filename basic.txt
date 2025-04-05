@@ -71,3 +71,29 @@ Kramdown doc: https://kramdown.gettalong.org/quickref.html
   note: to add a class to a markdown element, add {: .className} after. Example:![Image description](/assets/images/20240412-2.jpg) {: .mx-auto .d-block} centers an image.
 Markdown doc: https://www.markdownguide.org/basic-syntax
 Image compressor: https://squoosh.app/
+Extract one picture from the video: use clipchamp on full screen and use the sniptool 
+
+## Traitement des vidéos
+Lors du lien vers des vidéos, créer 3 vidéos distinctes
+1. La vidéo originale (grand format)
+2. Une version avec une largeur de 700px
+3. Une version avec une largeur de 400px
+
+
+<div class="responsive-video">
+  <video controls>
+    <source src="/assets/videos/large-video.mp4" type="video/mp4" media="(min-width: 768px)">
+    <source src="/assets/videos/medium-video.mp4" type="video/mp4" media="(min-width: 576px) and (max-width: 767px)">
+    <source src="/assets/videos/small-video.mp4" type="video/mp4" media="(max-width: 575px)">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<style>
+  .responsive-video video {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+</style>
