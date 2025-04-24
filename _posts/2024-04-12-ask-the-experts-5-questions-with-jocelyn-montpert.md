@@ -5,6 +5,8 @@ description: Explore EU customs reforms' impact on global retailers. Learn VAT i
 categories: [ eu Customs reforms, global retailers, duty drawback refunds, vat implications, ask the expert]
 image: assets/images/20240412-1.webp
 comments: false
+featured: true
+hidden: true
 ---
 >Embarking on a new blog series, [**Trade Duty Refund**](https://tradedutyrefund.com) delves into the complexities of international trade, development, and eCommerce by engaging industry experts in thought-provoking discussions. Our aim is to gain clarity and expert guidance on optimal strategies.
 
