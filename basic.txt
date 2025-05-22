@@ -51,7 +51,6 @@ The first paragraph must have a > to emphasize it.
 Anytime you find Trade Duty Refund, you should convert it to the following link [**Trade Duty Refund**](https://tradedutyrefund.com)
 I will copy the article in the following prompt"
 
-
 - Check the post locally
 - Save changes and commit to upload changes to github
 - Add the URL to Google Search Console
@@ -97,3 +96,32 @@ Lors du lien vers des vidéos, créer 3 vidéos distinctes
     display: block;
   }
 </style>
+
+
+For Carousel, use 
+
+<div class="glide">
+  <div class="glide__track" data-glide-el="track">
+    <ul class="glide__slides">
+      <li class="glide__slide"><img src="/assets/images/20250313-2.webp"></li>
+      <li class="glide__slide"><img src="/assets/images/20250313-3.webp"></li>
+      <li class="glide__slide"><img src="/assets/images/20250313-4.webp"></li>
+      <li class="glide__slide"><img src="/assets/images/20250313-5.webp"></li>
+      <li class="glide__slide"><img src="/assets/images/20250313-6.webp"></li>
+    </ul>
+  </div>
+  <div class="glide__bullets" data-glide-el="controls[nav]">
+    <button class="glide__bullet" data-glide-dir="=0"></button>
+    <button class="glide__bullet" data-glide-dir="=1"></button>
+    <button class="glide__bullet" data-glide-dir="=2"></button>
+    <button class="glide__bullet" data-glide-dir="=3"></button>
+    <button class="glide__bullet" data-glide-dir="=4"></button>
+  </div>
+</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/glide.min.js" integrity="sha512-IkLiryZhI6G4pnA3bBZzYCT9Ewk87U4DGEOz+TnRD3MrKqaUitt+ssHgn2X/sxoM7FxCP/ROUp6wcxjH/GcI5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/css/glide.core.min.css" integrity="sha512-YQlbvfX5C6Ym6fTUSZ9GZpyB3F92hmQAZTO5YjciedwAaGRI9ccNs4iw2QTCJiSPheUQZomZKHQtuwbHkA9lgw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/css/glide.theme.min.css" integrity="sha512-wCwx+DYp8LDIaTem/rpXubV/C1WiNRsEVqoztV0NZm8tiTvsUeSlA/Uz02VTGSiqfzAHD4RnqVoevMcRZgYEcQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<script>new Glide('.glide').mount()</script>
