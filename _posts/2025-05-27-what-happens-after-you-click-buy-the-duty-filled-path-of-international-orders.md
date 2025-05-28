@@ -3,7 +3,7 @@ layout: post
 title: "What Happens After You Click ‘Buy’: The Duty-Filled Path of International Orders"
 description: "Explore the lifecycle of cross-border eCommerce orders and how expert customs consultancy optimizes every step."
 categories: [global ecommerce, customs regulations, supply chain management, cross-border trade, duty drawback refunds]
-image: assets/images/20250527BuyButton-1.jpg
+image: assets/images/20250527-1.jpg
 comments: false
 ---
 
