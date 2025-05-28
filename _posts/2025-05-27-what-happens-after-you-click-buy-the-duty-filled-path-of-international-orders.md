@@ -3,7 +3,7 @@ layout: post
 title: "What Happens After You Click ‘Buy’: The Duty-Filled Path of International Orders"
 description: "Explore the lifecycle of cross-border eCommerce orders and how expert customs consultancy optimizes every step."
 categories: [global ecommerce, customs regulations, supply chain management, cross-border trade, duty drawback refunds]
-image: assets/images/20250528-1.jpg
+image: assets/images/20250527BuyButton-1.jpg
 comments: false
 ---
 
@@ -59,4 +59,4 @@ Cross-border eCommerce is an exciting avenue for growth, but one that introduces
 
 By partnering with experts in customs, businesses gain a trusted advisor to help navigate regulations, reduce risks, and optimize duty costs. As international trade evolves, so too must the strategies used to manage it.
 
-At [Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Article&utm_campaign=20250528Article), we just launched our Customs Consultancy business line which are services designed to make global eCommerce smoother, more cost-effective, and fully compliant so your business can focus on growth, not paperwork.
+At [Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Article&utm_campaign=20250527BuyButtonArticle), we just launched our Customs Consultancy business line which are services designed to make global eCommerce smoother, more cost-effective, and fully compliant so your business can focus on growth, not paperwork.
