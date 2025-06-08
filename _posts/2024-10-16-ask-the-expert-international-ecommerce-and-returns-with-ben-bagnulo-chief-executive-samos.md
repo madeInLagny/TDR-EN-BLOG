@@ -5,8 +5,8 @@ description: "Explore insights on international e-commerce and logistics challen
 categories: [ask the expert, global retailers, cross-border trade, logistics management, customs costs]
 image: assets/images/20241016-1.webp
 comments: false
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 > In this edition of our “Ask the Experts”, [**Trade Duty Refund**](https://tradedutyrefund.com) spoke with international trade and logistics expert, [Ben Bagnulo](https://www.linkedin.com/in/ben-bagnulo-18036b28/) who is based in the UK, about his experience with international e-commerce and the growing challenges for retailers operating in this space. As these retailers face everything from regulatory compliance in different geographic areas to high return rates, Ben talks to us about breaking it all down and working with an ecosystem of partners to be able to tackle e-commerce successfully.

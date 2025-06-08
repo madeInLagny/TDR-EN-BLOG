@@ -12,8 +12,8 @@ categories:
   ]
 image: assets/images/20250405-1.webp
 comments: false
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 > In today’s fast-paced digital age, e-commerce continues to break barriers, enabling businesses to reach international customers like never before. For almost a decade, [**Glopal**](https://Glopal.fr) has been working hard to support international sales growth, via SaaS modules (including, but not limited to, Localization & Marketing and Taxes and Duties), for online retailers by offering innovative solutions.
