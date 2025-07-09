@@ -12,6 +12,7 @@ categories:
   ]
 image: assets/images/20250622-1.webp
 comments: false
+author: TDR
 ---
 
 > As a customs and trade compliance professional with decades of experience in the sector, I've seen firsthand how customs duties can make or break profit margins. Whether you're importing raw materials or finished goods, understanding how customs impacts your bottom line is essential to business survival.

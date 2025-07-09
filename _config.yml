@@ -13,23 +13,22 @@ permalink: /:title/
 
 # Authors
 authors:
-  Jocelyn:
-    name: Jocelyn
-    display_name: Jocelyn
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+  TDR:
+    name: TDR
+    display_name: TDR
+    avatar: assets/images/authors/TDR.webp
     email: contact@tradedutyrefund.com
     web: https://tradedutyrefund.com
-    # twitter: https://twitter.com/wowthemesnet
-    description: Author of Trade Duty Refund Blog.
-  # john:
-    # name: John
-    # display_name: John
-    # avatar: 'assets/images/avatar.png'
-    # gravatar: b1cc14991db7a456fcd761680bbc8f81
-    # email: wowthemesnet@gmail.com
-    # web: https://www.wowthemes.net
-    # twitter: https://twitter.com/wowthemesnet
-    # description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    twitter: https://linkedIn.com/wowthemesnet
+    description: TDR Editors.
+  Mark:
+    name: Mark Neville
+    display_name: Mark Neville
+    avatar: assets/images/authors/mark.webp
+    email: mkneville@itctradelaw.com
+    web: https://itctradelaw.com
+    twitter: https://www.linkedin.com/in/mark-neville-a0016521/
+    description: "Mark Neville is Principal of International Trade Counsellors. He has considerable experience in the field of international trade and customs affairs and international commercial transactions. He has successfully advised numerous United States and foreign-based companies on strategic matters of planning, compliance and enhanced efficiencies."
 
 # Plugins
 plugins:
