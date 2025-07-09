@@ -61,6 +61,6 @@ Even with the best systems in place, companies often overpay duties—whether th
 
 A duty refund program such as duty drawback or duty free returns allows companies to recover duties paid unnecessarily—sometimes going back several years.
 
-This can be a powerful way to recapture lost margin without altering your sourcing strategy or increasing sales. Set up a free discovery call with an expert from [Trade Duty Refund](https://https://tradedutyrefund.com/make-an-appointment.html?utm_source=Blog&utm_medium=Article&utm_campaign=20250622Article) to learn more!
+This can be a powerful way to recapture lost margin without altering your sourcing strategy or increasing sales. Set up a free discovery call with an expert from [Trade Duty Refund](https://tradedutyrefund.com/make-an-appointment.html?utm_source=Blog&utm_medium=Article&utm_campaign=20250622Article) to learn more!
 
 <strong>Pro Tip:</strong> Many businesses qualify for refunds without realizing it. A retrospective review by customs experts can uncover significant recoverable amounts—and quickly turn sunk costs into reclaimed profits.
