@@ -7,12 +7,11 @@ categories:
     cross-border returns,
     customs regulations,
     international trade efficiency,
-    duty drawback refunds,
+    duty drawback,
     retail returns,
     e-commerce trends,
     consumer behavior,
     global retailers,
-    duty refunds,
     e-commerce experts,
   ]
 image: assets/images/20250417-1.png

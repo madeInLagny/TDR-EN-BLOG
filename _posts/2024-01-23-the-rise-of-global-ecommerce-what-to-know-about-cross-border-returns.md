@@ -2,7 +2,7 @@
 layout: post
 title:  "The Rise of Global eCommerce: what to know about cross-border returns"
 description: Explore global eCommerce growth, challenges in cross-border returns, and how Trade Duty Refund can help businesses reclaim duties efficiently. Schedule a free discovery call with TDR for insights into 2024 trade and customs regulations.
-categories: [ global eCommerce, cross-border returns, customs regulations, supply chain management, ai-powered logistics ]
+categories: [returns, supply chain management, ai]
 image: assets/images/20240123-1.webp
 comments: false
 ---

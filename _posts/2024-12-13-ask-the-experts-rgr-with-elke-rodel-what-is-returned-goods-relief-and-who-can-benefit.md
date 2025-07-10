@@ -8,7 +8,7 @@ categories:
     cross-border trade,
     e-commerce trends,
     international trade efficiency,
-    duty drawback refunds,
+    duty drawback,
   ]
 image: assets/images/20241213-1.webp
 comments: false

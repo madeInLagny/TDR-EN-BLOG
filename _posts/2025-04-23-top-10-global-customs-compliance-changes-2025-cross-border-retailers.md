@@ -2,7 +2,7 @@
 layout: post
 title: "Top 10 Global Customs and Compliance Changes in 2025: Essential Insights for Cross-Border Retailers"
 description: "Discover the top 10 global customs and compliance changes in 2025 impacting cross-border retailers, e-commerce, and duty refunds. Learn how to navigate new regulations and reclaim duties efficiently."
-categories: [global ecommerce, customs regulations, cross-border returns, international trade efficiency, duty drawback refunds]
+categories: [global ecommerce, customs regulations, cross-border returns, international trade efficiency, duty drawback]
 image: assets/images/20250423-1.webp
 comments: false
 ---

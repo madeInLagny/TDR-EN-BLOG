@@ -9,11 +9,11 @@ categories:
     supply chain management,
     customs operations,
     international trade efficiency,
-    duty drawback refunds,
-    vat implications,
+    duty drawback,
+    vat,
     cross-border trade,
     e-commerce trends,
-    ai-powered customs duty refunds,
+    ai,
   ]
 image: assets/images/20250331-1.webp
 comments: false

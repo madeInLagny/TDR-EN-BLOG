@@ -2,7 +2,7 @@
 layout: post
 title: "e-Book: Practical Guide to Customs Duties on Returns"
 description: "Download our free e-Book to understand customs duties on returns, key regulations, strategies, and how to reclaim duties efficiently."
-categories: [duty refunds, duty drawback, duty free returns, reclaim duties, e-commerce experts]
+categories: [duty drawback, duty free returns, e-commerce experts]
 image: assets/images/20250130-1.webp
 comments: false
 ---

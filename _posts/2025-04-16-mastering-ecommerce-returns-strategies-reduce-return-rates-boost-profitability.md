@@ -11,9 +11,9 @@ categories:
     customer satisfaction,
     e-commerce trends,
     e-commerce experts,
-    duty drawback refunds,
-    vat implications,
-    customs duty drawback,
+    duty drawback,
+    vat,
+    duty drawback,
   ]
 image: assets/images/20250416-1.webp
 comments: false

@@ -2,7 +2,7 @@
 layout: post_no_image
 title: "Customs Duties Strategies Part 3 - Returned Goods Relief (RGR)"
 description: "Explore strategies for claiming back or avoiding customs duties with Returned Goods Relief, a customs process for duty-free re-importation."
-categories: [customs regulations, duty refunds, duty drawback, cross-border trade, e-commerce experts]
+categories: [customs regulations, duty drawback, cross-border trade, e-commerce experts]
 image: assets/images/20250127-1.webp
 comments: false
 ---

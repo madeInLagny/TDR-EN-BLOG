@@ -5,11 +5,11 @@ description: "Discover how partnering with experts can help cross-border retaile
 categories:
   [
     customs regulations,
-    duty drawback refunds,
+    duty drawback,
     international trade efficiency,
     cross-border trade,
     e-commerce trends,
-    ai-powered customs duty refunds,
+    ai,
   ]
 image: assets/images/20250313-1.webp
 comments: false

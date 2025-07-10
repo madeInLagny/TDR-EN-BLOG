@@ -2,7 +2,7 @@
 layout: post
 title: "Navigating the 23% Return Rate in Luxury E-commerce: Strategies for Cross-Border Retailers"
 description: "Explore the challenges of a 23% return rate in luxury e-commerce and learn how cross-border retailers can manage duty drawback and reclaim duties."
-categories: [cross-border returns, customs regulations, international trade efficiency, duty drawback refunds, retail returns, customs costs, cross-border trade, e-commerce trends, duty refund in Europe, b2c refund solution]
+categories: [cross-border returns, customs regulations, international trade efficiency, duty drawback, retail returns, customs costs, cross-border trade, e-commerce trends, eu, b2c refund solution]
 image: assets/images/20250225-1.jpeg
 comments: false
 ---

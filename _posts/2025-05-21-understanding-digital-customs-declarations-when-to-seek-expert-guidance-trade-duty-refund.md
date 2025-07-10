@@ -6,9 +6,9 @@ categories:
   [
     customs regulations,
     supply chain management,
-    ai in trade,
+    ai,
     cross-border trade,
-    logistics management,
+    supply chain management,
   ]
 image: assets/images/20250521-1.webp
 comments: false

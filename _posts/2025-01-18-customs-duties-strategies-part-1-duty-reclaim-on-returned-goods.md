@@ -5,7 +5,7 @@ description: "Learn how to save costs with effective customs duty strategies, in
 categories:
   [
     customs regulations,
-    duty drawback refunds,
+    duty drawback,
     international trade efficiency,
     cross-border trade,
     retail returns,

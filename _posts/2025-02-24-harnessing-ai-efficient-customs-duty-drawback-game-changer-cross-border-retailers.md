@@ -2,7 +2,7 @@
 layout: post
 title: "Harnessing AI for Efficient Customs Duty Drawback: A Game Changer for Cross-Border Retailers"
 description: "Discover how AI enhances customs duty drawback for cross-border retailers, optimizing duty refunds and streamlining international trade efficiency."
-categories: [ai in trade, customs operations, international trade efficiency, ai-powered customs duty refunds, cross-border trade]
+categories: [customs operations, international trade efficiency, ai, cross-border trade]
 image: assets/images/20250224-1.webp
 comments: false
 ---

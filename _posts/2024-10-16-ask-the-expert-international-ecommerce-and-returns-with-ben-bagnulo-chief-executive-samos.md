@@ -2,7 +2,7 @@
 layout: post
 title: "Ask the Expert: International e-Commerce and Returns with Ben Bagnulo, Chief Executive, SAMOS"
 description: "Explore insights on international e-commerce and logistics challenges from Ben Bagnulo, Chief Executive of SAMOS, focusing on solutions and partnerships."
-categories: [ask the expert, global retailers, cross-border trade, logistics management, customs costs]
+categories: [ask the expert, global retailers, cross-border trade, supply chain management, customs costs]
 image: assets/images/20241016-1.webp
 comments: false
 featured: false

@@ -2,7 +2,7 @@
 layout: post
 title: "The Hidden Costs of Non-Compliance in the Customs Duties Sector"
 description: "Explore the hidden costs of non-compliance in customs duties and learn strategies to mitigate risks in global trade."
-categories: [customs regulations, supply chain management, global ecommerce, cross-border trade, logistics management]
+categories: [customs regulations, supply chain management, global ecommerce, cross-border trade, supply chain management]
 image: assets/images/20250508-1.jpg
 comments: false
 ---

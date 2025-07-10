@@ -2,7 +2,7 @@
 layout: post
 title:  "Maximizing Returns: How Global Retailers Can Reclaim Customs Duties on Returned Items"
 description: Discover how global retailers can reclaim customs duties on returned items. Learn regulations, record-keeping, timely claims, tech solutions & professional guidance.
-categories: [global retailers, cross-border returns, customs regulations, duty drawback refunds, international trade efficiency]
+categories: [global retailers, cross-border returns, customs regulations, duty drawback, international trade efficiency]
 image: assets/images/20240501-1.jpg
 comments: false
 ---

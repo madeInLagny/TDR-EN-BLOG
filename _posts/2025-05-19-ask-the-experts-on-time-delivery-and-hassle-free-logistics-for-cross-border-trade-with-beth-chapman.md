@@ -2,7 +2,7 @@
 layout: post
 title: "Ask the Experts: On-Time Delivery and Hassle-Free Logistics for Cross-Border Trade with Beth Chapman"
 description: "Discover insights from Beth Chapman on managing global logistics and ensuring smooth cross-border trade for retailers."
-categories: [global ecommerce, cross-border returns, logistics management, ask the expert, supply chain management]
+categories: [global ecommerce, cross-border returns, supply chain management, ask the expert, supply chain management]
 image: assets/images/20250519-1.webp
 comments: false
 featured: true

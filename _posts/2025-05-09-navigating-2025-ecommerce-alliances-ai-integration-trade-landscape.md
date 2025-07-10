@@ -2,7 +2,7 @@
 layout: post
 title: "Navigating 2025: E-Commerce Alliances and AI Integration in a Shifting Trade Landscape"
 description: "Explore how e-commerce sellers are uniting in 2025 to tackle tariffs, supply chain issues, and AI integration for enhanced trade efficiency."
-categories: [global ecommerce, ai in trade, customs regulations, supply chain management, partnership]
+categories: [global ecommerce, ai, customs regulations, supply chain management, partnership]
 image: assets/images/20250509-1.webp
 comments: false
 ---

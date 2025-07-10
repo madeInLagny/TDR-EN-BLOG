@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Maximizing Duty Drawback: A Guide for Global Retailers and E-commerce Platforms"
-description: "Discover how global retailers and e-commerce platforms can maximize duty drawback refunds, reclaim duties, and optimize cross-border trade with expert insights."
+description: "Discover how global retailers and e-commerce platforms can maximize duty drawback, reclaim duties, and optimize cross-border trade with expert insights."
 categories:
   [
-    duty drawback refunds,
+    duty drawback,
     global retailers,
     cross-border trade,
     e-commerce trends,
     international trade efficiency,
-    ai-powered customs duty refunds,
+    ai,
   ]
 image: assets/images/20250131-1.jpeg
 comments: false

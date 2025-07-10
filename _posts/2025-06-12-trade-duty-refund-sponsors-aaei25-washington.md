@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Trade Duty Refund to Sponsor #AAEI25"
-description: "Trade Duty Refund is proud to sponsor #AAEI25. Contact us to discuss customs duty drawback, B2C refund solutions, and cross-border strategies."
+description: "Trade Duty Refund is proud to sponsor #AAEI25. Contact us to discuss duty drawback, B2C refund solutions, and cross-border strategies."
 categories:
   [
-    duty refunds,
     cross-border trade,
-    customs duty drawback,
+    duty drawback,
     international trade efficiency,
     e-commerce trends,
   ]

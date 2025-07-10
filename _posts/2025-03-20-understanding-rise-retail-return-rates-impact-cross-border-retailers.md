@@ -8,11 +8,11 @@ categories:
     customs regulations,
     global ecommerce,
     retail returns,
-    duty drawback refunds,
+    duty drawback,
     consumer behavior,
     e-commerce trends,
     international trade efficiency,
-    ai-powered customs duty refunds,
+    ai,
     global retailers,
   ]
 image: assets/images/20250320-1.webp

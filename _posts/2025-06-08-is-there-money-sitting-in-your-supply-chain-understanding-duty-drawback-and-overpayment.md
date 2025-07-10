@@ -6,7 +6,7 @@ categories:
   [
     supply chain management,
     customs regulations,
-    duty drawback refunds,
+    duty drawback,
     global ecommerce,
     customs costs,
   ]
