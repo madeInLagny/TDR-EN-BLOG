@@ -3,7 +3,7 @@ layout: post
 title: "Navigating the Complexities of Customs in the UK"
 description: "Streamline your UK customs process with our FAQ guide. Learn about HMRC registration, EORI numbers, customs declarations, and duty reliefs. Get expert help now!."
 categories:
-  [uk, customs regulations, global retailers]
+  [uk, e-commerce]
 image: assets/images/20240806-1.webp
 comments: false
 ---
