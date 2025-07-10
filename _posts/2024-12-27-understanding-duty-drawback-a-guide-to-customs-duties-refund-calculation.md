@@ -2,7 +2,15 @@
 layout: post
 title: "Understanding Duty Drawback: A Guide to Customs Duties Refund Calculation"
 description: "Learn how to calculate customs duty refunds in the EU, UK, and US. Discover key factors and regional differences to maximize duty drawback claims."
-categories: [customs regulations, duty drawback, international trade efficiency, cross-border trade, supply chain management]
+categories:
+  [
+    uk,
+    eu,
+    us,
+    duty drawback,
+    vat,
+    e-commerce, TDR
+  ]
 image: assets/images/20241227-1.webp
 comments: false
 ---

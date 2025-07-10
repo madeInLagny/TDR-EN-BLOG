@@ -2,7 +2,17 @@
 layout: post
 title: "Customs Duty Drawback and Luxury Goods: The Case of the $10,000 Suit"
 description: "Discover how luxury brands can reclaim customs duties on returned goods with this insight into duty drawback and international trade efficiency."
-categories: [cross-border retailers, duty drawback, international trade efficiency]
+categories:
+  [
+    eu,
+    us,
+    duty drawback,
+    duty-free returns,
+    b2c,
+    e-commerce,
+    ai,
+    TDR
+  ]
 image: assets/images/20250207-1.webp
 comments: false
 ---

@@ -4,7 +4,7 @@ title: "Seasonal Fluctuations in Retail Returns: Key Insights for Cross-Border R
 description: "Discover how seasonal trends impact retail returns and how cross-border retailers can optimize duty refunds and customs duty drawback for better efficiency."
 categories:
   [
-    duty drawback, duty-free returns, e-commerce
+    duty drawback, duty-free returns, e-commerce, TDR
   ]
 image: assets/images/20250417-1.png
 comments: false

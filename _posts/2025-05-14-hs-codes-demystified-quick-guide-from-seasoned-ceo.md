@@ -2,7 +2,7 @@
 layout: post
 title: "HS Codes Demystified: A Quick Guide from a Seasoned CEO"
 description: "Learn the importance of HS codes in global trade from a seasoned CEO. Avoid costly mistakes and ensure compliance."
-categories: [ask the experts, e-commerce]
+categories: [ask the experts, e-commerce, TDR]
 image: assets/images/20250514-1.webp
 comments: false
 ---

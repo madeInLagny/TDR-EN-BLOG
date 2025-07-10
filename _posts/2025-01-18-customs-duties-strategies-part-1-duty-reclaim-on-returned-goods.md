@@ -4,11 +4,10 @@ title: "Customs Duties Strategies: Part 1 - Duty Reclaim on Returned Goods"
 description: "Learn how to save costs with effective customs duty strategies, including duty reclaim on returned goods for global retailers."
 categories:
   [
-    customs regulations,
+    eu,
     duty drawback,
-    international trade efficiency,
-    cross-border trade,
-    retail returns,
+    duty-free returns,
+    e-commerce, TDR
   ]
 image: assets/images/20250118-1.webp
 comments: false

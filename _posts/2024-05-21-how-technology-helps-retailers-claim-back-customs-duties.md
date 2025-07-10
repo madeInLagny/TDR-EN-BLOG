@@ -2,14 +2,7 @@
 layout: post
 title: How Technology Helps Retailers Claim Back Customs Duties
 description: Explore how technology empowers retailers to reclaim customs duties, enhance efficiency, and boost profitability in international trade with Trade Duty Refund solutions.
-categories:
-  [
-    automation,
-    global ecommerce,
-    cross-border returns,
-    blockchain,
-    supply chain management,
-  ]
+categories: [duty drawback, duty-free returns, ai, e-commerce, b2c, TDR]
 image: assets/images/20240521-1.webp
 comments: false
 ---

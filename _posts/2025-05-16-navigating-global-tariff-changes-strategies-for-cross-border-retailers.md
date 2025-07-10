@@ -2,7 +2,15 @@
 layout: post
 title: "Navigating Global Tariff Changes: Strategies for Cross-Border Retailers"
 description: "Discover how global tariff changes impact cross-border retailers and strategies to manage customs duties and compliance effectively."
-categories: [global ecommerce, customs regulations, cross-border trade, duty drawback, international trade efficiency]
+categories:
+  [
+    us,
+    eu,
+    duty drawback,
+    duty-free returns,
+    e-commerce,
+    TDR
+  ]
 image: assets/images/20250516-1.webp
 comments: false
 ---

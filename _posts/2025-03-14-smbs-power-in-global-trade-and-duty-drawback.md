@@ -2,7 +2,14 @@
 layout: post
 title: "The Power of SMBs in Global Trade and Duty Drawback"
 description: "Discover how SMBs drive global trade and benefit from customs duty drawback. Learn about duty refunds and international duty reclaim for cross-border retailers."
-categories: [cross-border trade, customs regulations, duty drawback, international trade efficiency, ai]
+categories:
+  [
+    us,
+    duty drawback,
+    b2c,
+    e-commerce,
+    TDR
+  ]
 image: assets/images/20250314-1.jpeg
 comments: false
 ---

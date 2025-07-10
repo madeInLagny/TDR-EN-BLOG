@@ -4,11 +4,12 @@ title: "Understanding Digital Customs Declarations and When to Seek Expert Guida
 description: "Explore the shift to digital customs declarations, the importance of compliance, and when to seek expert guidance for seamless cross-border trade."
 categories:
   [
-    customs regulations,
-    supply chain management,
+    us,
+    uk,
+    eu,
     ai,
-    cross-border trade,
-    supply chain management,
+    e-commerce,
+    TDR
   ]
 image: assets/images/20250521-1.webp
 comments: false

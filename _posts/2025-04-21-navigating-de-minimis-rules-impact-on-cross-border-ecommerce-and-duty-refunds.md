@@ -2,7 +2,7 @@
 layout: post
 title: "Navigating De Minimis Rules: Impact on Cross-Border E-Commerce and Duty Refunds"
 description: "Explore the impact of de minimis rules on cross-border e-commerce and how businesses can navigate duty refunds and customs regulations."
-categories: [us, duty drawback, e-commerce]
+categories: [us, duty drawback, e-commerce, TDR]
 image: assets/images/20250421-1.jpg
 comments: false
 ---

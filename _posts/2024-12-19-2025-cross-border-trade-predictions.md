@@ -4,11 +4,9 @@ title: "2025 Predictions for Cross-Border Trade and Logistics"
 description: "Explore expert insights on 2025 trends in cross-border trade, including tariffs, supply chain shifts, and global trade barriers."
 categories:
   [
-    tariffs,
-    cross-border trade,
-    supply chain management,
-    global trade trends,
-    customs operations,
+    us,
+    duty drawback,
+    e-commerce, TDR
   ]
 image: assets/images/20241219-1.webp
 comments: false

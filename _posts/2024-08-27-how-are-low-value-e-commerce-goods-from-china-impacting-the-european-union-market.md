@@ -2,8 +2,7 @@
 layout: post
 title: "How are Low-Value e-Commerce Goods from China Impacting the European Union Market"
 description: "Impact of low-value Chinese e-commerce goods on the EU market: intensified price competition, overwhelmed logistics, tax challenges, and rising demand for ethical consumption."
-categories:
-  [global ecommerce, eu, cross-border trade, vat, consumer behavior]
+categories: [eu, vat, e-commerce, b2c, TDR]
 image: assets/images/20240827-1.jpg
 comments: false
 ---

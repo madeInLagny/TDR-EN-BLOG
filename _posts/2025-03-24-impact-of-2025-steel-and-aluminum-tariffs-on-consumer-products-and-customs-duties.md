@@ -2,7 +2,7 @@
 layout: post
 title: "Impact of 2025 Steel and Aluminum Tariffs on Consumer Products and Customs Duties"
 description: "Discover how the 2025 steel and aluminum tariffs will affect consumer products, supply chains, and customs duties. Learn about duty drawback and refund solutions."
-categories: [us, duty drawback, ai, e-commerce]
+categories: [us, duty drawback, ai, e-commerce, TDR]
 image: assets/images/20250324-1.webp
 comments: false
 ---

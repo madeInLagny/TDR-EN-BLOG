@@ -2,7 +2,7 @@
 layout: post
 title: "Green Tariffs and Customs Duty Refunds: A Sustainable Approach for Cross-Border Retailers"
 description: "Discover how green tariffs and customs duty refunds impact cross-border retailers. Learn about duty drawback, EU customs reforms, and sustainable trade practices."
-categories: [eu, duty drawback, e-commerce]
+categories: [eu, duty drawback, e-commerce, TDR]
 image: assets/images/20250424-1.webp
 comments: false
 ---

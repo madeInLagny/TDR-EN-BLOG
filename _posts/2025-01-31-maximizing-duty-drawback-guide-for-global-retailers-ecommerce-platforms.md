@@ -4,13 +4,13 @@ title: "Maximizing Duty Drawback: A Guide for Global Retailers and E-commerce Pl
 description: "Discover how global retailers and e-commerce platforms can maximize duty drawback, reclaim duties, and optimize cross-border trade with expert insights."
 categories:
   [
+    us,
+    eu,
     duty drawback,
-    global retailers,
-    cross-border trade,
-    e-commerce trends,
-    international trade efficiency,
-    ai,
+    e-commerce,
+    TDR
   ]
+
 image: assets/images/20250131-1.jpeg
 comments: false
 ---

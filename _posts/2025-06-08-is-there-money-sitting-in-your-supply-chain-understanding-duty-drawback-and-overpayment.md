@@ -4,11 +4,12 @@ title: "Is There Money Sitting in Your Supply Chain? Understanding Duty Drawback
 description: "Discover how to reclaim millions in unclaimed duty refunds and optimize your supply chain with duty drawback and overpayment insights."
 categories:
   [
-    supply chain management,
-    customs regulations,
+    us,
+    eu,
     duty drawback,
-    global ecommerce,
-    customs costs,
+    duty-free returns,
+    e-commerce,
+    TDR
   ]
 image: assets/images/20250608-1.webp
 comments: false

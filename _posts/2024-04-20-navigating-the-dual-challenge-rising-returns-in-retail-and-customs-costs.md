@@ -2,7 +2,7 @@
 layout: post
 title:  "Navigating the Dual Challenge: Rising Returns in Retail and Customs Costs"
 description: Discover how retailers can navigate rising returns and customs costs effectively. Learn strategies to optimize operations and enhance customer satisfaction
-categories: [retail returns, customs costs, cross-border trade, supply chain management, customer satisfaction]
+categories: [eu, duty drawback, duty-free returns, ai, e-commerce, b2c, TDR]
 image: assets/images/20240420-1.webp
 comments: false
 ---

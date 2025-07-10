@@ -4,7 +4,7 @@ title: "Navigating U.S. Customs Duties: A 2025 Guide for European Retailers"
 description: "Discover essential tips for European retailers shipping to the U.S., including customs duty drawback, de minimis thresholds, and expert advice for cross-border trade."
 categories:
   [
-    us, eu, vat, e-commerce
+    us, eu, vat, e-commerce, TDR
     
   ]
 image: assets/images/20250331-1.webp

@@ -4,17 +4,11 @@ title: "The Potential Impact of U.S. Tariffs on Customs Duties and Duty Drawback
 description: "Explore how U.S. tariffs influence customs duties and duty drawback, affecting cross-border retailers and international trade efficiency. Learn about duty refunds and reclaim strategies."
 categories:
   [
-    cross-border returns,
-    customs regulations,
-    supply chain management,
-    customs operations,
-    international trade efficiency,
+    us,
     duty drawback,
-    vat,
-    retail returns,
-    customs costs,
-    cross-border trade,
-    e-commerce trends,
+    duty-free returns,
+    e-commerce,
+    TDR
   ]
 image: assets/images/20250227-1.png
 comments: false

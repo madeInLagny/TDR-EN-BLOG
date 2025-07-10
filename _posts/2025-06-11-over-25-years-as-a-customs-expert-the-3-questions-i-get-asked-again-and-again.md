@@ -2,7 +2,15 @@
 layout: post
 title: "Over 25 years as a Customs Expert, the 3 Questions I Get Asked Again and Again"
 description: "Expert insights on customs compliance, classification, duty savings, and audit preparation for global trade."
-categories: [customs regulations, supply chain management, duty drawback, ask the expert, international trade efficiency]
+categories:
+  [
+    us,
+    eu,
+    duty drawback,
+    ask the experts,
+    e-commerce,
+    TDR
+  ]
 image: assets/images/20250611-1.jpg
 comments: false
 ---

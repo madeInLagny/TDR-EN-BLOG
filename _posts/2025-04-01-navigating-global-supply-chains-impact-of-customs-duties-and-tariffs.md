@@ -4,11 +4,12 @@ title: "Navigating Global Supply Chains: The Impact of Customs Duties and Tariff
 description: "Explore how customs duties and tariffs affect global supply chains, and learn strategies for cross-border retailers to manage costs and optimize duty drawback."
 categories:
   [
-    customs regulations,
-    supply chain management,
-    international trade efficiency,
+    us,
     duty drawback,
-    cross-border trade,
+    duty-free returns,
+    e-commerce,
+    ai,
+    TDR
   ]
 image: assets/images/20250401-1.webp
 comments: false

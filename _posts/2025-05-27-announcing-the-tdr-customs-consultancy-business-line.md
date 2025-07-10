@@ -4,7 +4,7 @@ title: "Announcing The TDR Customs Consultancy Business Line"
 description: "Discover how TDR Customs Consultancy aids cross-border retailers with duty refunds, compliance, and strategic trade solutions."
 categories:
   [
-    duty drawback, ask the experts, e-commerce
+    duty drawback, ask the experts, e-commerce, TDR
   ]
 image: assets/images/20250527-1.webp
 comments: false

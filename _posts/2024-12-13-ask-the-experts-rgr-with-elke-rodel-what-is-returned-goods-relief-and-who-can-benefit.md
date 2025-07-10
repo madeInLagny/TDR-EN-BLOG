@@ -2,14 +2,7 @@
 layout: post
 title: "Ask the Experts: RGR with Elke Rödel - What is Returned Goods Relief and Who Can Benefit?"
 description: "Learn about Returned Goods Relief (RGR) with Elke Rödel, an expert in customs and international trade, and how it benefits global businesses."
-categories:
-  [
-    customs regulations,
-    cross-border trade,
-    e-commerce trends,
-    international trade efficiency,
-    duty drawback,
-  ]
+categories: [ask the experts, eu, uk, us, duty drawback, duty-free returns, e-commerce, b2c, TDR]
 image: assets/images/20241213-1.webp
 comments: false
 featured: false

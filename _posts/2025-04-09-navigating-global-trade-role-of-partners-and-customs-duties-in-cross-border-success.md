@@ -2,7 +2,7 @@
 layout: post
 title: "Navigating Global Trade: The Role of Partners and Customs Duties in Cross-Border Success"
 description: "Discover how an ecosystem of partners drives success in global trade, focusing on customs duties, duty drawback, and international trade efficiency."
-categories: [eu, duty drawback, ai, vat, e-commerce]
+categories: [eu, duty drawback, ai, vat, e-commerce, TDR]
 image: assets/images/20250409-1.jpg
 comments: false
 ---

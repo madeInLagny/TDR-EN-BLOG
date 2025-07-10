@@ -4,11 +4,12 @@ title: "Customs, Compliance, and Margins: Where Trade Strategy Meets Profitabili
 description: "Explore how customs duties impact profit margins and strategies to optimize trade compliance for better profitability."
 categories:
   [
-    customs regulations,
-    supply chain management,
-    international trade efficiency,
+    us,
+    eu,
     duty drawback,
-    cross-border trade,
+    duty-free returns,
+    e-commerce,
+    TDR
   ]
 image: assets/images/20250622-1.webp
 comments: false

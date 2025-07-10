@@ -2,14 +2,7 @@
 layout: post
 title: "10 Key Statistics on Cross-Border Trade All Retailers Should Know"
 description: Explore key statistics shaping cross-border trade in 2024. Learn how global e-commerce growth, consumer behavior, and return trends impact retailers and online sales.
-categories:
-  [
-    cross-border trade,
-    global ecommerce,
-    retail returns,
-    consumer behavior,
-    e-commerce trends,
-  ]
+categories: [duty drawback, duty-free returns, ai, e-commerce, b2c, TDR]
 image: assets/images/20240709-1.webp
 comments: false
 ---

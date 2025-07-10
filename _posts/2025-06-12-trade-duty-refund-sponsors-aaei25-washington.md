@@ -4,10 +4,14 @@ title: "Trade Duty Refund to Sponsor #AAEI25"
 description: "Trade Duty Refund is proud to sponsor #AAEI25. Contact us to discuss duty drawback, B2C refund solutions, and cross-border strategies."
 categories:
   [
-    cross-border trade,
+    us,
+    uk,
+    eu,
     duty drawback,
-    international trade efficiency,
-    e-commerce trends,
+    duty-free returns,
+    b2c,
+    e-commerce,
+    TDR
   ]
 image: assets/images/20250612-1.jpg
 comments: false

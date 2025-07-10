@@ -2,7 +2,7 @@
 layout: post
 title: "How to Calculate Customs Duty Refunds in the EU: A Practical Guide"
 description: "Learn how to reclaim customs duties paid on imported goods in the EU. This guide covers eligibility, documentation, and steps for calculating your refund."
-categories: [customs regulations, duty drawback, eu, cross-border trade, global retailers]
+categories: [eu, duty drawback, duty-free returns, e-commerce, b2c, TDR]
 image: assets/images/20240917-1.webp
 comments: false
 ---

@@ -2,7 +2,13 @@
 layout: post_no_image
 title: "Customs Duties Strategies: Part 2 - U.S. Duty Drawback"
 description: "Discover what U.S. Duty Drawback is, how it works, and quick eligibility criteria for global retailers importing and exporting merchandise."
-categories: [duty drawback, cross-border trade, customs regulations, global retailers]
+categories:
+  [
+    us,
+    duty drawback,
+    b2c,
+    e-commerce, TDR
+  ]
 image: assets/images/20250120-1.webp
 comments: false
 ---

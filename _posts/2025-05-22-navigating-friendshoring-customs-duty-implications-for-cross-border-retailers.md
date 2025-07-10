@@ -4,7 +4,7 @@ title: "Navigating Friendshoring: Customs Duty Implications for Cross-Border Ret
 description: "Explore how friendshoring impacts customs duties for cross-border retailers and learn strategies to optimize duty refunds and reclaim duties efficiently."
 categories:
   [
-    eu, duty drawback, e-commerce
+    eu, duty drawback, e-commerce, TDR
   ]
 image: assets/images/20250522-1.webp
 comments: false

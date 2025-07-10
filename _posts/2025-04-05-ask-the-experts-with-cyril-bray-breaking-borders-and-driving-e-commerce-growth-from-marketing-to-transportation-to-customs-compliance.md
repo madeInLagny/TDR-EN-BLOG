@@ -4,11 +4,12 @@ title: "Ask the Experts with Cyril Bray: Breaking Borders and Driving e-Commerce
 description: "Discover insights from Cyril Bray of Glopal on overcoming cross-border e-commerce challenges, from localization to customs compliance."
 categories:
   [
-    global ecommerce,
-    customs regulations,
-    cross-border trade,
-    international trade efficiency,
-    ask the expert,
+    us,
+    eu,
+    duty drawback,
+    ask the experts,
+    e-commerce,
+    TDR
   ]
 image: assets/images/20250405-1.webp
 comments: false

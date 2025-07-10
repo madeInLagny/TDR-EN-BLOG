@@ -2,7 +2,7 @@
 layout: post
 title: "Mastering Harmonized Tariff Schedule: A Guide for Cross-Border Retailers"
 description: "Discover how to optimize your cross-border retail operations with a comprehensive guide to Harmonized Tariff Schedule (HTS) codes and duty refunds."
-categories: [duty drawback, us, e-commerce]
+categories: [duty drawback, us, e-commerce, TDR]
 image: assets/images/20250306-1.webp
 comments: false
 ---
