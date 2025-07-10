@@ -8,6 +8,7 @@ categories:
   ]
 image: assets/images/20250320-1.webp
 comments: false
+author: TDR
 ---
 
 > In today's retail landscape, consumers have an unprecedented number of purchasing options, from online shopping to global retailers. This shift has led to a significant increase in return rates, particularly in the clothing sector. Consumers often buy excess items with the intention of returning unwanted ones, or they find that online descriptions do not meet their expectations, leading to buyer's remorse.

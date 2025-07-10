@@ -5,6 +5,7 @@ description: Unlock VAT and Customs Duties insights for international merchants.
 categories: [ vat, uk, eu, duty-free returns, e-commerce, TDR ]
 image: assets/images/20231212-1.webp
 comments: false
+author: TDR
 ---
 >International trade is booming. In fact, the global eCommerce market continues to grow rapidly with over 20% of global retail sales done online [^1]. Globalization and technology have created endless opportunities in international commerce, but the tricky business of understanding taxes and duties remain daunting. Trade Duty Refund is here to help, and explains some must-know concepts when it comes to fiscal responsibility.
 

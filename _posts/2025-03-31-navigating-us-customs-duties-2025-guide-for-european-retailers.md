@@ -9,6 +9,7 @@ categories:
   ]
 image: assets/images/20250331-1.webp
 comments: false
+author: TDR
 ---
 
 > Expanding into the U.S. market presents significant opportunities for European retailers, but navigating customs duties remains a critical challenge, especially with the evolving policies of the new administration. Recent changes in U.S. tariff policies and customs regulations have made it crucial for retailers to stay informed and compliant.

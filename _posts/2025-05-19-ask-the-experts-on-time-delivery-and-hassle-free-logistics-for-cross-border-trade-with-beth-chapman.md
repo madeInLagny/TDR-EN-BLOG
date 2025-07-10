@@ -14,6 +14,7 @@ image: assets/images/20250519-1.webp
 comments: false
 featured: true
 hidden: true
+author: TDR
 ---
 > Our Ask the Experts series is switching gears this month and taking a look at cross-border logistics and the complexities in ensuring on-time delivery for consumers, and hassle-free logistics for retailers.
 Trade Duty Refund spent some time with **Beth Chapman**, Managing Director at [Starlinks Global](https://starlinks-global.com/), to better understand how to manage global logistics and how to plan for the future. Starlinks Global offers global delivery solutions for seamless cross-border trade in order to help retailers deliver to over 200 countries.

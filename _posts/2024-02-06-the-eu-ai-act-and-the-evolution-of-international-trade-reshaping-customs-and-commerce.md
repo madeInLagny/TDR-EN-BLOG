@@ -5,6 +5,7 @@ description: Discover how AI is transforming international trade and customs ope
 categories: [eu, ai, duty drawback, e-commerce, TDR]
 image: assets/images/20240206-1.webp
 comments: false
+author: TDR
 ---
 >Artificial Intelligence (AI) has certainly taken the world by storm. In recent years, we have seen the benefits that AI technology can bring to business and society in terms of innovation, efficiency and creativity, however many have also experienced the dark side of AI from bias to security breaches. As businesses navigate the complexities of global commerce, AI emerges as a powerful tool, revolutionizing customs operations, supply chains, and fostering greater efficiency in cross-border trade.
 

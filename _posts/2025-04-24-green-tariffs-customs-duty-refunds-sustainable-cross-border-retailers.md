@@ -5,6 +5,7 @@ description: "Discover how green tariffs and customs duty refunds impact cross-b
 categories: [eu, duty drawback, e-commerce, TDR]
 image: assets/images/20250424-1.webp
 comments: false
+author: TDR
 ---
 
 > As the world celebrates Earth Day, it's essential to recognize the connection between environmental sustainability and customs duties. Globally, consumers are shifting towards eco-friendly brands, and companies are striving to reduce their carbon footprint in trade routes. Many countries are implementing "green" trade policies, from tariffs on carbon-intensive products to tax exemptions for clean technologies. [**Trade Duty Refund**](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Article&utm_campaign=20250424Article) is at the forefront of these customs regulations and compliance.

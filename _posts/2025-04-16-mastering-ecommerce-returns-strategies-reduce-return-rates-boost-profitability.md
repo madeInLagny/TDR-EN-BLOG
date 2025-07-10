@@ -8,6 +8,7 @@ categories:
   ]
 image: assets/images/20250416-1.webp
 comments: false
+author: TDR
 ---
 > Want to make returns easy and uncomplicated? Learn the average return rate and strategies to reduce returns in your retail business, especially for cross-border retailers dealing with duty refunds and duty drawback.
 

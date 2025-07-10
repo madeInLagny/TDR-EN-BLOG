@@ -5,6 +5,7 @@ description: Explore how technology empowers retailers to reclaim customs duties
 categories: [duty drawback, duty-free returns, ai, e-commerce, b2c, TDR]
 image: assets/images/20240521-1.webp
 comments: false
+author: TDR
 ---
 
 > In the intricate web of global commerce, customs duties represent a significant cost factor for retailers involved in international trade. With the rise of eCommerce, goods traveling across borders are increasing significantly every year, and that means so are returned items.

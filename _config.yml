@@ -15,13 +15,13 @@ permalink: /:title/
 authors:
   TDR:
     name: TDR
-    display_name: TDR
+    display_name:
     tag: TDR
     avatar: assets/images/authors/TDR.webp
     email: contact@tradedutyrefund.com
     web: https://tradedutyrefund.com
-    twitter: https://linkedIn.com/wowthemesnet
-    description: TDR Editors.
+    twitter: https://www.linkedin.com/company/trade-duty-refund
+    description: 
   mark-neville:
     name: Mark Neville
     display_name: Mark Neville

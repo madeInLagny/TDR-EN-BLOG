@@ -5,6 +5,7 @@ description: Navigate global e-Commerce challenges with dedicated customs broker
 categories: [eu, duty drawback, duty-free returns, ai, e-commerce, b2c, TDR]
 image: assets/images/20240529-1.jpg
 comments: false
+author: TDR
 ---
 >As the e-Commerce landscape continues to expand globally, businesses face increasing challenges in managing international shipping and logistics. Navigating the complexities of customs regulations, tariffs and documentation can be daunting, especially for smaller e-Commerce platforms. Partnering with customs brokers, especially dedicated brokers, offers a strategic solution to streamline cross-border trade, ensuring compliance and efficiency.
 

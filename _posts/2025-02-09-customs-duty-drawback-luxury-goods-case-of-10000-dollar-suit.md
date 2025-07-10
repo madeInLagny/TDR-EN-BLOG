@@ -15,6 +15,7 @@ categories:
   ]
 image: assets/images/20250207-1.webp
 comments: false
+author: TDR
 ---
 >Are you a luxury goods company involved in cross-border trade? If so, you likely ship high-quality goods abroad that are subject to customs duties due to their premium pricing. But what happens when these goods are returned? Often, luxury brands face another round of customs duties upon re-importing items. This scenario highlights the importance of understanding **duty drawback** and how solutions like [**Trade Duty Refund**](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Link&utm_campaign=20250207Article) can assist in reclaiming these duties.
 

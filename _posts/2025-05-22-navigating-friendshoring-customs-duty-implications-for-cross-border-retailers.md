@@ -8,6 +8,7 @@ categories:
   ]
 image: assets/images/20250522-1.webp
 comments: false
+author: TDR
 ---
 
 > In today's unpredictable global trade landscape, friendshoring is emerging as a pivotal supply chain strategy for cross-border retailers. However, beyond geopolitical considerations, friendshoring can significantly impact your customs duty exposure.

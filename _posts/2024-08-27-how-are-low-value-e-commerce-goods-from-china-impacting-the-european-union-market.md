@@ -5,6 +5,7 @@ description: "Impact of low-value Chinese e-commerce goods on the EU market: int
 categories: [eu, vat, e-commerce, b2c, TDR]
 image: assets/images/20240827-1.jpg
 comments: false
+author: TDR
 ---
 
 > The rise of e-commerce has revolutionized global trade, connecting consumers and businesses in ways unimaginable just a few decades ago. A major force in this shift has been the influx of low-value goods from China, which have flooded markets across the globe, including the European Union (EU). China is the largest e-Commerce market in the world and its goods serve the third largest single market in the world which is the European Union.

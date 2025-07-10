@@ -13,6 +13,7 @@ categories:
   ]
 image: assets/images/20250516-1.webp
 comments: false
+author: TDR
 ---
 > In today's rapidly evolving global market, cross-border retailers face significant challenges due to fluctuating tariffs. Understanding these changes is crucial for managing costs, ensuring compliance, and optimizing duty drawback opportunities.
 

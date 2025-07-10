@@ -5,6 +5,7 @@ description: "Learn the importance of HS codes in global trade from a seasoned C
 categories: [ask the experts, e-commerce, TDR]
 image: assets/images/20250514-1.webp
 comments: false
+author: TDR
 ---
 
 > In my 30+ years navigating global trade, I’ve learned that success in cross-border commerce can depend on one deceptively simple detail: the Harmonized System (HS) code.

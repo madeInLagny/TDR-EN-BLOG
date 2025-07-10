@@ -5,6 +5,7 @@ description: Discover how global retailers can reclaim customs duties on returne
 categories: [duty drawback, duty-free returns, ai, e-commerce, b2c, TDR]
 image: assets/images/20240501-1.jpg
 comments: false
+author: TDR
 ---
 >For global retailers, managing returns is an inevitable aspect of doing business. Whether due to customer dissatisfaction, product defects, or other reasons, returned items crossing international borders can incur significant customs duties and taxes, adding to the cost of operations. However, many retailers are unaware that they may be eligible to reclaim customs duties paid on returned items under certain circumstances. In this article, Trade Duty Refund will explore how global retailers can navigate the process of reclaiming customs duties and maximize their returns.
 

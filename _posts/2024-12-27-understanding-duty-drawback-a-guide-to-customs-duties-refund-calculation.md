@@ -13,6 +13,7 @@ categories:
   ]
 image: assets/images/20241227-1.webp
 comments: false
+author: TDR
 ---
 
 > When trading internationally, customs duties can significantly impact your bottom line. Duty drawback programs provide an opportunity to reclaim duties paid during importation, potentially saving your business substantial costs. Learn how to maximize your refunds in the EU, UK, and US.

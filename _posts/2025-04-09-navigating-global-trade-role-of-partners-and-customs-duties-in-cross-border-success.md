@@ -5,6 +5,7 @@ description: "Discover how an ecosystem of partners drives success in global tra
 categories: [eu, duty drawback, ai, vat, e-commerce, TDR]
 image: assets/images/20250409-1.jpg
 comments: false
+author: TDR
 ---
 > International trade is a collaborative effort, relying on a vast ecosystem of partners to move goods efficiently, legally, and profitably across borders. This network includes manufacturers, suppliers, logistics providers, freight forwarders, customs brokers, trade compliance experts, legal consultants, and government agencies. Each partner plays a specialized role, and the success of cross-border trade hinges on their seamless coordination.
 

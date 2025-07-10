@@ -5,6 +5,7 @@ description: "Learn how to reclaim customs duties paid on imported goods in the 
 categories: [eu, duty drawback, duty-free returns, e-commerce, b2c, TDR]
 image: assets/images/20240917-1.webp
 comments: false
+author: TDR
 ---
 
 > Customs duty refunds in the European Union (EU) allow businesses and individuals to reclaim duties paid on imported goods in certain circumstances. Understanding how to calculate these refunds can help you recover funds legally and efficiently. Whether you're an importer, exporter, or a business owner, this guide will walk you through the key factors to consider when calculating your customs duty refund in the EU.

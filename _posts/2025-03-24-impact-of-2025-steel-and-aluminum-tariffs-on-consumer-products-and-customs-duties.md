@@ -5,6 +5,7 @@ description: "Discover how the 2025 steel and aluminum tariffs will affect consu
 categories: [us, duty drawback, ai, e-commerce, TDR]
 image: assets/images/20250324-1.webp
 comments: false
+author: TDR
 ---
 
 > The Trump Administration is implementing new steel and aluminum tariffs in 2025, set to take effect this month, which are poised to shake up industries, supply chains, and pricing for everyday consumer goods. With a 25% tariff on all steel and aluminum imports, including previously exempt countries, the effects will ripple through sectors ranging from automotive and home appliances to packaging and electronics.

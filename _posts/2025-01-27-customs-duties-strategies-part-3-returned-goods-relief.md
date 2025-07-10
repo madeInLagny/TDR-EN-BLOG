@@ -12,6 +12,7 @@ categories:
   ]
 image: assets/images/20250127-1.webp
 comments: false
+author: TDR
 ---
 
 > For the third consecutive week, we are sharing strategies regarding customs duties that help companies either claim back duties or avoid them altogether. This week, we are looking at a quick snapshot of [**Trade Duty Refund**](https://tradedutyrefund.com) - a customs process that permits goods previously exported from a particular territory to be re-imported into that same territory without incurring additional customs duties or taxes.

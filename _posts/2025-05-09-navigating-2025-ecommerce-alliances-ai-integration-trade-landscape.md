@@ -5,6 +5,7 @@ description: "Explore how e-commerce sellers are uniting in 2025 to tackle tarif
 categories: [ai, e-commerce, TDR]
 image: assets/images/20250509-1.webp
 comments: false
+author: TDR
 ---
 
 > In 2025, e-commerce sellers are uniting to navigate the complexities of increased tariffs, supply chain disruptions, and the evolving landscape of AI integration. As highlighted in this recent **Forbes** article, these challenges have prompted a collective response from the global e-commerce community.

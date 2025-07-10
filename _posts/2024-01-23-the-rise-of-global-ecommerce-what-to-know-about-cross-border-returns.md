@@ -5,6 +5,7 @@ description: Explore global eCommerce growth, challenges in cross-border returns
 categories: [uk, eu, duty drawback, ai, duty-free returns, e-commerce, b2c, TDR]
 image: assets/images/20240123-1.webp
 comments: false
+author: TDR
 ---
 >If the digital revolution gave a boost to global business by eliminating physical borders to retail shopping, it may have consequently created a headache when it comes to understanding supply chain logistics and customs regulations. While global merchants may be optimistic about the growth of eCommerce opportunities, their supply chains now include a **reverse logistics process** to manage returns from the consumer back to the merchant which undoubtedly leads to more costs incurred by merchants as products pass through multiple customs checkpoints.
 

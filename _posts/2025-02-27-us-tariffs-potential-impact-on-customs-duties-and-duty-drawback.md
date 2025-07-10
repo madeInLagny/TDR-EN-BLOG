@@ -12,6 +12,7 @@ categories:
   ]
 image: assets/images/20250227-1.png
 comments: false
+author: TDR
 ---
 
 > In recent years, U.S. tariffs have significantly influenced international trade dynamics, directly affecting customs duties and the duty drawback system. For businesses engaged in global commerce, understanding these impacts is crucial to maintaining profitability and competitiveness. Here, we explore a few ways in which U.S. tariffs influence customs duties and duty drawbacks, focusing on **duty refunds** and **duty drawback** strategies for **cross-border retailers**.

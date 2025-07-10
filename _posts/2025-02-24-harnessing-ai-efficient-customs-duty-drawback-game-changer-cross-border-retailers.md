@@ -15,6 +15,7 @@ categories:
   ]
 image: assets/images/20250224-1.webp
 comments: false
+author: TDR
 ---
 > In the realm of international trade, AI is revolutionizing customs duty drawback processes, offering cross-border retailers unprecedented opportunities to reclaim duties efficiently. This innovation is transforming how businesses manage customs costs and optimize their supply chain management.
 

@@ -5,6 +5,7 @@ description: "Explore the hidden costs of non-compliance in customs duties and l
 categories: [duty drawback, ai, e-commerce, TDR]
 image: assets/images/20250508-1.jpg
 comments: false
+author: TDR
 ---
 
 > In the constantly changing world of global trade, compliance with customs duties is more than a bureaucratic requirement - it’s a strategic necessity for businesses. As governments across the globe strengthen enforcement on trade regulations and digitize customs systems, the hidden costs of non-compliance are growing more severe, impacting the bottom line, brand reputation and customer experience.

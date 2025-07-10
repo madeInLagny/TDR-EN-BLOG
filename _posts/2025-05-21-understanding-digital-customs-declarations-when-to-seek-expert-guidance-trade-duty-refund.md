@@ -13,6 +13,7 @@ categories:
   ]
 image: assets/images/20250521-1.webp
 comments: false
+author: TDR
 ---
 
 > There is a global shift toward digital customs declarations defined by speed, automation, and stricter compliance standards. But while digitalization brings immense benefits, it also introduces complexity, especially for businesses lacking in-house expertise. For companies navigating this new landscape, working with dedicated customs brokers and consultants is no longer optional—it’s a competitive advantage.

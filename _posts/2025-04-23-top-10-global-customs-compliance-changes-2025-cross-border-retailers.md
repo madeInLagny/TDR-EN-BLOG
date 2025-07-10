@@ -14,6 +14,7 @@ categories:
   ]
 image: assets/images/20250423-1.webp
 comments: false
+author: TDR
 ---
 
 > We are already over a quarter into 2025, and the global trade landscape has undergone significant transformations. These changes, marked by heightened tariffs, regulatory overhauls, and shifting compliance frameworks, are reshaping supply chains, impacting costs, and redefining market access strategies. For cross-border retailers and e-commerce experts, staying informed about these developments is crucial for optimizing operations and reclaiming duties efficiently.

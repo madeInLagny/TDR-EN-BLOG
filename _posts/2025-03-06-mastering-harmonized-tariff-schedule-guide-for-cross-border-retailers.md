@@ -5,6 +5,7 @@ description: "Discover how to optimize your cross-border retail operations with 
 categories: [duty drawback, us, e-commerce, TDR]
 image: assets/images/20250306-1.webp
 comments: false
+author: TDR
 ---
 
 > With global trade consistently growing but facing increased uncertainty, businesses, especially cross-border retailers, must be more strategic and agile than ever. One crucial, but often overlooked, factor is the Harmonized Tariff Schedule (HTS).

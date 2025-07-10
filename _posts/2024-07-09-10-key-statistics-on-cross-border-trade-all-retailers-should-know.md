@@ -5,6 +5,7 @@ description: Explore key statistics shaping cross-border trade in 2024. Learn ho
 categories: [duty drawback, duty-free returns, ai, e-commerce, b2c, TDR]
 image: assets/images/20240709-1.webp
 comments: false
+author: TDR
 ---
 
 > In the evolving landscape of global commerce, cross-border trade remains a vital growth avenue for retailers. Staying informed with the latest data is essential for navigating this dynamic market. Here are ten critical statistics that highlight the trends and opportunities in cross-border trade.

@@ -8,6 +8,7 @@ categories:
   ]
 image: assets/images/20250527-1.webp
 comments: false
+author: TDR
 ---
 > In an era of increasing supply chain complexity and unpredictable tariffs, businesses need more than just reactive solutions — they need **proactive customs strategy**. With TDR Customs Consultancy, we now offer a one-stop shop for seamless global trade execution.
 

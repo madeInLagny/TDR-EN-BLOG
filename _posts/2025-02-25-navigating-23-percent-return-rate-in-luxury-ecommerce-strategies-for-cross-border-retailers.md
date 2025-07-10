@@ -13,6 +13,7 @@ categories:
   ]
 image: assets/images/20250225-1.jpeg
 comments: false
+author: TDR
 ---
 
 > The luxury e-commerce sector faces a significant challenge with an average global return rate of 23%, amounting to approximately $38 billion USD in returned merchandise annually. As e-commerce continues to expand, consumers are increasingly purchasing high-end luxury items, often resulting in practices like "wardrobing" or "buyer's remorse" due to the substantial price tags. For luxury retailers involved in cross-border sales, the situation is exacerbated by the need to pay customs duties twice on returned items, which can be particularly costly given the high value of these goods.

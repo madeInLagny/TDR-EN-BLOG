@@ -8,6 +8,7 @@ categories:
   ]
 image: assets/images/20250417-1.png
 comments: false
+author: TDR
 ---
 
 > Seasonal fluctuations significantly impact retail returns, with average return rates surging during peak holiday periods. Understanding these trends is crucial for cross-border retailers seeking to optimize their operations and manage duty refunds effectively.

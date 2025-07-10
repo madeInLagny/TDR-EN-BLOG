@@ -10,6 +10,7 @@ categories:
   ]
 image: assets/images/20241219-1.webp
 comments: false
+author: TDR
 ---
 
 > 2025 is just around the corner, and it promises to bring new opportunities and challenges to the cross-border trade and logistics sector. With the U.S. elections in November generating speculation about tariffs and trade negotiations, businesses need to prepare for significant changes.

@@ -13,6 +13,7 @@ categories:
   ]
 image: assets/images/20250611-1.jpg
 comments: false
+author: TDR
 ---
 
 > After more than 25 years in the world of customs consulting working with importers, exporters, logistics teams, and trade compliance professionals across dozens of industries, I've learned one thing for certain: even as regulations evolve and technology changes, the core concerns of businesses stay surprisingly consistent.

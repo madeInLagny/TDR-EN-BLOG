@@ -13,6 +13,7 @@ categories:
   ]
 image: assets/images/20250401-1.webp
 comments: false
+author: TDR
 ---
 
 > Global supply chains face significant challenges due to customs duties and tariffs, prompting companies to reevaluate their sourcing strategies. Elevated tariffs on imported goods increase production costs, forcing businesses to decide how to manage these expenses effectively.

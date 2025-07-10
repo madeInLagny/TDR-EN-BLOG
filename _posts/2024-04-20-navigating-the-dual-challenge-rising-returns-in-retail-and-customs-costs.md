@@ -5,6 +5,7 @@ description: Discover how retailers can navigate rising returns and customs cost
 categories: [eu, duty drawback, duty-free returns, ai, e-commerce, b2c, TDR]
 image: assets/images/20240420-1.webp
 comments: false
+author: TDR
 ---
 >In the ever-evolving landscape of retail, one challenge looms larger than ever: returns. With the proliferation of e-commerce and the convenience it offers, the rate of returns has surged, posing complex logistical and financial challenges for retailers worldwide. According to industry reports, the rate of returns in online retail can be as high as 30%, compared to just 8-10% for brick-and-mortar stores.
 

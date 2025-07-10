@@ -12,6 +12,7 @@ categories:
   ]
 image: assets/images/20250117-1.webp
 comments: false
+author: TDR
 ---
 
 > Returns are a critical touchpoint in the customer journey, influencing loyalty and profitability. With 16.5% of U.S. retail sales—over $800 billion in 2023—being returned, efficient reverse logistics is key to success. Notably, 73% of consumers say poor returns experiences deter repeat purchases.  

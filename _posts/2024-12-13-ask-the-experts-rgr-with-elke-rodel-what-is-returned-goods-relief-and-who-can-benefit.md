@@ -7,6 +7,7 @@ image: assets/images/20241213-1.webp
 comments: false
 featured: false
 hidden: false
+author: TDR
 ---
 
 > In this edition of “Ask the Experts”, we are honored to have international trade and customs expert Elke Rödel give us insights on Returned Goods Relief, helping cross-border retailers navigate the complexities of exporting and re-importing goods across borders.

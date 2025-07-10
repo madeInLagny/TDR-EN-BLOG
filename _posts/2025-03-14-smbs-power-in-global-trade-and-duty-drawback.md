@@ -12,6 +12,7 @@ categories:
   ]
 image: assets/images/20250314-1.jpeg
 comments: false
+author: TDR
 ---
 > Small to Mid-Size Businesses (SMBs) are a powerful force in most economies, especially in the U.S. According to the U.S. Small Business Administration, SMBs with 500 employees or fewer make up 99.9% of all businesses. These businesses play a significant role in global trade, and many are eligible for customs duty drawback—a program that can significantly boost their financial performance.
 

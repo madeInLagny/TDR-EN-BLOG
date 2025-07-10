@@ -5,6 +5,7 @@ description: "Explore the lifecycle of cross-border eCommerce orders and how exp
 categories: [us, duty drawback, e-commerce, TDR]
 image: assets/images/20250528-1.jpg
 comments: false
+author: TDR
 ---
 
 > With the rise of global eCommerce, a single online order can trigger a complex chain reaction involving multiple countries, regulations, and logistics providers. While the customer may experience a seamless transaction and timely delivery, behind the scenes, every cross-border order must successfully navigate the intricate world of customs duties and compliance.

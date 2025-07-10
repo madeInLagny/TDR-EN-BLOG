@@ -15,6 +15,7 @@ categories:
   ]
 image: assets/images/20250612-1.jpg
 comments: false
+author: TDR
 ---
 
 > Trade Duty Refund (TDR) is thrilled to announce our sponsorship of the [**104th AAEI Annual Conference & Trade Day (#AAEI25)**](https://aaei.org/2025-annual-conference-trade-day-2/), taking place on June 26th and 27th 2025 in **Washington, DC**. As leaders in **customs duty drawback** and **B2C refund solutions** for **cross-border retailers**, we look forward to connecting with industry professionals and showcasing how our services drive **international duty reclaim** success.

@@ -5,6 +5,7 @@ description: "Explore the impact of de minimis rules on cross-border e-commerce 
 categories: [us, duty drawback, e-commerce, TDR]
 image: assets/images/20250421-1.jpg
 comments: false
+author: TDR
 ---
 
 > The "de minimis" tax exemption is a hot topic globally, especially with the surge in cross-border e-commerce. Under these rules, low-value goods are exempt from customs duties, significantly impacting international trade and duty refunds.

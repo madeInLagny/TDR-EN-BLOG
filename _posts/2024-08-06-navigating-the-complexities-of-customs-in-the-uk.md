@@ -6,6 +6,7 @@ categories:
   [uk, e-commerce, TDR]
 image: assets/images/20240806-1.webp
 comments: false
+author: TDR
 ---
 > Navigating the complexities of customs can be daunting for businesses operating in the United Kingdom. Here, Trade Duty Refund has compiled a list of frequently asked questions (FAQs) to help you understand and streamline your interactions with HM Revenue & Customs (Her Majesty's Revenue and Customs or HMRC).
 
