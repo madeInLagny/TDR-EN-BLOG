@@ -6,6 +6,8 @@ categories: [mark neville, us]
 image: assets/images/20250708-1.webp
 comments: false
 author: mark-neville
+featured: true
+hidden: true
 ---
 
 Today, the theme is tariff engineering and, in the manner of a B School case study, we will examine a single product that an importer attempted to enter into the US market as a good qualifying under one of the more popular FTAs, in this case, the DR-CAFTA[^1].

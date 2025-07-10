@@ -12,8 +12,6 @@ categories:
   ]
 image: assets/images/20250519-1.webp
 comments: false
-featured: true
-hidden: true
 author: TDR
 ---
 > Our Ask the Experts series is switching gears this month and taking a look at cross-border logistics and the complexities in ensuring on-time delivery for consumers, and hassle-free logistics for retailers.
