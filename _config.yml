@@ -16,14 +16,16 @@ authors:
   TDR:
     name: TDR
     display_name: TDR
+    tag: TDR
     avatar: assets/images/authors/TDR.webp
     email: contact@tradedutyrefund.com
     web: https://tradedutyrefund.com
     twitter: https://linkedIn.com/wowthemesnet
     description: TDR Editors.
-  Mark:
+  mark-neville:
     name: Mark Neville
     display_name: Mark Neville
+    tag: mark-neville
     avatar: assets/images/authors/Mark.webp
     email: mkneville@itctradelaw.com
     web: https://itctradelaw.com

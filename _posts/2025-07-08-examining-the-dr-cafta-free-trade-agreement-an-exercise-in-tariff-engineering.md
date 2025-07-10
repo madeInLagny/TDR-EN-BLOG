@@ -2,10 +2,10 @@
 layout: post
 title: "Examining the DR-CAFTA Free Trade Agreement: An Exercise in Tariff Engineering"
 description: "Explore a detailed case study on DR-CAFTA Free Trade Agreement eligibility, tariff engineering, and regional value content analysis using the Pink Fizz Boot example. Learn practical steps for importers and exporters to maximize duty-free trade benefits."
-categories: [Mark Neville, us]
+categories: [mark neville, us]
 image: assets/images/20250708-1.webp
 comments: false
-author: Mark
+author: Mark-Neville
 ---
 
 Today, the theme is tariff engineering and, in the manner of a B School case study, we will examine a single product that an importer attempted to enter into the US market as a good qualifying under one of the more popular FTAs, in this case, the DR-CAFTA[^1].
