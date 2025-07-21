@@ -3,14 +3,17 @@ layout: default
 ---
 
 <h1>Posts by {{ site.authors[page.author_id].name }}</h1>
-<img src="{{site.baseurl}}/{{ site.authors[page.author_id].avatar }}" alt="{{ site.authors[page.author_id].name }}" style="width:100px;">
+<img src="{{site.baseurl}}/{{ site.authors[page.author_id].avatar }}" alt="{{ site.authors[page.author_id].name }}"
+  style="width:100px;">
 <p>{{ site.authors[page.author_id].description }}</p>
 
-<ul>
+<div class="row listrecent pt-3">
+
   {% for post in site.posts %}
   {% if post.author == page.author_id %}
-  
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%b %-d, %Y" }})</li>
+  {% include postbox.html %}
+  <!-- <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%b %-d, %Y" }})</li>
+ -->
   {% endif %}
   {% endfor %}
-</ul>
+</div>
