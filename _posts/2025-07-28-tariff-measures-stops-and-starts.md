@@ -6,6 +6,8 @@ categories: [mark neville, us, duty drawback]
 image: assets/images/20250728-1.webp
 comments: false
 author: mark-neville
+featured: true
+hidden: true
 ---
 > As these lines are written we are still some weeks away from the inauguration of Donald Trump as the 47th US president and there is much that is unknown about the initiatives that he may undertake. We do know that the levy of special tariffs may be one of those projects. We know that because Mr. Trump has told us just that. (This article was written in November 2024, but its scheduled January 2025 publication was delayed)
 
