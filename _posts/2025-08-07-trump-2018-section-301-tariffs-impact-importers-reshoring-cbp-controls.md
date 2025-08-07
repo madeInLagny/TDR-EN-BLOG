@@ -2,7 +2,7 @@
 layout: post
 title: "The Lasting Impact of Trump’s 2018 Section 301 Tariffs: Lessons for US Supply Chains and Importers"
 description: Analyze the ripple effects of the 2018 US Section 301 tariffs on Chinese imports, reshoring and nearshoring trends, supply chain strategies, and CBP enforcement, to guide businesses anticipating today’s new reciprocal tariffs and the de minimis rule change.
-categories: [TDR, us, duty drawback, supply chain, e-commerce, section 301]
+categories: [TDR, us, duty drawback, e-commerce, summer 2025 serie]
 image: assets/images/20250807-1.webp
 comments: false
 author: TDR
@@ -54,21 +54,25 @@ The 2018 Section 301 tariffs represent a pivotal moment in U.S. trade policy, dr
 
 ## References
 
-[^1]: Office of the United States Trade Representative (USTR) 301 Reports (2018–2020)  
-[^2]: Financial Times, "US manufacturers accelerate 'reshoring' after tariffs on Chinese imports" (2019)  
-[^3]: Kearney, "Reshoring Index 2020: Tariffs and COVID-19 Accelerate Manufacturing Return"  
-[^4]: Forbes, "Mexico Emerges As Winner From U.S.-China Trade War" (2019); McKinsey & Company, “Nearshoring in the Americas: Time for action” (2020)  
-[^5]: Wall Street Journal, "Trade War Spurs Companies to Diversify Supply Chains Away From China" (2019); Bloomberg, "Vietnam Gains From Trade War" (2019)  
-[^6]: Wall Street Journal, "Trade War Spurs Companies to Diversify Supply Chains Away From China" (2019)  
-[^7]: Journal of Commerce, "Port Congestion Mounts as Importers Beat Tariff Deadline" (2018)  
-[^8]: US Census Bureau, "Annual Survey of Manufactures" (2018–2019); Brookings Institution, "Did Trump’s tariffs help American workers?" (2020)  
-[^9]: International Trade Today, "First Sale for Export: Many Importers Take Another Look Post-301 Tariffs" (2019); Sandler, Travis & Rosenberg, "First Sale for Export: Benefits, Risks and Compliance" (2019)  
-[^10]: U.S. Customs and Border Protection, "First Sale Declaration Requirement Guidance" (2019)  
-[^11]: U.S. Customs and Border Protection, "Trade and Travel Report: Fiscal Year 2019"; Government Accountability Office (GAO), "CBP Should Take Additional Steps to Strengthen the Audit Process" (2021)  
-[^12]: Reuters, "US customs targets China tariff dodgers by checking ship origins" (2019); U.S. Customs and Border Protection, "Determining Country of Origin of Goods Imported into the United States" (HQ rulings, 2018–2020)  
-[^13]: U.S. Customs and Border Protection, HQ rulings and press releases, 2018–2021  
-[^14]: KPMG, "US Tariffs: Mitigation and Planning Strategies" (2019)  
-[^15]: U.S. Customs and Border Protection, "Modernized Drawback Final Rule" (2018); Journal of Commerce, "Exporters turn to duty drawback as tariffs bite" (2019)  
-[^16]: The Wall Street Journal, "How US Importers Are Tweaking Products to Dodge Tariffs" (2019)  
-[^17]: KPMG, "US Tariffs: Mitigation and Planning Strategies" (2019)  
+[^1]: Office of the United States Trade Representative (USTR) 301 Reports (2018–2020)
+[^2]: Financial Times, "US manufacturers accelerate 'reshoring' after tariffs on Chinese imports" (2019)
+[^3]: Kearney, "Reshoring Index 2020: Tariffs and COVID-19 Accelerate Manufacturing Return"
+[^4]: Forbes, "Mexico Emerges As Winner From U.S.-China Trade War" (2019); McKinsey & Company, “Nearshoring in the Americas: Time for action” (2020)
+[^5]: Wall Street Journal, "Trade War Spurs Companies to Diversify Supply Chains Away From China" (2019); Bloomberg, "Vietnam Gains From Trade War" (2019)
+[^6]: Wall Street Journal, "Trade War Spurs Companies to Diversify Supply Chains Away From China" (2019)
+[^7]: Journal of Commerce, "Port Congestion Mounts as Importers Beat Tariff Deadline" (2018)
+[^8]: US Census Bureau, "Annual Survey of Manufactures" (2018–2019); Brookings Institution, "Did Trump’s tariffs help American workers?" (2020)
+[^9]: International Trade Today, "First Sale for Export: Many Importers Take Another Look Post-301 Tariffs" (2019); Sandler, Travis & Rosenberg, "First Sale for Export: Benefits, Risks and Compliance" (2019)
+[^10]: U.S. Customs and Border Protection, "First Sale Declaration Requirement Guidance" (2019)
+[^11]: U.S. Customs and Border Protection, "Trade and Travel Report: Fiscal Year 2019"; Government Accountability Office (GAO), "CBP Should Take Additional Steps to Strengthen the Audit Process" (2021)
+[^12]: Reuters, "US customs targets China tariff dodgers by checking ship origins" (2019); U.S. Customs and Border Protection, "Determining Country of Origin of Goods Imported into the United States" (HQ rulings, 2018–2020)
+[^13]: U.S. Customs and Border Protection, HQ rulings and press releases, 2018–2021
+[^14]: KPMG, "US Tariffs: Mitigation and Planning Strategies" (2019)
+[^15]: U.S. Customs and Border Protection, "Modernized Drawback Final Rule" (2018); Journal of Commerce, "Exporters turn to duty drawback as tariffs bite" (2019)
+[^16]: The Wall Street Journal, "How US Importers Are Tweaking Products to Dodge Tariffs" (2019)
+[^17]: KPMG, "US Tariffs: Mitigation and Planning Strategies" (2019)
 [^18]: Office of the United States Trade Representative (USTR), "Section 301 Exclusion Requests and Determinations"; CBP Press Releases, "CBP Targets 301 Tariff Evasion" (2019–2021)
+
+---
+
+The TDR experts team is ready to support validating your options to mitigate the new US tariffs impact. [Contact us today](https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=Link&utm_campaign=20250807Article) or [visit our page dedicated to trade consulting](https://tradedutyrefund.com/consulting.html?utm_source=Blog&utm_medium=Link&utm_campaign=20250807Article).
