@@ -26,4 +26,4 @@ By harnessing the duty drawback program, US importers can recoup significant cos
 
 ---
 
-## If your business regularly imports goods and then exports them, destroys them, or handles international returns, you may qualify for duty drawback. Contact [Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Article&utm_campaign=202500811Article) to learn how to maximize your recovery and ensure compliance with CBP regulations.
+_If your business regularly imports goods and then exports them, destroys them, or handles international returns, you may qualify for duty drawback. Contact [Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Article&utm_campaign=202500811Article) to learn how to maximize your recovery and ensure compliance with CBP regulations._
