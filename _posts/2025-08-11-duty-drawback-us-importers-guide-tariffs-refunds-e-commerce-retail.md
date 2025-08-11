@@ -2,7 +2,7 @@
 layout: post
 title: "Duty Drawback: The US Importer’s Guide to Turning Tariffs into Refunds"
 description: "Learn how US importers can recover tariffs and taxes on re-exported goods through duty drawback, including eligibility rules, an e-commerce returns case study, and industry usage data."
-categories: [ TDR, us, duty drawback, e-commerce, duty-free returns, b2c ]
+categories: [TDR, us, duty drawback, e-commerce, duty-free returns, b2c]
 image: assets/images/20250811-1.webp
 comments: false
 author: TDR
@@ -26,6 +26,4 @@ By harnessing the duty drawback program, US importers can recoup significant cos
 
 ---
 
-If your business regularly imports goods and then exports them, destroys them, or handles international returns, you may qualify for duty drawback. Contact Trade Duty Refund to learn how to maximize your recovery and ensure compliance with CBP regulations.
-
----
+## If your business regularly imports goods and then exports them, destroys them, or handles international returns, you may qualify for duty drawback. Contact [Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Article&utm_campaign=202500811Article) to learn how to maximize your recovery and ensure compliance with CBP regulations.
