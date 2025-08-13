@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TDR to Showcase Duty Drawback and EU Returns Relief at OPENeX 2025
+title: TDR to Showcase US EU UK Duty Drawback and Returned Goods Relief at OPENeX 2025
 description: Announcing TDR’s participation at OPENeX 2025 in Liège this September — discover how our Duty Drawback, Returns Goods Relief, Trade Advisory, and EU Duty Reclaim services will empower cross-border e-commerce and logistics decision makers.
 categories: [TDR, eu, duty drawback, duty-free returns, e-commerce, uk]
 image: assets/images/20250813-1.webp
