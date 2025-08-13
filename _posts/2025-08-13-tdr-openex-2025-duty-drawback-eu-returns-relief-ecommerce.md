@@ -1,96 +1,129 @@
 ---
 layout: post
-title: "TDR at OPENeX 2025: Unlocking Duty Drawback and EU Returns Relief for E-Commerce Leaders"
-description: Learn how TDR’s Duty Drawback, Returns Goods Relief, Trade Advisory, and EU Duty Reclaim services help e-commerce supply chain leaders cut costs, improve compliance, and boost cross-border efficiency — insights from OPENeX 2025 in Liège.
+title: TDR to Showcase Duty Drawback and EU Returns Relief at OPENeX 2025
+description: Announcing TDR’s participation at OPENeX 2025 in Liège this September — discover how our Duty Drawback, Returns Goods Relief, Trade Advisory, and EU Duty Reclaim services will empower cross-border e-commerce and logistics decision makers.
 categories: [TDR, eu, duty drawback, duty-free returns, e-commerce, uk]
 image: assets/images/20250813-1.webp
 comments: false
 author: TDR
 ---
 
-> From September 9–11, 2025, Europe’s e-commerce and logistics minds converge at Liège Airport for OPENeX 2025 — a pioneering event where the future of cross-border retail takes flight. TDR, as a leading solution provider in duty drawback, returns goods relief, trade advisory, and EU duty reclaim, joins the world’s most innovative e-commerce stakeholders to unlock frictionless, compliant cross-border flows for supply chain decision makers.
+> This September 9–11, 2025, TDR will be at Liège Airport for **OPENeX 2025** — one of Europe’s most significant cross-border e-commerce and logistics gatherings. We are excited to showcase how our solutions in Duty Drawback, Returns Goods Relief, Trade Advisory, and EU Duty Reclaim can help supply chain and logistics leaders unlock compliance, reduce costs, and streamline international operations. If you’re attending, make sure to connect with us to explore how we can help your business turn regulatory challenges into competitive advantages.
 
 Interested in meeting TDR at the expo or simply get in touch? [**Click here to reach out!**](https://tradedutyrefund.com/contact-us.html?utm_source=LinkedIn&utm_medium=Post&utm_campaign=20250813Article)
 
-## OPENeX 2025: Where E-Commerce and Logistics Shape the Future
 
-Liège Airport transforms into the beating heart of Europe’s cross-border commerce ecosystem hosting OPENeX 2025, presented by NeX eCommerce in partnership with the ACE Air Cargo Event and LGG e‑Com Day. The “one ticket, three events” format connects more than 500+ senior decision makers: e-commerce platform leads, supply chain strategists, air carriers, tech innovators, express couriers, and retail marketplace disruptors. The agenda is stacked with masterclasses, networking sessions, and exclusive 1:1 meetings—making it the prime arena for gaining actionable strategies to drive sustainable supply-chain growth in a turbulent global market.
+## OPENeX 2025 — Where Innovation Meets Cross-Border Trade
 
-## Why TDR’s Services Matter to E-Commerce Leaders
+Hosted at Liège Airport and presented by NeX eCommerce in partnership with the ACE Air Cargo Event and LGG e‑Com Day, **OPENeX 2025** unites over 500 senior decision makers from across the e-commerce, logistics, and freight industries. Its “one ticket, three events” format offers a dynamic platform to explore the future of global e-commerce logistics and compliance.
 
-[**TDR (Trade Duty Refund)**](https://tradedutyrefund.com?utm_source=LinkedIn&utm_medium=Post&utm_campaign=20250813Article) was front and center at OPENeX 2025, serving as a vital resource for B2C and B2B cross-border retail brands, vendors, and logistics managers facing mounting regulatory complexity and margin compression across the UK, EU, and US. TDR’s offering is uniquely crafted to meet the shifting needs of high-volume, multi-market supply chains.
+This year’s program is set to deliver:
+- **Masterclasses** from industry leaders.
+- **High-impact networking** opportunities.
+- **Exclusive 1:1 meetings** for direct collaboration.
+- **Real-world case studies** on overcoming supply chain and regulatory challenges.
 
-### Duty Drawback: Recovering Margins in Cross-Border E-Commerce
+For businesses engaged in cross-border trade, OPENeX 2025 is not just an event — it’s a strategic opportunity to align with innovators, regulators, and industry disruptors.
 
-[Duty drawback](https://blog.tradedutyrefund.com/duty-drawback-us-importers-guide-tariffs-refunds-e-commerce-retail/?utm_source=LinkedIn&utm_medium=Post&utm_campaign=20250813Article) is more than a regulatory feature — it’s a strategic lever for recovering tariffs and customs duties paid on imported goods that are subsequently exported, returned, or destroyed. For e-commerce retailers exporting from the UK or EU, this means reclaiming up to 100% of duties for eligible products. TDR automates the paperwork, reconciles trade data, and ensures compliance at scale. The result: boosted margins, improved cash flow, and enhanced inventory agility for e-commerce operators managing frequent returns or global stock movements.
+## Why TDR’s Solutions Matter — Especially Now
 
-- **Typical Use Cases:**
+For e-commerce businesses, regulatory complexity and changing trade rules across the UK, EU, and US can be costly and time-consuming. From post-Brexit customs barriers to the increasing cost of returns and customer expectations for smooth cross-border shopping experiences, decision makers need both **strategic advisory** and **hands-on operational solutions**.
 
-  - Online fashion and electronics retailers processing multi-country returns.
-  - Brands using European distribution hubs for global fulfillment.
-  - Importers re-exporting unsold stock or supplying EU / US-based marketplaces.
+TDR (Trade Duty Reclaim) has built its service portfolio to address exactly these challenges. At OPENeX 2025, we’ll be focusing on four key solutions that deliver measurable value — whether you’re a small DTC merchant or a multinational e-commerce platform.
+
+---
+
+### Duty Drawback — Recover Margins from Cross-Border Flows
+
+**The challenge:** When goods are imported and then later exported, returned, or destroyed, businesses often lose money on unrecovered tariffs and customs duties.
+
+**Our solution:** [TDR’s Duty drawback service](https://blog.tradedutyrefund.com/duty-drawback-us-importers-guide-tariffs-refunds-e-commerce-retail/?utm_source=LinkedIn&utm_medium=Post&utm_campaign=20250813Article) automates reclaiming these costs — recovering up to 100% of duties for eligible products. This is ideal for brands operating out of centralized European hubs or managing multiple return points across markets.
+
+- **Use cases:**
+  - Fashion & electronics merchants managing high volumes of returns.
+  - Retailers with European distribution hubs fulfilling international orders.
+  - Importers exporting unsold stock or replenishing other markets.
 
 - **Benefits:**
-  - Recover up to 100% of duties on eligible goods.
-  - Reduce cost of returns and unsold stock.
-  - Enhance end-to-end supply chain visibility.
+  - Recover significant capital tied up in duties.
+  - Improve cash flow and operational flexibility.
+  - Seamlessly integrate into supply chain management systems.
 
-### Returns Goods Relief (RGR): The Power of Duty-Free Returns
+---
 
-With return rates in e-commerce exceeding 20%, [Returns Goods Relief (RGR)](https://blog.tradedutyrefund.com/ask-the-experts-rgr-with-elke-rodel-what-is-returned-goods-relief-and-who-can-benefit/?utm_source=LinkedIn&utm_medium=Post&utm_campaign=20250813Article) is a game-changer. TDR enables compliant, duty-free movement of goods returned across borders, especially how returns from the EU to UK (and vice versa) can avoid unnecessary re-import tariffs. Retailers gain frictionless customer experiences, optimize reverse logistics, and minimize operational losses.
+### Returns Goods Relief (RGR) — Duty-Free Returns Made Simple
 
-- **Typical Use Cases:**
+**The challenge:** E-commerce return rates often exceed 20% — and for cross-border sales, return logistics can inflate costs and erode customer satisfaction. Post-Brexit trade has made this even more complex.
 
-  - Fashion/apparel merchants dealing with high cross-border return volumes.
-  - UK/EU brands facing post-Brexit customs barriers.
-  - Inventory managers seeking seamless restocking or disposal.
+**Our solution:** [TDR’s RGR](https://blog.tradedutyrefund.com/ask-the-experts-rgr-with-elke-rodel-what-is-returned-goods-relief-and-who-can-benefit/?utm_source=LinkedIn&utm_medium=Post&utm_campaign=20250813Article)  service ensures goods returning to their original market avoid unnecessary re-import duties and VAT. This means a smoother customer experience and substantial operational savings.
+
+- **Use cases:**
+  - Fashion merchants with high cross-border return rates.
+  - UK/EU brands managing post-Brexit reverse logistics.
+  - Inventory planning teams looking to restock or dispose of returned goods efficiently.
 
 - **Benefits:**
-  - Eliminate double-duty payments on returned goods.
-  - Seamlessly reintegrate returned stock into inventory.
-  - Delight customers with streamlined returns experience.
+  - Avoid paying duties twice on the same goods.
+  - Increase reverse supply chain speed and efficiency.
+  - Boost customer trust with hassle-free returns.
 
-### Trade Advisory: Navigating Regulatory Complexity
+---
 
-Navigating trade compliance in Europe’s multi-jurisdictional market is daunting. TDR’s advisory team provides hands-on expertise in rules of origin, customs valuation, Brexit implications, VAT recovery, risk mapping, simplified procedures, and more. From strategic pre-entry audits to ongoing compliance management, TDR demystifies regulatory landscapes, de-risks international expansion, and ensures brands remain competitive and penalty-free.
+### Trade Advisory — Navigating a Complex Regulatory World
 
-- **Typical Advisory Impact Areas:**
-  - New market entry and regulatory planning.
-  - Crisis response: supply chain disruption, sanctions, policy changes.
-  - VAT-optimized flows for DTC and marketplace sellers.
+**The challenge:** Entering and operating in multiple jurisdictions exposes businesses to a constantly changing compliance environment that can lead to delays, penalties, and lost opportunities.
 
-### EU Duty Reclaim: Unlocking Tariff Recovery Across the Bloc
+**Our solution:** TDR’s advisory services provide expert guidance on:
+- Rules of origin and customs valuation.
+- Brexit-related trade changes.
+- VAT optimization for different sales channels.
+- Risk mapping and simplified customs procedures.
 
-EU Duty Reclaim is TDR’s specialized solution for businesses trading in the European Union. Leveraging localized expertise, TDR helps retailers tap into duty refund schemes, manage export refunds, and navigate the complex labyrinth of customs documentation required to recover funds. Especially valuable for companies shifting distribution centers, launching new EU markets, or restructuring supply flows after regulatory change.
+Our consultants work alongside your team to ensure compliance, plan market entry, and mitigate risks before they impact your operations.
 
-- **Key Advantages:**
-  - Maximize duty recovery for multi-market supply chains.
-  - Unlock refunds for export, return, and destruction scenarios.
-  - Drive compliance with evolving EU customs codes.
+---
 
-## TDR in Action: The OPENeX 2025 Impact
+### EU Duty Reclaim — Unlocking Refund Opportunities
 
-At OPENeX 2025, TDR’s experts delivered hands-on masterclasses, participated in panel discussions, and hosted closed-door clinics for e-commerce brands grappling with rising regulatory pressure. Case studies spotlighted how TDR helped global apparel and electronics leaders eradicate bottlenecks in cross-border returns after Brexit, automate the duty drawback process for US/UK re-exports, and unlock millions in annual savings for marketplace sellers.
+**The challenge:** Many companies trading across the EU miss out on reclaiming duties simply because the processes are complex and fragmented across member states.
 
-The event’s exclusive 1:1 matchmaking format allowed supply chain heads to consult directly with TDR, unpack real-world challenges, and lay out scalable recovery strategies customized to their channel, country mix, and product portfolio. TDR’s tech-enabled compliance tools stood out for their speed, audit transparency, and seamless integration with major e-commerce platforms.
+**Our solution:** TDR specializes in accessing refund schemes, handling export refunds, and managing all necessary customs documentation — ensuring businesses recover every euro they are entitled to.
 
-## Why Supply Chain Decision Makers Should Choose TDR
+---
 
-OPENeX 2025 reaffirmed a decisive reality: **e-commerce growth is dependent on regulatory agility and cost control**. TDR’s service suite enables decision makers to:
+## What to Expect from TDR at OPENeX 2025
 
-- **Shrink landed costs** using automated duty recovery and return relief capabilities.
-- **Accelerate market expansion** with expert-led trade advisory and local customs support.
-- **Ensure compliance** across UK, EU, and US with real-time rule updates and audit trails.
-- **Drive customer experience** by enabling fast, frictionless returns and shipments.
-- **Protect margins** in the face of inflation, currency fluctuation, and supply chain disruption.
+We will be sharing **case examples** (with anonymized data) showing how clients have saved millions in recovered duties and avoided unnecessary costs.  
 
-E-commerce operators, platforms, and brands who partner with TDR gain the confidence and agility to scale cross-border business, tackle new markets, and mitigate risk while delighting customers and keeping regulators satisfied.
+We will also offer **exclusive 1:1 advisory sessions**, where our experts will discuss your company’s unique supply chain challenges and outline strategies to unlock cost recovery opportunities and accelerate compliance readiness.
 
-## Looking Ahead: The Future of Duty Relief and Trade Compliance
+---
 
-As Europe embraces digital logistics and tighter supply chain integration, the ability of e-commerce leaders to reclaim, recover, and optimize duties will increasingly define success — and TDR stands at the forefront of this evolution. With ongoing regulatory change, the need for seamless, tech-enabled duty recovery — and strategic advisory — is stronger than ever.
+## Why This Matters for Supply Chain Decision Makers
 
-TDR’s participation in OPENeX 2025 sets a new standard for trade compliance, duty reclaim, and return management for the entire cross-border e-commerce community. By unlocking trapped capital and streamlining regulatory navigation, TDR empowers supply chain decision makers to transform friction into opportunity.
-```
+In 2025, global supply chain realities are shaped by:
+- Ongoing regulatory change in major markets.
+- Rising transportation and customs costs.
+- Increased customer expectation for affordable, frictionless cross-border shopping.
+
+These trends make **cost recovery and compliance agility** essential to competitiveness.
+
+By working with TDR, decision makers can:
+- **Lower landed costs** with automated recovery and RGR capabilities.
+- **Expand into new markets faster** with expert compliance insights.
+- **Protect margins** against global cost pressures.
+- **Deliver better customer experiences** through smoother logistics and returns.
+
+---
+
+## Join Us in Liège
+
+If you’re attending OPENeX 2025, we invite you to visit our booth, join our talks, and book a time with our experts. Whether you are rethinking your returns policy, planning to open new markets, or seeking to recover millions in unreclaimed duties, TDR can help you design a strategy that works.
+
+This is more than an event for us — it’s an opportunity to meet decision makers face-to-face, share our expertise, and help shape the future of compliant, cost-efficient cross-border e-commerce.
+
+---
 
 Interested in meeting TDR at the expo or simply get in touch? [**Click here to reach out!**](https://tradedutyrefund.com/contact-us.html?utm_source=LinkedIn&utm_medium=Post&utm_campaign=20250813Article)
+
+
