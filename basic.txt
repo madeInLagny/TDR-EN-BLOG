@@ -63,7 +63,7 @@ Contact us at [contact@tradedutyrefund.com](mailto:contact@tradedutyrefund.com)
 [Make an appointment with one of our experts today!](https://tradedutyrefund.com/make-an-appointment.html)
 
 
-## Tools
+## Tools  
 Picture sources: https://www.vecteezy.com/free-photos/taxes
 Kramdown doc: https://kramdown.gettalong.org/quickref.html
   note: to add a class to a markdown element, add {: .className} after. Example:![Image description](/assets/images/20240412-2.jpg) {: .mx-auto .d-block} centers an image.
