@@ -4,7 +4,7 @@ title: How the TDR Self-Assessment Can Help You Get Big Duty Refunds
 description: Discover how the TDR Duty Refund Self-Assessment helps importers and exporters reclaim overpaid duties and taxes across the US, EU, and UK, optimizing cashflow and boosting profits with AI-driven insights.
 categories:
   [TDR, duty drawback, us, eu, uk, b2c, e-commerce, duty-free returns, ai]
-image: assets/images/20250910-2.webp
+image: assets/images/20250913-1.webp
 comments: false
 author: TDR
 ---
@@ -12,7 +12,7 @@ author: TDR
 > Navigating international trade can be complex, but reclaiming overpaid customs duties doesn't have to be. The TDR Duty Refund Assessment offers businesses in the US, EU, and UK a fast, easy way to find out how much they could recover from excess import taxes—simply answer a few straightforward questions and unlock potential savings for your supply chain.
 
 <p class="d-grid gap-2 d-md-flex justify-content-md-center my-4">
-  <a href="https://tradedutyrefund.com/duty-refund-questionnaire-main-page.html?utm_source=Blog&utm_medium=Post&utm_campaign=20250913Article" class="btn btn-primary btn-lg w-100 w-md-50 text-wrap" style="max-width: 500px; white-space: normal; word-break: break-word;">
+  <a href="https://tradedutyrefund.com/duty-refund-questionnaire-main-page.html?utm_source=Blog&utm_medium=Post&utm_campaign=20250913Article" class="btn btn-warning btn-lg w-100 w-md-50 text-wrap" style="max-width: 500px; white-space: normal; word-break: break-word;">
     <i class="fas fa-arrow-right me-2"></i>
     Take the TDR Duty Drawback Assessment
   </a>
@@ -37,7 +37,7 @@ Upon completion, an expert team uses automation and data analysis to provide pro
 For companies trading in and out of the United States, the US Import Duty Refund Questionnaire focuses on customs duty mitigation schemes specific to the US context. Information such as duties paid, export and return percentages, and the role of express shipments and consolidation in the supply chain is collected. The questionnaire also identifies the status of the business as an importer/exporter of record and any partnerships involved. With these details, the system can rapidly estimate drawback recovery potential, which can reach up to 99% of eligible duties in some cases. Powerful AI models and process automation help reduce friction and accelerate claim cycles for all types of importers, including e-commerce operators handling high volumes of returns.
 
 <p class="d-grid gap-2 d-md-flex justify-content-md-center my-4">
-  <a href="https://tradedutyrefund.com/duty-refund-questionnaire-US.html?utm_source=Blog&utm_medium=Post&utm_campaign=20250913Article" class="btn btn-primary btn-lg w-100 w-md-50 text-wrap" style="max-width: 500px; white-space: normal; word-break: break-word;">
+  <a href="https://tradedutyrefund.com/duty-refund-questionnaire-US.html?utm_source=Blog&utm_medium=Post&utm_campaign=20250913Article" class="btn btn-warning btn-lg w-100 w-md-50 text-wrap" style="max-width: 500px; white-space: normal; word-break: break-word;">
     <i class="fas fa-arrow-right me-2"></i>
     Take the US Duty Drawback Assessment
   </a>
@@ -48,7 +48,7 @@ For companies trading in and out of the United States, the US Import Duty Refund
 The EU Import Duty Refund Questionnaire is designed for businesses operating in and out of Europe, which often face complex multi-country regulations. The questionnaire will ask about the countries of import and export clearance, recent duty and VAT paid, exposure to anti-dumping taxes, express carrier usage, timing of exports, and the prevalence of B2C sales and returns. As cross-border e-commerce continues to grow, being able to navigate different VAT regimes and duty refund rules is crucial. TDR’s region-specific expertise helps streamline claims for multi-jurisdictional operations, making compliance less daunting and refunds more attainable.
 
 <p class="d-grid gap-2 d-md-flex justify-content-md-center my-4">
-  <a href="https://tradedutyrefund.com/duty-refund-questionnaire-EU?utm_source=Blog&utm_medium=Post&utm_campaign=20250913Article" class="btn btn-primary btn-lg w-100 w-md-50 text-wrap" style="max-width: 500px; white-space: normal; word-break: break-word;">
+  <a href="https://tradedutyrefund.com/duty-refund-questionnaire-EU?utm_source=Blog&utm_medium=Post&utm_campaign=20250913Article" class="btn btn-warning btn-lg w-100 w-md-50 text-wrap" style="max-width: 500px; white-space: normal; word-break: break-word;">
     <i class="fas fa-arrow-right me-2"></i>
     Take the EU Duty Drawback Assessment
   </a>
@@ -59,7 +59,7 @@ The EU Import Duty Refund Questionnaire is designed for businesses operating in 
 Post-Brexit, UK businesses face new challenges in recovering duty and VAT. The UK Import Duty Refund Questionnaire focuses on both UK and EU clearance locations, details on paid duties and VAT, as well as the impact of returned goods and express shipments. Companies specify their role as the importer or exporter of record and provide an overview of their main trading partners. TDR’s platform adapts to the evolving UK regulatory environment, offering practical insights and direct support for exporters, retailers, manufacturers, and e-commerce brands hoping to unlock new cashflow by reclaiming overpaid taxes.
 
 <p class="d-grid gap-2 d-md-flex justify-content-md-center my-4">
-  <a href="https://tradedutyrefund.com/duty-refund-questionnaire-UK?utm_source=Blog&utm_medium=Post&utm_campaign=20250913Article" class="btn btn-primary btn-lg w-100 w-md-50 text-wrap" style="max-width: 500px; white-space: normal; word-break: break-word;">
+  <a href="https://tradedutyrefund.com/duty-refund-questionnaire-UK?utm_source=Blog&utm_medium=Post&utm_campaign=20250913Article" class="btn btn-warning btn-lg w-100 w-md-50 text-wrap" style="max-width: 500px; white-space: normal; word-break: break-word;">
     <i class="fas fa-arrow-right me-2"></i>
     Take the UK Duty Drawback Assessment
   </a>
