@@ -37,16 +37,37 @@ a {
 
 .btn-primary {
 	color: #fff;
+	background-color: #3b6281;
+	border-color: #358f9c;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+	color: #fff;
 	background-color: #358f9c;
 	border-color: #358f9c;
 }
+
+
 
 @media (min-width: 768px) {
 	.postIllustration {
 			width: 50%;
 			margin: 3rem auto!important;
 	}
+	.w-md-50 {
+    width: 50% !important;
+  }
 }
+
+
+/* Ensure button text wraps on small screens */
+.btn.text-wrap {
+  white-space: normal !important;
+  word-break: break-word;
+}
+
+
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
