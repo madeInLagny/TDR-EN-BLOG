@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025 Outlook: High-End E-Commerce Asia to Europe and the US"
+title: "2025 Snapshot: High-End E-Commerce Trends Across Asia, Europe & the US"
 description: Explore the dynamic growth and evolving trends in luxury e-commerce flowing from Asia to Europe and the US in 2025, including consumer shifts, tech innovation, and regulatory challenges.
 categories: [TDR, eu, us, e-commerce, duty drawback, ai]
 image: assets/images/20250915-1.webp
