@@ -8,7 +8,7 @@ comments: false
 author: TDR
 ---
 
-Meet Trade Duty Refund at the Retail Supply Chain & Logistics Expo in London, taking place on November 12th and 13th, 2025. This high-profile event is a centerpiece for innovation, efficiency, and actionable strategies, making it an unmissable opportunity for importers, exporters, and e-commerce retailers aiming to leverage duty drawback solutions and optimize cross-border trade. Read on for insights, proven solutions, and direct links to practical guides and consultation options.
+Meet [**Trade Duty Refund**](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Post&utm_campaign=20251027Article) at the Retail Supply Chain & Logistics Expo in London, taking place on November 12th and 13th, 2025. This high-profile event is a centerpiece for innovation, efficiency, and actionable strategies, making it an unmissable opportunity for importers, exporters, and e-commerce retailers aiming to leverage duty drawback solutions and optimize cross-border trade. Read on for insights, proven solutions, and direct links to practical guides and consultation options.
 
 ### Duty Drawback: Unlocking Hidden Cash Flow for Retailers
 
@@ -23,7 +23,8 @@ A top question for shippers and retailers is “Am I eligible for duty drawback,
 - In the US, having a drawback bond in place drastically reduces delays
 - In all cases, being properly prepared for drawback is the key to success and quick cash flow benefit. TDR's team of experts is there to support.
 
-For more details, check out our detailed guide on the duty drawback refund timeline and eligibility checklist: “Required Documents for a US Duty Drawback Claim”, “US Duty Drawback Refund Timeline: How Long Does It Take”.
+For more details, check out our detailed guide on the duty drawback refund timeline and eligibility checklist: [**“Required Documents for a US Duty Drawback Claim”**](https://tradedutyrefund.com/required-documents-for-a-us-duty-drawback-claim.html?utm_source=Blog&utm_medium=Post&utm_campaign=20251027Article), [**“US Duty Drawback Refund Timeline: How Long Does It Take”**](https://tradedutyrefund.com/us-duty-drawback-refund-timeline-how-long-does-it-take.html?utm_source=Blog&utm_medium=Post&utm_campaign=20251027Article)
+
 
 ### Why Choose TDR as Your Duty Drawback Partner?
 
@@ -39,5 +40,4 @@ Let TDR simplify the complexity of duty refund management so you can focus on gr
 
 ### Won't attend the event? Book Your Free Consultation Today
 
-Ready to transform your duty drawback process and returns management? Book a personalized consultation with TDR now or download the latest “Practical Guide to Customs Duties on Returns” for step-by-step instructions.
-
+Ready to transform your duty drawback process and returns management? [Book a personalized consultation](https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=Post&utm_campaign=20251027Article) with TDR now or download the latest “Practical Guide to Customs Duties on Returns” for step-by-step instructions.
