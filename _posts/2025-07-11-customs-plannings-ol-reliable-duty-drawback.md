@@ -6,8 +6,6 @@ categories: [mark neville, us, duty drawback]
 image: assets/images/20250711-1.webp
 comments: false
 author: mark-neville
-featured: true
-hidden: true
 ---
 
 > The granddaddy of all customs planning is duty drawback. So deeply rooted is drawback, that many will refer to customs planning opportunities in a generic manner as “drawback.” While that would be a mistake, and while some other planning techniques may provide equal or better benefits, duty drawback may yet be the best way forward for many importers.

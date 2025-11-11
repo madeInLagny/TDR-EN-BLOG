@@ -4,65 +4,65 @@
 ---
 
 .footnotes {
-	font-size: small;
+  font-size: small;
 }
 
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
-	display:inline;
+  display: inline;
 }
 
 blockquote {
-	border-left: 4px solid #358f9c;
+  border-left: 4px solid #358f9c;
 }
 
 a {
-	color: #358f9c;
+  color: #358f9c;
 }
 
 .btn.follow {
-	border-color: #358f9c;
-	color: #358f9c;
+  border-color: #358f9c;
+  color: #358f9c;
 }
 
 .btn.subscribe {
-	background-color: #358f9c;
-	border-color: #358f9c;
+  background-color: #358f9c;
+  border-color: #358f9c;
 }
 
 .alertbar input[type="submit"] {
-	background-color: #358f9c;
-	border: 1px solid #358f9c;
+  background-color: #358f9c;
+  border: 1px solid #358f9c;
 }
 
 .btn-primary {
-	color: #fff;
-	background-color: #3b6281;
-	border-color: #358f9c;
+  color: #fff;
+  background-color: #3b6281;
+  border-color: #358f9c;
 }
 
-.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-	color: #fff;
-	background-color: #358f9c;
-	border-color: #358f9c;
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover {
+  color: #fff;
+  background-color: #358f9c;
+  border-color: #358f9c;
 }
 
 .btn-warning {
-	background-color: #f3b32a;
-	border-color: #f3b32a;
+  background-color: #f3b32a;
+  border-color: #f3b32a;
 }
 
-
 @media (min-width: 768px) {
-	.postIllustration {
-			width: 50%;
-			margin: 3rem auto!important;
-	}
-	.w-md-50 {
+  .postIllustration {
+    width: 50%;
+    margin: 3rem auto !important;
+  }
+  .w-md-50 {
     width: 50% !important;
   }
 }
-
 
 /* Ensure button text wraps on small screens */
 .btn.text-wrap {
@@ -70,11 +70,18 @@ a {
   word-break: break-word;
 }
 
+.margin-left {
+  margin-left: 2em!important;
+}
 
+ table, th, td {
+  border: 1px solid;
+}
 
+table {
+  width: 100%;
+  border-collapse:collapse;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-	"syntax",
-    "starsnonscss"
-;
+@import "syntax", "starsnonscss";

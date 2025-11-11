@@ -169,15 +169,3 @@ I hope this case study has given you insights into the complexity of satisfying 
 
 > Any content provided by our bloggers, contributors, or users is their opinion, and they are responsible for the accuracy, completeness, and validity of their statements. [Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=MarkNeville&utm_campaign=20250708Article) does not guarantee the accuracy or reliability of any opinions expressed in the content.
 
-<style>
-  table, th, td {
-  border: 1px solid;
-}
-
-table {
-  width: 100%;
-  border-collapse:collapse;
-}
-</style>
-
-
