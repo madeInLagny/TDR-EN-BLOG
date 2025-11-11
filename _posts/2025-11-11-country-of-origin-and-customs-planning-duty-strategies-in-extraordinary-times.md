@@ -63,9 +63,11 @@ So, the state of play in January 2025 was well-settled. Except for the impact of
 ![Donald Trump presenting new rates board](/assets/images/20251111-3.webp)
 
 The various "reciprocal" tariffs were at country-specific rates. As a result of the COO dictating the duty rate, COO took center stage. This is most evident in the case of China. At one point, the tariff levels for our vertical turret lathe with a COO of China were as follows:
+
 {:refdef: .margin-left}
 _Normal duty 4.2% + Section 301 25.0% + IEEPA tariff 20.0% + Reciprocal tariff 125.0% = Total 174.2%_
 {: refdef}
+
 At the time of this writing, new "trade deals" between the U.S. and its trade partners are in progress. There are bilateral agreements with the UK and Vietnam and others are under negotiation. Apart from the fact that some in the Senate are demanding that any such trade deals require Congressional approval, there is always the possibility that these may be revised. Let’s correct that—it is probable that trade deals may be revised.
 
 The most important point is that the duty rates may well vary from one country to another. That absence of uniform rates is a radical departure from the heretofore stable program of a standard Column 1 duty rate applying to almost all imports regardless of COO. The duty rates fixed by these bilateral agreements are applied on an across-theboard basis, e.g., 20% on imports from Vietnam. The implication: not much is to be gained by tariff classification strategies. This new approach with the COO’s role as a duty rate-setter accentuates its importance.
@@ -122,6 +124,7 @@ This introduction of an "essential character" benchmark was followed by Recommen
 
 - Recommended Practice \
    Where the substantial transformation criterion is expressed in terms of the ad valorem percentage rule, the values to be taken into consideration should be:
+
   - For the materials imported, the dutiable value at importation or, in the case of materials of undetermined origin, the first ascertainable price paid for them in the territory of the country in which manufacture took place; and
 
   - For the goods produced, either the ex-works price or the price at exportation, according to the provisions of national legislation. You see references here to the tariff shift rule and to a value-add rule. Again, either of these tests would deliver objectivity to the COO review. Humming along with this international tafelmusik, we have arrived at the U.S. practices on determining COO.
@@ -364,3 +367,9 @@ After a review of the foregoing you should have taken on board the following:
 > This article was originally published in the Journal of International Taxation in the September/October 2025 edition
 
 > Any content provided by our bloggers, contributors, or users is their opinion, and they are responsible for the accuracy, completeness, and validity of their statements. [Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=MarkNeville&utm_campaign=20251111Article) does not guarantee the accuracy or reliability of any opinions expressed in the content.
+
+<style>
+   .margin-left {
+  margin-left: 2em!important;
+}
+</style>
