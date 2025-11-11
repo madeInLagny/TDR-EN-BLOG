@@ -70,14 +70,5 @@ a {
   word-break: break-word;
 }
 
- table, th, td {
-  border: 1px solid;
-}
-
-table {
-  width: 100%;
-  border-collapse:collapse;
-}
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "syntax", "starsnonscss";

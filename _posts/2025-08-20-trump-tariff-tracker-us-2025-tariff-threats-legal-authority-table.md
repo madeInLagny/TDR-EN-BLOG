@@ -108,3 +108,14 @@ What’s next? There are few signs of quick de-escalation. Negotiations continue
 ---
 
 _US importers who seek to ensure their processes are fully compliant with ever-evolving regulations and want expert guidance to navigate complexities can turn to the [Trade Duty Refund trade advisory team](https://tradedutyrefund.com/consulting.html?utm_source=Blog&utm_medium=Article&utm_campaign=20250820Article). We specialize in advising on regulatory requirements, helping you optimize your cross-border sales, reduce risks of penalties, and improve your competitive edge in global trade. Let our experts guide you through compliance challenges so your importing operations run smoothly and successfully._
+
+<style>
+    table, th, td {
+  border: 1px solid;
+}
+
+table {
+  width: 100%;
+  border-collapse:collapse;
+}
+</style>
