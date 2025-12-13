@@ -20,6 +20,8 @@ author: TDR
 
 Global companies are adapting their strategies to maintain efficiency and competitiveness in a fluctuating market. [**Trade Duty Refund**](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Link&utm_campaign=20250401Article) is a global partner in navigating customs duties and compliance, helping companies understand regulations, import goods hassle-free, and maximize duty drawback.
 
+<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250401"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+
 ### Increased Costs and Pricing Adjustments
 
 Tariffs elevate the cost of imported goods, leading businesses to either absorb these costs or pass them on to customers. For example, the U.S. has imposed a 25% tariff on steel and aluminum and an additional 20% tariff on Chinese goods. Economists predict these tariffs could push inflation up to 3%.

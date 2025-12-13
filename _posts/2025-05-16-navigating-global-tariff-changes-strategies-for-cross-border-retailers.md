@@ -17,6 +17,8 @@ author: TDR
 ---
 > In today's rapidly evolving global market, cross-border retailers face significant challenges due to fluctuating tariffs. Understanding these changes is crucial for managing costs, ensuring compliance, and optimizing duty drawback opportunities.
 
+<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250516"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+
 ## How Global Tariff Changes Affect Your Customs Strategy
 
 Global tariff fluctuations present a common challenge for cross-border retailers. These changes can significantly impact business operations, from cost structures to compliance requirements. Here are some key areas affected by tariff changes:

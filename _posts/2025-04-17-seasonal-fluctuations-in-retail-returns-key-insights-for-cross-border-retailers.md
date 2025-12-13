@@ -32,6 +32,8 @@ Retail returns are a critical aspect of the e-commerce landscape, and market dat
 5. **Amazon Prime Day (July)**
    - High returns for electronics, gadgets, and home goods are common after impulse purchases during Amazon Prime Day. Buyer remorse often sets in after the event.
 
+<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250417"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+
 ### Optimizing Duty Refunds for Cross-Border Retailers
 
 For cross-border retailers, managing returns is not just about logistics; it’s also about optimizing duty refunds. [**Trade Duty Refund**](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Link&utm_campaign=20250417Article) is a dedicated customs broker that specializes in helping companies reclaim duties paid on returned items. This service is invaluable for global retailers looking to streamline their operations and maximize their duty drawback.

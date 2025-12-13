@@ -28,6 +28,8 @@ These disruptions aren’t just logistical headaches—they can erode customer t
 
 The cost? Lost sales, reputational damage, and an increased risk of churn.
 
+<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250508"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+
 ## Reputational Risk and Business Continuity
 
 With greater regulatory scrutiny comes heightened visibility. Customs non-compliance can attract unwanted attention from regulators and stakeholders alike.

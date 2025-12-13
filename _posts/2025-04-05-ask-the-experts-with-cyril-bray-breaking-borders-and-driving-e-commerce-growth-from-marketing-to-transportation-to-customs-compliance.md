@@ -35,6 +35,8 @@ Each of these challenges requires careful planning and the right tools and/or pa
 
 [**Trade Duty Refund**](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Link&utm_campaign=20250405Article) sat down with Cyril Bray, General Counsel at Glopal as well as tax and customs expert, to learn more about how e-commerce companies can plan their growth strategies while mitigating risk.
 
+<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250405"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+
 **1. Glopal has been around since 2018, tell us more about what inspired Glopal’s focus on helping businesses scale internationally, and how it stands out in the e-commerce industry.**
 
 Glopal was created by Benjamin Cohen and Patrick Smarzynski, two French founders, with a common ambition: “Create a world where anyone can sell to any customer anywhere in the world”. Therefore, Glopal is there to support international cross-border sales by e-commerce merchants by giving them the right tools and services to sell their goods worldwide. Our business model has always been to permit a direct sale of the goods by the Merchant to the end customer (clearly the opposite of the Merchant of record (MoR) model). Most of the blockers argued by the MoR suppliers to promote their business model are outdated and wrong. For example, the tax registration obligation is limited to less than 10 countries worldwide and you can ship DDP (Delivery Duty Paid) to all other countries by using your carrier’s processes without any friction.

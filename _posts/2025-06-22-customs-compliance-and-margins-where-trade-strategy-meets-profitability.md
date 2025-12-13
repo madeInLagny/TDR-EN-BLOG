@@ -42,6 +42,8 @@ If your supply chain touches countries with preferential trade agreements, you m
 
 My advice: Conduct a Customs Assessment with a professional organization. Many companies discover they qualify for exemptions they never claimed. Lower duties = improved profit margins.
 
+<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250622"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+
 ## 3. Valuation Strategy: More Than Just Invoice Price
 
 The declared value for customs isn't always the same as your invoice price.

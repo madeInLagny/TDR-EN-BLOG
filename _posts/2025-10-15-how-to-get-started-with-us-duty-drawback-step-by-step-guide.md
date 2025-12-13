@@ -61,6 +61,9 @@ A U.S. electronics firm imports microchips to build circuit boards that are then
 
 ---
 
+<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20251015"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+
+
 ## The 4 Steps to Claiming Your Duty Refund
 
 Claiming a refund may sound technical, but with a structured process, you can navigate it smoothly. At [**Trade Duty Refund**](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Post&utm_campaign=20251015Article), we’ve simplified the journey into four clear steps.

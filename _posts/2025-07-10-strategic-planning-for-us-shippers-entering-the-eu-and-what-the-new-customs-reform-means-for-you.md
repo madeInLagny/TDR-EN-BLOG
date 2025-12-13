@@ -28,6 +28,8 @@ Europe isn’t a monolith. Shipping into Germany is a different game than shippi
 
 **Strategic Tip:** Consider bonded warehouses and evaluate regional fulfillment providers to localize your supply chain footprint.
 
+<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250710"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+
 ## 3. Optimize for Duties & Tariffs
 
 Despite trade agreements, tariffs and duties still vary based on product category and origin. Strategic classification and country-of-origin rules can reduce costs, especially when coupled with trade agreements like the EU-U.S. Mutual Recognition Agreement (MRA).
