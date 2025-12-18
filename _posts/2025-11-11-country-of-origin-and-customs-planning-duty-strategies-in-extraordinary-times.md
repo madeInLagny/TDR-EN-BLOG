@@ -6,8 +6,6 @@ categories: [mark neville, us]
 image: assets/images/20251111-1.webp
 comments: false
 author: mark-neville
-featured: true
-hidden: true
 ---
 
 > In both ordinary and extraordinary times, customs planning, a/k/a duty minimization, is a major pre-occupation for importers and their advisers. So, is there a difference in the planning strategies that are explored in ordinary vs. extraordinary times? Yes.

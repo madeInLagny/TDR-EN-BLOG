@@ -6,6 +6,8 @@ categories: [TDR, eu, uk, us, duty drawback, e-commerce]
 image: assets/images/20251215-1.webp
 comments: false
 author: TDR
+featured: true
+hidden: true
 ---
 
 > The post-holiday returns surge in e-commerce represents the peak season for refunds, offering savvy retailers a prime chance to reclaim import duties paid on those very goods. With return rates climbing as high as 30% during festive periods, this influx turns potential losses into recoverable cash flow through duty drawback programs. TDR stands ready to guide retailers and logistics providers in the EU, UK, and US to capitalize on this opportunity, starting with a simple chat or questionnaire.

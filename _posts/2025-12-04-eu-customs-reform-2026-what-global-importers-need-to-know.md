@@ -6,8 +6,6 @@ categories: [TDR, eu, duty drawback, e-commerce, ask the experts]
 image: assets/images/20251204-1.webp
 comments: false
 author: TDR
-featured: true
-hidden: true
 ---
 
 > Today we're diving into a significant regulatory shifts in international trade: the announced changes to the EU Customs regulation in 2026. Whether you're headquartered in the US, UK, China, India, Australia, or anywhere else in the world, if you're importing goods into the European Union, these changes will directly impact your supply chain finances and duty obligations. Understanding what's coming and preparing now could mean substantial savings and operational efficiency gains for your business. Our CEO [Jocelyn Montpert](https://tradedutyrefund.com/jocelyn-montpert.html?utm_source=Blog&utm_medium=Article&utm_campaign=20251204Article) shares his insights.
