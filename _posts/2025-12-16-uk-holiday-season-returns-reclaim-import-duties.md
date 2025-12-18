@@ -1,8 +1,8 @@
 ---
 layout: post
-title: UK Holiday Season Returns - Reclaim Import Duties
-description: Learn how UK eCommerce finance leaders can reclaim import duties on returned online orders within 3 months, turning Q1’s returns spike into a measurable margin gain while staying HMRC-compliant.
-categories: TDR, uk, duty drawback, duty-free returns, e-commerce
+title: "UK Holiday Season Returns - Reclaim Import Duties"
+description: "Learn how UK eCommerce finance leaders can reclaim import duties on returned online orders within 3 months, turning Q1’s returns spike into a measurable margin gain while staying HMRC-compliant."
+categories: [TDR, uk, duty drawback, duty-free returns, e-commerce]
 image: assets/images/20251216-1.webp
 comments: false
 author: TDR
@@ -38,7 +38,7 @@ When finance teams capture and structure data on returns that fall inside this t
 
 ## Getting declarations right
 
-Duty recovery on returned goods does not happen automatically: it depends on how both the original import and the subsequent export declarations are structured. On top of commodity codes, origin, customs value and any special procedures, references to the orders must be correctly declared to establish the duty paid and link it to specific consignments and products. If the importation was not fully documented in CDS, [TDR experts team](https://tradedutyrefund.com/our-team-of-international-trade-experts.html?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251215)
+Duty recovery on returned goods does not happen automatically: it depends on how both the original import and the subsequent export declarations are structured. On top of commodity codes, origin, customs value and any special procedures, references to the orders must be correctly declared to establish the duty paid and link it to specific consignments and products. If the importation was not fully documented in CDS, [TDR experts team](https://tradedutyrefund.com/our-team-of-international-trade-experts.html?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251216)
 
 Supporting records, such as order and shipment IDs, customer returns data, carrier tracking and warehouse receipts need to be consistent so that auditors can trace each SKU from first import through return and final export.
 
@@ -50,7 +50,7 @@ Operationally, warehouses and 3PLs are already segmenting returned stock by cond
 
 ## TDR’s streamlined reclaim process
 
-[Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251215) has developed a dedicated, low‑friction process to help UK importers reclaim duties on returned eCommerce goods with minimal disruption to existing operations. The approach starts with a diagnostic of your import, returns and export data to identify high‑yield lanes and SKUs where duty paid is significant and re‑exports are frequent within the three‑month window
+[Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251216) has developed a dedicated, low‑friction process to help UK importers reclaim duties on returned eCommerce goods with minimal disruption to existing operations. The approach starts with a diagnostic of your import, returns and export data to identify high‑yield lanes and SKUs where duty paid is significant and re‑exports are frequent within the three‑month window
 
 Once the opportunity is quantified, TDR connects import entries, outbound orders, customer returns and re‑exports into structured claim files that meet HMRC expectations, while working alongside your existing brokers, 3PLs and platforms rather than replacing them. A contingent-fee model keeps internal budget impact low, with TDR remunerated on recovered duties rather than fixed consulting days, aligning incentives with finance’s focus on measurable payback.
 
@@ -60,7 +60,7 @@ A common concern for CFOs is that duty reclaim projects will overload internal t
 
 ## Expert readiness assessment
 
-Not every retailer is ready to file a robust duty refund claim on day one, which is why TDR’s team starts with an eligibility and readiness assessment. TDR provides the option of a 2-minute [online preliminary questionnaire](https://tradedutyrefund.com/duty-refund-questionnaire-UK.html?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251215) or a [short live discussion](https://tradedutyrefund.com/make-an-appointment.html?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251215). This review looks at your customs broker setup, the consistency of your import and export declarations, and the completeness of order, shipment and returns data needed to substantiate claims.
+Not every retailer is ready to file a robust duty refund claim on day one, which is why TDR’s team starts with an eligibility and readiness assessment. TDR provides the option of a 2-minute [online preliminary questionnaire](https://tradedutyrefund.com/duty-refund-questionnaire-UK.html?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251216) or a [short live discussion](https://tradedutyrefund.com/make-an-appointment.html?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251216). This review looks at your customs broker setup, the consistency of your import and export declarations, and the completeness of order, shipment and returns data needed to substantiate claims.
 
 Where gaps exist, for example, missing links between export declarations and original import entries, TDR recommends targeted fixes that improve both compliance and refund potential. For finance leaders, that translates into a clear view of “money left on the table,” a roadmap to unlock it, and confidence that any claims submitted stand up to HMRC scrutiny.
 
@@ -72,6 +72,6 @@ By pairing a customer-friendly returns strategy with a disciplined duty reclaim 
 
 Resources:
 
-* [Online preliminary questionnaire](https://tradedutyrefund.com/duty-refund-questionnaire-UK.html?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251215)
+* [Online preliminary questionnaire](https://tradedutyrefund.com/duty-refund-questionnaire-UK.html?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251216)
 
-* [Availability for a live discussion](https://tradedutyrefund.com/make-an-appointment.html?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251215)
+* [Availability for a live discussion](https://tradedutyrefund.com/make-an-appointment.html?utm_source=Blog&utm_medium=uk-holiday-season-returns-reclaim-import-duties&utm_campaign=20251216)
