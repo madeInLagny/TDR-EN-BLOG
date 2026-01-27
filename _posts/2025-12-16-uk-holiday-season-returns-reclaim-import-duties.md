@@ -6,8 +6,6 @@ categories: [TDR, uk, duty drawback, duty-free returns, e-commerce]
 image: assets/images/20251216-1.webp
 comments: false
 author: TDR
-featured: true
-hidden: true
 ---
 
 >UK eCommerce returns are no longer a side issue; they are one of the biggest line items eroding contribution margin in fashion, footwear and other high-return categories. In a market where online return rates frequently sit around 20–25%, UK retailers are absorbing growing logistics, processing and duty costs just to stand still on revenue. For CFOs and controllers, the question is no longer “how to live with returns” but “how to recover cash from them without adding operational friction.”
