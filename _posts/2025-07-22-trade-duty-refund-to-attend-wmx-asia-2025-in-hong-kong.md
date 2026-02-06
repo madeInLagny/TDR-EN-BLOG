@@ -14,7 +14,7 @@ author: TDR
 
 **WMX Asia** is **Asia’s leading post and parcel conference**, bringing together over **200 senior industry leaders** for three days of expert insights, keynote presentations, panel discussions, and networking opportunities. Attendees include executives from top logistics, postal, and e-commerce organizations such as **Singapore Post**, **Hong Kong Post**, **FedEx**, **Cainiao Group**, and **Aftership**. As a global player in **duty recovery services**, **Trade Duty Refund** is attending to stay at the forefront of developments in **cross-border logistics**, **international shipping**, and **customs compliance**. The event provides us with a valuable platform to engage with industry peers, explore emerging technologies, and strengthen partnerships that enhance our global service offering.
 
-<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250722"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250722"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 ## Why We're Attending
 

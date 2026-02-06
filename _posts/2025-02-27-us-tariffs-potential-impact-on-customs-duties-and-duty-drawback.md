@@ -39,7 +39,7 @@ Duty drawback is a **U.S. Customs and Border Protection** program that allows im
 
 However, navigating this process has become more complicated. Companies must maintain meticulous records to prove the direct relationship between imported goods and the exported products. Recent changes to policy, such as the **Trade Facilitation and Trade Enforcement Act (TFTEA)**, have expanded the scope of duty drawback but also intensified compliance requirements.
 
-<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250227"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250227"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 ## Pressure on Profit Margins, Competitiveness, and Returns Management
 

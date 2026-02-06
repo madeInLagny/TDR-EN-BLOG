@@ -22,7 +22,7 @@ Often referred to under Section 301, certain tariff exclusions may be granted ba
 
 Reassess your production or sourcing locations. Free Trade Agreements (FTAs) like DR-CAFTA can dramatically reduce duty liabilities, making a shift in supply chain an effective mitigation tool.
 
-<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250729"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250729"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 ### 3. Update Classification
 

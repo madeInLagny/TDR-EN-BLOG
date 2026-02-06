@@ -20,7 +20,7 @@ author: TDR
 
 Global companies are adapting their strategies to maintain efficiency and competitiveness in a fluctuating market. [**Trade Duty Refund**](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Link&utm_campaign=20250401Article) is a global partner in navigating customs duties and compliance, helping companies understand regulations, import goods hassle-free, and maximize duty drawback.
 
-<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250401"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250401"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 ### Increased Costs and Pricing Adjustments
 

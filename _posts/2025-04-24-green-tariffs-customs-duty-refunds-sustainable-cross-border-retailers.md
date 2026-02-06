@@ -46,7 +46,7 @@ Some countries, including the United States, are implementing tariff exemptions 
 
 For cross-border retailers, understanding customs duty refunds is crucial. **Duty drawback** and **duty refunds** are essential components of international trade efficiency. Companies can reclaim duties paid on imported goods, reducing their overall customs costs. This process not only benefits the bottom line but also supports sustainable trade practices by ensuring fair competition and promoting eco-friendly products.
 
-<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250424"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250424"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 ### How to Calculate Duty Drawback
 

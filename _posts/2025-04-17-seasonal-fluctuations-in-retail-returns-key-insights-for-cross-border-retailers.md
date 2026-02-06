@@ -32,7 +32,7 @@ Retail returns are a critical aspect of the e-commerce landscape, and market dat
 5. **Amazon Prime Day (July)**
    - High returns for electronics, gadgets, and home goods are common after impulse purchases during Amazon Prime Day. Buyer remorse often sets in after the event.
 
-<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250417"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250417"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 ### Optimizing Duty Refunds for Cross-Border Retailers
 

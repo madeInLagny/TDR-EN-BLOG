@@ -28,7 +28,7 @@ Europe isn’t a monolith. Shipping into Germany is a different game than shippi
 
 **Strategic Tip:** Consider bonded warehouses and evaluate regional fulfillment providers to localize your supply chain footprint.
 
-<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250710"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250710"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 ## 3. Optimize for Duties & Tariffs
 

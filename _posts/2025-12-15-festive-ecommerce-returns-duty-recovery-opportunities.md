@@ -21,7 +21,7 @@ This surge stems from gift mismatches, sizing issues, and buyer's remorse amplif
 
 [TDR delivers tailored duty drawback solutions](https://tradedutyrefund.com/?utm_source=Blog&utm_medium=Article&utm_campaign=20251213) for reclaiming import duties on returned e-commerce goods across the EU, UK, and US. These programs allow recovery of duties paid on imports that are later exported or returned, directly boosting cash flow during high-return periods. Our expertise ensures compliance with varying country-specific rules, turning seasonal headaches into revenue streams.
 
-<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20251215"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20251215"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 
 ## Country-Specific Expertise

@@ -27,7 +27,7 @@ Effective May 2, 2025, the U.S. terminated the de minimis rule for packages from
 ## 2. EU Launches Unified Customs Data Platform
 In March 2025, the European Union launched its new centralized EU Customs Data Environment. This platform aims to harmonize digital customs procedures across all member states by 2028, enabling real-time data exchange between businesses and customs authorities. The initiative is expected to cut compliance time for cross-border traders and streamline duty refunds in Europe.
 
-<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250423"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250423"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 ## 3. IMF Downgrades Global Growth Forecast due to Trade Tensions
 The International Monetary Fund reduced its global growth projection for 2025 to 2.8%, citing escalating trade disputes and uncertainties. The U.S. growth forecast was also lowered to 1.8%. These economic shifts underscore the importance of international duty reclaim strategies for global retailers.

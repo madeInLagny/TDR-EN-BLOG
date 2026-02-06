@@ -35,7 +35,7 @@ Each of these challenges requires careful planning and the right tools and/or pa
 
 [**Trade Duty Refund**](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Link&utm_campaign=20250405Article) sat down with Cyril Bray, General Counsel at Glopal as well as tax and customs expert, to learn more about how e-commerce companies can plan their growth strategies while mitigating risk.
 
-<a href="https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250405"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250405"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 **1. Glopal has been around since 2018, tell us more about what inspired Glopal’s focus on helping businesses scale internationally, and how it stands out in the e-commerce industry.**
 
