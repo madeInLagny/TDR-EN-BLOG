@@ -16,7 +16,7 @@ author: TDR
 
 The first non‑negotiable step is identifying who appears as the IOR on your U.S. entries (aka form 7501) and who actually funded the duties: your business, the carrier, or the end consumer.
 
-In many DDP arrangements, the IOR is either the express carrier or the consignee. It is rarely the foreign retailer unless you’ve intentionally registered as a Foreign Importer of Record.
+In many DDP arrangements, the IOR is either the express carrier or the consignee. It is rarely the foreign retailer unless you’ve intentionally registered as a Foreign IOR. One way to check the entity acting as the IOR is to obtain a copy of the 7501 form (your broker should be able to send you one). All details about the IOR are shown on that form.
 
 Because the Court of International Trade has not yet established a formal procedure for IEEPA‑related duty refunds, it remains unclear whether eligibility will rest with the IOR or the party that paid CBP. Either way, understanding each entity’s role in your customs process is essential preparation for what’s ahead.
 
