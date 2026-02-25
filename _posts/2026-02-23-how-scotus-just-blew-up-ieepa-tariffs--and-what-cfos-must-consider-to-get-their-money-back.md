@@ -73,7 +73,7 @@ In this environment, the companies that treat IEEPA not as a legal headline but 
 
 
 ---
-_[Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=SCOTUSIEEPADECISION&utm_campaign=20260223) specializes in customs duty reclamation for international e-commerce and import/export businesses. We will support filling for IEEPA reclaim. [Contact our team](https://tradedutyrefund.com/contact-us?utm_source=Blog&utm_medium=manifest2026Vegas&utm_campaign=20260127) to discuss your specific situation._
+_[Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=SCOTUSIEEPADECISION&utm_campaign=20260223) specializes in customs duty reclamation for international e-commerce and import/export businesses. We will support filling for IEEPA reclaim. [Contact our team](https://tradedutyrefund.com/contact-us?utm_medium=SCOTUSIEEPADECISION&utm_campaign=20260223) to discuss your specific situation._
 
 
 [^1]: See our previous post [How the Trump Administration is Using U.S. Trade Laws to Impose Tariffs: Section 301, Section 232, and IEEPA Explained](https://blog.tradedutyrefund.com/how-trump-admin-uses-section-301-232-ieepa-tariffs-import-export/?utm_source=Blog&utm_medium=Post&utm_campaign=20250730)
