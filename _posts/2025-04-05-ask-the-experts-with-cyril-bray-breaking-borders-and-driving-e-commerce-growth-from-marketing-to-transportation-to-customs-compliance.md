@@ -13,8 +13,6 @@ categories:
   ]
 image: assets/images/20250405-1.webp
 comments: false
-featured: false
-hidden: false
 author: TDR
 ---
 

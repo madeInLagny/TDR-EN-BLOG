@@ -5,8 +5,6 @@ description: "Explore insights on international e-commerce and logistics challen
 categories: [ask the experts, uk, eu, us, duty drawback, duty-free returns, e-commerce, b2c, TDR]
 image: assets/images/20241016-1.webp
 comments: false
-featured: false
-hidden: false
 author: TDR
 ---
 

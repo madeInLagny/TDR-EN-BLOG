@@ -6,8 +6,6 @@ categories: [TDR, us, uk, eu, duty drawback, e-commerce, ask the experts]
 image: assets/images/20260127-1.webp
 comments: false
 author: TDR
-featured: true
-hidden: true
 ---
 
 > **Selling internationally? You're likely leaving millions in tariff recovery on the table.** At Manifest in Las Vegas this February, [Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=manifest2026Vegas&utm_campaign=20260127) will show you exactly how much your business can save through expert duty drawback and duty reclaim solutions across the US, UK, and EU markets.

@@ -6,8 +6,7 @@ categories: [TDR, eu, e-commerce, duty drawback]
 image: assets/images/20260112-1.webp
 comments: false
 author: TDR
-featured: true
-hidden: true
+
 ---
 
 > If you're importing e-commerce orders to Italy and Romania in 2026, there's a new cost hitting your bottom line—and it's not a standard import duty. Starting January 1st, Italy implemented a €2 handling fee and Romania a 25 lei fee on every imported e-commerce package. These charges represent a significant shift in how the EU manages cross-border digital commerce, and understanding them is essential for protecting your margins.

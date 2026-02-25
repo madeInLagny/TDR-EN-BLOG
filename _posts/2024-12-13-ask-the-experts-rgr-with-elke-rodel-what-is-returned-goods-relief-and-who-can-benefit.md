@@ -5,8 +5,6 @@ description: "Learn about Returned Goods Relief (RGR) with Elke Rödel, an exper
 categories: [ask the experts, eu, uk, us, duty drawback, duty-free returns, e-commerce, b2c, TDR]
 image: assets/images/20241213-1.webp
 comments: false
-featured: false
-hidden: false
 author: TDR
 ---
 
