@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why US Consumers Paid But May Not Get Refunded of 'Reciprocal' Tariffs"
-description: The Supreme Court struck down Trump's IEEPA tariffs, triggering $175 billion in refunds. Learn why individual buyers who paid may not see a cent and who actually gets the money back.
+description: "The Supreme Court struck down Trump's IEEPA tariffs, triggering $175 billion in refunds. Learn why individual buyers who paid may not see a cent and who actually gets the money back."
 categories: [TDR, us, duty drawback, e-commerce, b2c]
 image: assets/images/20260313-1.webp
 comments: false
