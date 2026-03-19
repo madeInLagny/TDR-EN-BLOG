@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How EU Retailers Can Recover Duty on Returned Goods in 2026
+title: How Retailers Can Recover Duty in EU on Returned Goods in 2026
 description: Master EU duty drawback for returned goods. Protect margins on B2C returns with actionable strategies before the €3 duty and handling fee changes in July 2026.
 categories: [TDR, eu, duty drawback, b2c, e-commerce]
 image: assets/images/20260319-1.webp
