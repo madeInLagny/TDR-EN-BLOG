@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Case Study - When Trade Strategy Meets Luxury Craftsmanship
-description:
+description: Duty out. Margins up. Discover how a luxury retailer transformed trade strategy into a scalable growth lever across global markets.
 categories: [TDR, eu]
 image: assets/images/20260330-1.webp
 comments: false
