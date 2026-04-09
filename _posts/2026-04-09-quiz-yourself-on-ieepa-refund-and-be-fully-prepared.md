@@ -73,6 +73,8 @@ author: TDR
 </div>
 <hr/>
 
+<a href="https://zcal.co/i/vGcc6eVj"><img src="../assets/images/CallOut/IEEPARefundReadinessProgram.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+
 ### 6. In case of a DDP sale, who will get the IEEPA credit?
 
 <div>
@@ -133,9 +135,9 @@ author: TDR
 </div>
 <hr/>
 
-[Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Post&utm_campaign=20260406) helps European and US retail brands mitigate and recover customs duties across complex international supply chains. With expertise in EU, UK and US Duty Refund, Returned Goods Relief, Rex registration,IEEPA tariff recovery, and VAT refunds, we've helped clients recover over millions in unclaimed duties. Our mission: turn compliance complexity into competitive advantage.
+[Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Post&utm_campaign=20260409) helps brands mitigate and recover customs duties across complex international supply chains. With expertise in EU, UK and US Duty Refund, Returned Goods Relief, Rex registration,IEEPA tariff recovery, and VAT refunds, we've helped clients recover over millions in unclaimed duties. Our mission: turn compliance complexity into competitive advantage.
 
-[Contact TDR today](https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=Post&utm_campaign=20260406). to discuss how our team of experts can help you and your business be more competitive.
+[Contact TDR today](https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=Post&utm_campaign=20260409). to discuss how our team of experts can help you and your business be more competitive.
 
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
