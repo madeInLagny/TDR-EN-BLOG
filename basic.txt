@@ -83,3 +83,10 @@ For Carousel, use
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/css/glide.theme.min.css" integrity="sha512-wCwx+DYp8LDIaTem/rpXubV/C1WiNRsEVqoztV0NZm8tiTvsUeSlA/Uz02VTGSiqfzAHD4RnqVoevMcRZgYEcQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <script>new Glide('.glide').mount()</script>
+
+## HTML in json files!
+New since April 2025, encoded html (like a tags) can be included in json i18 files. They must be encoded using this site:
+https://emn178.github.io/online-tools/html_encode.html. They will be decoded by the gulp process.
+
+## Word to HTML
+This tool convert plain text to HTML syntax: https://text-html.com/
