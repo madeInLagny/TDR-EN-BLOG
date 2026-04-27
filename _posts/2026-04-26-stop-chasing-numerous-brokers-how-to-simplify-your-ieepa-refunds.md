@@ -30,6 +30,8 @@ Every entry is categorized into one of three buckets to make the filing path cle
 
 This structure helps finance teams understand both timing and risk.  It also helps supply chain leaders see which entries are immediately actionable versus which ones require a more controlled compliance approach.
 
+<a href="https://tradedutyrefund.com/ieepa-refund-support.html"><img src="../assets/images/CallOut/IEEPARefundReadinessProgram.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+
 ## Refund Exposure Analysis
 
 We calculate the estimated refund exposure across all categories so leadership can see the financial opportunity with more clarity.  That includes what may be recovered in Phase 1, what is likely to move into future phases, and the total IEEPA duties paid.  In practical terms, that means fewer assumptions and a more defensible view of recoverable value.

@@ -73,7 +73,7 @@ author: TDR
 </div>
 <hr/>
 
-<a href="https://zcal.co/i/vGcc6eVj"><img src="../assets/images/CallOut/IEEPARefundReadinessProgram.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/ieepa-refund-support.html"><img src="../assets/images/CallOut/IEEPARefundReadinessProgram.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 ### 6. In case of a DDP sale, who will get the IEEPA credit?
 

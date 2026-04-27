@@ -69,7 +69,7 @@ Yes, and that involves a **Power of Attorney (POA) and a third party broker**. T
 
 For B2C transactions, this requires foresight and contractual arrangements made **before** the tariff payments occurred. For the millions of individual transactions that have already taken place, obtaining retroactive POAs is impractical to impossible.
 
-<a href="https://zcal.co/i/vGcc6eVj"><img src="../assets/images/CallOut/IEEPARefundReadinessProgram.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/ieepa-refund-support.html"><img src="../assets/images/CallOut/IEEPARefundReadinessProgram.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 ## Lessons for the Future
 
