@@ -3,7 +3,7 @@ layout: post
 title: "TDR partners with ZigZag to launch an integrated EU Duty Drawback Service for UK Retailers"
 description: "TDR partners with ZigZag to launch the first integrated EU Duty Drawback Service for UK retailers, enabling duty recovery on EU customer returns amid upcoming customs reforms."
 categories: [TDR, uk]
-image: assets/images/20260430-1.webp
+image: assets/images/20260429-1.webp
 comments: false
 author: TDR
 ---
