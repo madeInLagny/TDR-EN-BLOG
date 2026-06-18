@@ -6,8 +6,6 @@ categories: [TDR, us]
 image: assets/images/20260426-1.webp
 comments: false
 author: TDR
-featured: true
-hidden: true
 ---
 
 > The Supreme Court’s ruling on IEEPA tariffs creates a refund opportunity for U.S. importers, but recovery is not automatic, and the work required to identify eligible entries, validate data, and submit a CAPE Declaration can be significant for finance and supply chain teams.
