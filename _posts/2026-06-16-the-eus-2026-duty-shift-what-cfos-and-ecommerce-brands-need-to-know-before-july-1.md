@@ -74,6 +74,10 @@ For CFOs and Controllers, this is a margin-protection issue. For Supply Chain le
 **About CB Consulting & Management**
 CB Consulting & Management is an operational and strategic advisory firm — not a law firm. All engagements are management consulting mandates: the team works alongside your leadership team and, where needed, coordinates with your legal counsel to ensure execution is both commercially sound and compliant.
 
+Learn more at [**CB Consulting & Management**](https://cbconsulting-management.com/)
+
+
+
 **About TDR**
 Trade Duty Refund helps eCommerce and international brands recover import duties, unlock duty-free selling advantages, and improve margins across global markets. TDR simplifies customs duty recovery and trade compliance so businesses can save money and sell more competitively worldwide.
 
