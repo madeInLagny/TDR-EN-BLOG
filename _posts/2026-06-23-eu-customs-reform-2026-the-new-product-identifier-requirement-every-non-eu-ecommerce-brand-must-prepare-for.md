@@ -57,6 +57,6 @@ Waiting until the deadline is risky because customs data changes often take long
 Brands that prepare early will be better positioned to avoid clearance delays and protect customer experience during peak shipping periods. For companies selling into the EU at scale, that preparation is now a competitive advantage.
 
 **About TDR**
-Trade Duty Refund helps eCommerce and international brands recover import duties, unlock duty-free selling advantages, and improve margins across global markets. TDR simplifies customs duty recovery and trade compliance so businesses can save money and sell more competitively worldwide.
+Trade Duty Refund helps brands recover import duties on cross border sales, unlock duty-free selling advantages, and improve margins across global markets. TDR simplifies customs duty recovery and trade compliance so businesses can save money and sell more competitively worldwide.
 
 Learn more at [**tradedutyrefund.com**](https://tradedutyrefund.com/?utm_source=Blog&utm_medium=ZigZagPartnership&utm_campaign=20260623)
