@@ -7,7 +7,6 @@ image: assets/images/20260624-1.webp
 comments: false
 author: TDR
 ---
-
 > It is very likely that a customs broker clears your goods in the country of destination. You still need a way to verify that the data declared on your entries matches your invoices, product records, and compliance rules.
 
 A customs broker can file entries efficiently, but your company is still responsible for the accuracy of the underlying customs data. That is why broker audits matter for finance leaders, controllers, and supply chain teams that want to reduce duty leakage, avoid avoidable penalties, and improve control over import compliance. The best audits do not just look for mistakes; they show whether your internal process is strong enough to catch them early.
