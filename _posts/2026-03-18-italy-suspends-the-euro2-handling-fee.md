@@ -16,7 +16,7 @@ Beyond immediate logistical concerns, the suspension also reflects a broader eff
 
 However, this transitional period is likely to create confusion—particularly around the distinction between handling fees and customs duties, two concepts that are often misunderstood but have very different implications.
 
-<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250227"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=EUDutiesRisingCallOut&utm_campaign=20250227"><img src="../assets/images/CallOut/EUDutiesRising.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 ## Understanding the key differences between handling fees and Customs Duties
 

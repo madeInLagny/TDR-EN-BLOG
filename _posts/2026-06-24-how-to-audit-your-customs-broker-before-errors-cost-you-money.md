@@ -2,7 +2,7 @@
 layout: post
 title: How to Audit Your Customs Broker Before Errors Cost You Money
 description: Learn how to audit your customs broker by checking declared value, HS codes, FTA claims, and ACE data before small errors become costly problems.
-categories: [TDR, us, eu, uk, duty drawback, ask the experts, e-commerce]
+categories: [TDR, us, eu, uk, duty drawback, e-commerce]
 image: assets/images/20260624-1.webp
 comments: false
 author: TDR

@@ -26,7 +26,7 @@ Essentially, any business importing goods for export, destruction, or incorporat
 
 ---
 
-<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=PrepareForJulyCallOut&utm_campaign=20250909"><img src="../assets/images/CallOut/PrepareForJuly.webp" alt="TDR CallOut" style="border-radius:1%"></a>
+<a href="https://tradedutyrefund.com/get-started-with-TDR-in-the-EU.html?utm_source=Blog&utm_medium=EUDutiesRisingCallOut&utm_campaign=20250909"><img src="../assets/images/CallOut/EUDutiesRising.webp" alt="TDR CallOut" style="border-radius:1%"></a>
 
 
 ## Duty Drawback Refund: How Much Can Be Reclaimed?
