@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer Returns Are Costing You 15–20% More in Duties – Here’s How to Recover Them with Duty Drawback"
+title: "Summer Returns Are Costing You 15–20% More in Duties. Here’s How to Recover Them with Duty Drawback"
 description: "Discover how summer return surges and new 2026 customs rules (€3/item in EU, $80–$200/package in US) are costing B2C retailers 15–20%+ in duties on cross-border returns – and how Duty Drawback recovers these costs."
 categories: [ TDR, duty drawback, us, eu, uk, b2c, e-commerce, cross-border, customs ]
 image: assets/images/20260702-1.webp
