@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Roles of Importer, Broker, and Consignee in US Import Sales: Responsibilities Explained"
-description: "A comprehensive guide to the roles and legal responsibilities of importers, customs brokers, and consignees in US import sales, with practical examples, legal nuances, and tips for compliance."
+title: "U.S. Importer of Record vs. Consignee: Key Differences"
+description: "Understand how the U.S. importer of record, customs broker, and consignee differ, who handles customs-entry responsibilities, and what ecommerce importers should verify."
 categories: [TDR, us, e-commerce, duty drawback]
 image: assets/images/20250812-1.webp
 comments: false
 author: TDR
+last_modified_at: 2026-11-11
 ---
 
-> Understanding the roles of various entities involved in import sales in the United States is essential for anyone engaging in cross-border trade. The importer, customs broker, and consignee each play distinct but interconnected roles, carrying specific responsibilities that ensure the legal and efficient flow of goods into the country. Whether you are a small business dipping your toes into importing or a multinational corporation accustomed to large-scale supply chains, grasping these distinctions is critical to avoiding delays, penalties, and compliance missteps.
+> The importer of record, customs broker, and consignee have different roles in a U.S. import transaction. The importer of record is responsible for the import entry; a customs broker may act on the importer's behalf; and the consignee is the party named to receive the goods. These roles can belong to different businesses, so ecommerce importers should confirm who is named on entry and shipping documents.
 
-When goods are imported into the United States, the sales transaction and logistics involve several key players: the importer, the customs broker, and the consignee. Each serves a unique function within the process, but all share the common goal of ensuring that imported goods lawfully enter the country and reach their final destination. While their responsibilities sometimes overlap, U.S. Customs and Border Protection (CBP) law clearly identifies who holds **ultimate legal accountability**—and that is almost always the importer of record.
+This guide explains the difference between an importer of record and a consignee, what a customs broker does, and why the distinction matters for cross-border ecommerce brands.
 
 ## The Importer — Legal Owner of the Customs Compliance Process
 
@@ -102,7 +103,11 @@ Consignees, though not directly targeted by CBP penalties for entry violations, 
 4. **Maintain meticulous records**, including all declarations, invoices, and communications with brokers.
 5. **Stay updated** on US trade policy changes; tariffs and regulations can shift quickly.
 
+For a separate question—whether eligible goods imported into the U.S. and later exported may qualify for duty drawback—see our [U.S. duty drawback guide](https://blog.tradedutyrefund.com/duty-drawback-us-importers-guide-tariffs-refunds-e-commerce-retail/). Drawback eligibility is distinct from importer, broker, and consignee roles.
+
 For example, when Section 301 tariffs on Chinese imports were introduced, importers of record had to rapidly adjust their payment structures and consider tariff engineering strategies such as minor product modifications or supply chain shifts.
+
+For CBP's explanation of importer responsibilities and working with a customs broker, see [Importer/Exporter Tips](https://www.cbp.gov/trade/basic-import-export/importer-exporter-tips).
 
 ## Conclusion
 

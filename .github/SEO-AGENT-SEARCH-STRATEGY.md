@@ -45,6 +45,24 @@ On November 11, 2026, the owner supplied three page-filtered Search Console work
 
 The owner confirmed the current US-first market order, service priorities, and industry boundaries recorded above. SEO work should now pair this business hierarchy with page/query evidence rather than treating traffic alone as the priority.
 
+### Draft implementation and source review
+
+On November 11, 2026, prepared unpublished editorial drafts in the repository:
+
+- The US importer/consignee article now targets its observed informational query intent in the title, description, and opening answer. It links to the US duty-drawback explainer only as a separate topic and cites CBP's [Importer/Exporter Tips](https://www.cbp.gov/trade/basic-import-export/importer-exporter-tips). The article's wider legal examples and assertions still need subject-matter review.
+- The US duty-drawback explainer now directs readers to the US questionnaire for an eligibility review instead of the generic home page. This is a more direct route to the owner's top-priority service, but the article contains other legal, eligibility, refund-percentage, and market-statistic claims that have not yet been audited.
+- The UK reclaim article has been reframed around the different direction of goods movement for Returned Goods Relief versus potential repayment routes after import and export. It now includes a practical records checklist, a UK questionnaire CTA, and HMRC links. Official-source review found that UK RGR concerns previously exported goods re-imported to the UK; relief from import VAT has a separate same-person condition. HMRC's rejected-import route has distinct conditions, including a one-year claim limit and an application timing requirement before packing goods for re-export/destruction. A qualified reviewer must confirm that the article's terminology and description match TDR's actual UK duty-drawback service and intended ecommerce flows.
+- These are draft repository edits, not owner-approved or published content. The Jekyll build passed, and the rendered titles, descriptions, update dates, questionnaire CTA, and HMRC citations were checked. Legal/service review and canonical-host confirmation remain outstanding.
+
+The strategy agent built the site to temporary output directories on November 11, 2026. The build succeeded. It exposed two titles in each rendered page head because the layout supplied its own `<title>` and Jekyll SEO Tag emitted another; `_layouts/default.html` now invokes `{% seo title=false %}` while retaining the site's existing explicit title. A rebuild confirmed one title tag on each of the three inspected draft pages, along with updated dates and key links. The SEO tag did not emit a canonical URL because the site has no configured `url`; do not set one until the owner confirms the intended canonical host. The build also emits existing Sass `@import` deprecation notices and duplicate category-archive destination warnings; these are unrelated to the draft edits and were not changed.
+
+Official-source review as of November 11, 2026:
+
+- **US drawback:** 19 U.S.C. §1313 and 19 C.F.R. Part 190 govern distinct drawback provisions; the general statutory filing deadline is five years from importation, subject to the applicable provision and evidence. CBP's ACE/ABI CATAIR materials describe electronic submission context. Sources: [19 U.S.C. §1313](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1313&num=0&edition=prelim), [19 C.F.R. Part 190](https://www.ecfr.gov/current/title-19/chapter-I/part-190), and [CBP ACE/ABI CATAIR](https://www.cbp.gov/trade/automated/catair).
+- **US importer/broker:** CBP states the importer remains responsible for entry correctness and applicable duties even when using a customs broker. Source: [CBP Importer/Exporter Tips](https://www.cbp.gov/trade/basic-import-export/importer-exporter-tips).
+- **UK RGR and rejected imports:** Source pages used: [HMRC Returned Goods Relief](https://www.gov.uk/guidance/pay-less-import-duty-and-vat-when-re-importing-goods-to-the-uk-and-eu), [HMRC Returning goods to the UK](https://www.gov.uk/guidance/returning-goods-to-the-uk), and [HMRC Refunds and waivers on customs debt](https://www.gov.uk/guidance/refunds-and-waivers-on-customs-debt).
+- **EU product identifiers:** The existing EU article states that an identifier became mandatory on November 1, 2026. Research located the 2023 Commission proposal [COM(2023) 258](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0258) and procedure [2023/0156(COD)](https://eur-lex.europa.eu/procedure/EN/2023_156), but did not verify an adopted final act or operative EU-wide product-identifier requirement/date as of November 11, 2026. Keep the article unchanged pending verification against an enacted act and expert review; do not present its November 2026 mandate as confirmed law in the meantime.
+
 ### Prioritization and working approach
 
 Recommended first content set, balancing the owner's US-first business priority with the available page-level evidence:
@@ -55,7 +73,7 @@ Recommended first content set, balancing the owner's US-first business priority 
 4. Review the older EU and general duty-refund calculation guides for current accuracy and overlap before deciding whether to update or consolidate.
 5. Improve About and author information after approved company and reviewer details are supplied.
 
-No article, technical SEO fix, or business-profile change has yet been implemented as part of this strategy. The recommendations above are analysis, not completed production work.
+No drafts prepared under this strategy have been approved or published. One confirmed technical SEO fix (duplicate title tags) has been implemented. No canonical-host or business-profile change has been made. Editorial changes remain subject to owner approval and, for customs-law content, qualified subject-matter review.
 
 ## Implementation phases
 
@@ -65,9 +83,9 @@ Status definitions: **Complete** means supported by recorded evidence; **In prog
 |---|---|---|---|
 | 1. Baseline and prioritization | Complete | Review the provided three-month report; identify country, query, and page opportunities and report limitations. | Baseline and priority pages documented above. |
 | 2. Query-to-page research and business goals | Complete | Review three owner-supplied page-filtered Search Console comparisons and confirm the current market, service, and industry priorities. | Page/query findings and limitations documented above; priorities confirmed November 11, 2026. Reconfirm at quarterly reviews and before material reprioritization. |
-| 3. Content and factual review | Pending | Draft changes for the three priority articles. Verify customs/tax/trade claims against current primary sources; flag items for expert review. | Reviewable drafts, linked sources and effective dates, and a clear list of unresolved approvals. |
-| 4. Trust and internal-link improvements | Pending | Replace About template text, complete author/reviewer details, add suitable internal links, and make calls to action useful and accurate. | Approved business/author copy present; relevant links checked; no invented credentials or outcomes. |
-| 5. Technical SEO verification | Pending | Inspect generated metadata, canonical URLs, sitemap, redirects, and internal links for priority pages and both reported hosts. Fix only confirmed issues. | Inspection/build evidence and intended URL behavior documented; no unverified canonical assumptions. |
+| 3. Content and factual review | In progress | Draft the US importer-responsibility and drawback paths and the UK returns article; verify regulatory statements against primary sources and flag claims requiring expert review. EU product-identifier update awaits final-law verification. | US and UK drafts and sources recorded above. Expert, owner, and EU-status checks remain outstanding. |
+| 4. Trust and internal-link improvements | In progress | Add contextual links and relevant next steps; replace About template text and complete author/reviewer details once approved company facts are provided. | Contextual US link and official source links added in drafts. About/author details and owner review remain outstanding. |
+| 5. Technical SEO verification | In progress | Inspect generated metadata, canonical URLs, sitemap, redirects, and internal links for priority pages and both reported hosts. Fix only confirmed issues. | Build succeeded; duplicate title tags fixed and verified on three rendered pages. Canonical is absent until intended host is confirmed; remaining technical checks are pending. |
 | 6. Publish approval and measurement | Pending | Obtain human/business/legal approval, publish through the owner's normal process, and compare equal-length periods. Track qualified leads where available. | Approval recorded; publication date noted; post-change Search Console and enquiry results logged. |
 | 7. Agent-search observation | Pending | Create a fixed set of realistic buyer questions for US, UK, and EU; run them periodically in selected AI search products and record citations/referrals. | Dated prompt set and repeated observations, clearly separated from Search Console metrics. |
 
@@ -80,17 +98,17 @@ Phases can overlap where prerequisites are met. Do not publish legal or regulate
 1. Review the proposed content drafts and confirm business positioning, intended CTA destinations, and any claims about TDR's services or capabilities.
 2. Provide approved About-page/company wording and accurate author or reviewer names, roles, and credentials before those details are added.
 3. Identify or conduct qualified review of customs, tax, and trade-rule claims, especially UK relief terminology and current EU product-identifier requirements.
-4. Confirm the intended public host/canonical for blog content if `blog.tradedutyrefund.com` and `tradedutyrefund.com` are both in use.
+4. Confirm the intended public host/canonical for blog content. The generated draft pages currently have no canonical URL because `site.url` is not configured; do not infer the correct host from the split Search Console results.
 5. Provide qualified-enquiry outcomes if available, so content changes can be assessed against leads rather than traffic alone.
 6. Reconfirm market, service, and industry priorities at the next quarterly review or sooner if business priorities change.
 
 ### Work to do next
 
-1. Review existing US duty-drawback pages and service CTAs to identify the best US-first content path; the current US importer-roles query set is informational and is not direct service-intent evidence.
-2. Prepare reviewable draft changes for the US page and service path, then the UK article. Separate the UK duty-drawback and Returned Goods Relief concepts. Cite primary sources and explicitly mark claims needing human approval.
-3. Verify current EU product-identifier requirements and update the EU article's deadline/status wording as a separate compliance-content task.
+1. Have the owner review whether the US and UK draft positioning, CTA destinations, and service descriptions accurately represent TDR's offerings.
+2. Obtain qualified review of the US article's legal/eligibility/refund/statistic claims and the UK article's use of “duty drawback,” RGR/VAT distinctions, and application of HMRC conditions to TDR's target ecommerce flows.
+3. Verify whether an EU reform final act has been adopted and is applicable; only then revise the product-identifier article's title, deadline, and requirement language.
 4. Draft About-page and author updates only after receiving approved facts.
-5. Inspect the built site and verify metadata/canonicals on the priority pages; record actual behavior before proposing technical changes.
+5. After host confirmation, set and verify the canonical base URL, then inspect generated HTML, links, metadata, sitemap, and redirects; run the smallest applicable Jekyll build after changes.
 6. Keep all editorial and code edits as drafts until the owner approves publication.
 
 ## Measurement and reporting rules

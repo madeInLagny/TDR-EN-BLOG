@@ -6,6 +6,7 @@ categories: [TDR, us, duty drawback, e-commerce, duty-free returns, b2c]
 image: assets/images/20250811-1.webp
 comments: false
 author: TDR
+last_modified_at: 2026-11-11
 ---
 
 > Duty drawback is a US Customs and Border Protection (CBP) program that enables businesses to recover up to 99% of duties, taxes, and fees paid on imported goods if those goods are subsequently exported or destroyed under customs supervision. This long-standing policy incentivizes international trade by mitigating the double-duty burden for businesses exporting goods originally imported into the United States. The drawback program, first enacted in 1789, remains a vital cost-saving tool in today’s tariff-heavy trade environment.
@@ -26,4 +27,4 @@ By harnessing the duty drawback program, US importers can recoup significant cos
 
 ---
 
-_If your business regularly imports goods and then exports them, destroys them, or handles international returns, you may qualify for duty drawback. Contact [Trade Duty Refund](https://tradedutyrefund.com?utm_source=Blog&utm_medium=Article&utm_campaign=202500811Article) to learn how to maximize your recovery and ensure compliance with CBP regulations._
+_If your U.S. import operations also include exports or destruction of merchandise, start with a case-specific eligibility review. Use the [U.S. duty-drawback questionnaire](https://tradedutyrefund.com/duty-refund-questionnaire-US?utm_source=Blog&utm_medium=Article&utm_campaign=us_importer_drawback_guide) to share your import/export flow with Trade Duty Refund; completing it does not determine eligibility or guarantee a refund._
