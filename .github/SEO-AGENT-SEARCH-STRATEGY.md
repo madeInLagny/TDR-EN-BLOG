@@ -31,7 +31,7 @@ The report covers the 92 days from August 9 through November 8, 2026, for Web se
 - The country tab contains 26 EU-country rows totaling 69 clicks and 6,509 impressions (about 1.06% CTR). This is not a complete EU27 total; do not represent it as full EU coverage.
 - Example query evidence: “duty drawback” had 715 impressions, 1 click, and average position 47.4; “EU product identifier” had 84 impressions, 6 clicks, and position 5.9; “customs duty recovery for retailers” had 50 impressions, 4 clicks, and position 4.9.
 - Example page evidence: the EU product-identifier blog article had 6,017 impressions, 75 clicks, and position 6.8; the UK reclaim article had 7,132 impressions, 31 clicks, 0.43% CTR, and position 10.6; the US importer/broker/consignee article had 4,317 impressions, 16 clicks, 0.37% CTR, and position 14.2.
-- Results are split between `blog.tradedutyrefund.com` and `tradedutyrefund.com`. Whether this is expected, and how canonicalization is configured, remains to be verified.
+- Search Console lists both `blog.tradedutyrefund.com` and `tradedutyrefund.com` because the main company site and blog are separate properties/hosts. Live checks on November 12, 2026 confirmed the blog article canonical, blog sitemap URLs, and robots.txt sitemap directive all use `https://blog.tradedutyrefund.com`. The equivalent article URL on the apex domain returned 404. The blog subdomain is therefore the recommended canonical host for blog content.
 - The report does not include query-to-page pairs, conversions, or AI/agent citations. Its separate Queries and Pages tabs cannot establish which query generated a given page impression.
 
 ### Page-filtered Search Console exports and owner priorities
@@ -45,16 +45,16 @@ On November 11, 2026, the owner supplied three page-filtered Search Console work
 
 The owner confirmed the current US-first market order, service priorities, and industry boundaries recorded above. SEO work should now pair this business hierarchy with page/query evidence rather than treating traffic alone as the priority.
 
-### Draft implementation and source review
+### Implementation and source review
 
-On November 11, 2026, prepared unpublished editorial drafts in the repository:
+On November 11, 2026, prepared editorial updates in the repository:
 
 - The US importer/consignee article now targets its observed informational query intent in the title, description, and opening answer. It links to the US duty-drawback explainer only as a separate topic and cites CBP's [Importer/Exporter Tips](https://www.cbp.gov/trade/basic-import-export/importer-exporter-tips). The article's wider legal examples and assertions still need subject-matter review.
 - The US duty-drawback explainer now directs readers to the US questionnaire for an eligibility review instead of the generic home page. This is a more direct route to the owner's top-priority service, but the article contains other legal, eligibility, refund-percentage, and market-statistic claims that have not yet been audited.
 - The UK reclaim article has been reframed around the different direction of goods movement for Returned Goods Relief versus potential repayment routes after import and export. It now includes a practical records checklist, a UK questionnaire CTA, and HMRC links. Official-source review found that UK RGR concerns previously exported goods re-imported to the UK; relief from import VAT has a separate same-person condition. HMRC's rejected-import route has distinct conditions, including a one-year claim limit and an application timing requirement before packing goods for re-export/destruction. A qualified reviewer must confirm that the article's terminology and description match TDR's actual UK duty-drawback service and intended ecommerce flows.
-- These are draft repository edits, not owner-approved or published content. The Jekyll build passed, and the rendered titles, descriptions, update dates, questionnaire CTA, and HMRC citations were checked. Legal/service review and canonical-host confirmation remain outstanding.
+- On November 12, 2026, the owner approved all changes made in this set. Live checks that day confirmed the updated US importer/consignee article, the US drawback questionnaire CTA, and the rewritten UK recovery article are being served on the public blog. The owner-approved updates are live. The Jekyll build passed, and rendered titles, descriptions, update dates, CTA, and HMRC citations were checked. Qualified legal/service review remains outstanding.
 
-The strategy agent built the site to temporary output directories on November 11, 2026. The build succeeded. It exposed two titles in each rendered page head because the layout supplied its own `<title>` and Jekyll SEO Tag emitted another; `_layouts/default.html` now invokes `{% seo title=false %}` while retaining the site's existing explicit title. A rebuild confirmed one title tag on each of the three inspected draft pages, along with updated dates and key links. The SEO tag did not emit a canonical URL because the site has no configured `url`; do not set one until the owner confirms the intended canonical host. The build also emits existing Sass `@import` deprecation notices and duplicate category-archive destination warnings; these are unrelated to the draft edits and were not changed.
+The strategy agent built the site to temporary output directories on November 11 and 12, 2026. The build succeeded. It exposed two titles in each rendered page head because the layout supplied its own `<title>` and Jekyll SEO Tag emitted another; `_layouts/default.html` now invokes `{% seo title=false %}` while retaining the site's existing explicit title. A rebuild confirmed one title tag on each of the three inspected pages, along with updated dates and key links. Live production checks on November 12 confirmed that article canonicals, sitemap URLs, and the robots.txt sitemap directive use `https://blog.tradedutyrefund.com`; the equivalent article URL on the apex domain returns 404. The local `_config.yml` now sets `url: "https://blog.tradedutyrefund.com"`, and a fresh build verified one correct canonical per inspected article and a matching sitemap URL. The local configuration change still needs to go through the normal deployment process. The build also emits existing Sass `@import` deprecation notices and duplicate category-archive destination warnings; these are unrelated to the SEO edits and were not changed.
 
 Official-source review as of November 11, 2026:
 
@@ -73,7 +73,7 @@ Recommended first content set, balancing the owner's US-first business priority 
 4. Review the older EU and general duty-refund calculation guides for current accuracy and overlap before deciding whether to update or consolidate.
 5. Improve About and author information after approved company and reviewer details are supplied.
 
-No drafts prepared under this strategy have been approved or published. One confirmed technical SEO fix (duplicate title tags) has been implemented. No canonical-host or business-profile change has been made. Editorial changes remain subject to owner approval and, for customs-law content, qualified subject-matter review.
+The owner approved all current editorial changes on November 12, 2026, and the US/UK content changes are live. One confirmed technical SEO fix (duplicate title tags) has been implemented. The canonical host has been identified as `blog.tradedutyrefund.com` and configured locally; deployment of that configuration remains. No business-profile change has been made. Qualified subject-matter review of customs-law content remains an important follow-up.
 
 ## Implementation phases
 
@@ -83,33 +83,32 @@ Status definitions: **Complete** means supported by recorded evidence; **In prog
 |---|---|---|---|
 | 1. Baseline and prioritization | Complete | Review the provided three-month report; identify country, query, and page opportunities and report limitations. | Baseline and priority pages documented above. |
 | 2. Query-to-page research and business goals | Complete | Review three owner-supplied page-filtered Search Console comparisons and confirm the current market, service, and industry priorities. | Page/query findings and limitations documented above; priorities confirmed November 11, 2026. Reconfirm at quarterly reviews and before material reprioritization. |
-| 3. Content and factual review | In progress | Draft the US importer-responsibility and drawback paths and the UK returns article; verify regulatory statements against primary sources and flag claims requiring expert review. EU product-identifier update awaits final-law verification. | US and UK drafts and sources recorded above. Expert, owner, and EU-status checks remain outstanding. |
-| 4. Trust and internal-link improvements | In progress | Add contextual links and relevant next steps; replace About template text and complete author/reviewer details once approved company facts are provided. | Contextual US link and official source links added in drafts. About/author details and owner review remain outstanding. |
-| 5. Technical SEO verification | In progress | Inspect generated metadata, canonical URLs, sitemap, redirects, and internal links for priority pages and both reported hosts. Fix only confirmed issues. | Build succeeded; duplicate title tags fixed and verified on three rendered pages. Canonical is absent until intended host is confirmed; remaining technical checks are pending. |
-| 6. Publish approval and measurement | Pending | Obtain human/business/legal approval, publish through the owner's normal process, and compare equal-length periods. Track qualified leads where available. | Approval recorded; publication date noted; post-change Search Console and enquiry results logged. |
+| 3. Content and factual review | In progress | Review the live US importer-responsibility and drawback content and UK returns article against primary sources; obtain expert review. Verify EU product-identifier law before revising that article. | US and UK updates are owner-approved and live; expert review and EU legal-status verification remain outstanding. |
+| 4. Trust and internal-link improvements | In progress | Add contextual links and relevant next steps; replace About template text and complete author/reviewer details once approved company facts are provided. | Contextual US link and official source links added and approved by the owner November 12. About/author details remain outstanding. |
+| 5. Technical SEO verification | In progress | Inspect generated metadata, canonical URLs, sitemap, redirects, and internal links for priority pages and both reported hosts. Fix only confirmed issues. | Duplicate titles fixed; `url` set to the confirmed blog host; build verified one correct canonical on inspected pages and matching sitemap URL. Remaining redirect/live checks are pending. |
+| 6. Publish approval and measurement | In progress | Complete qualified customs/legal review of live content; deploy the local canonical configuration; compare equal-length periods and track qualified leads where available. | Owner approval recorded and US/UK changes confirmed live November 12. Qualified review, configuration deployment, and post-change performance measurement remain open. |
 | 7. Agent-search observation | Pending | Create a fixed set of realistic buyer questions for US, UK, and EU; run them periodically in selected AI search products and record citations/referrals. | Dated prompt set and repeated observations, clearly separated from Search Console metrics. |
 
-Phases can overlap where prerequisites are met. Do not publish legal or regulated claims without qualified review and owner approval.
+Phases can overlap where prerequisites are met. Review the live regulatory content with a qualified customs expert and correct any claims that are inaccurate or no longer current.
 
 ## Next steps
 
 ### Inputs needed from the owner
 
-1. Review the proposed content drafts and confirm business positioning, intended CTA destinations, and any claims about TDR's services or capabilities.
+1. Owner approval of the current draft changes and CTA destinations was recorded November 12, 2026.
 2. Provide approved About-page/company wording and accurate author or reviewer names, roles, and credentials before those details are added.
-3. Identify or conduct qualified review of customs, tax, and trade-rule claims, especially UK relief terminology and current EU product-identifier requirements.
-4. Confirm the intended public host/canonical for blog content. The generated draft pages currently have no canonical URL because `site.url` is not configured; do not infer the correct host from the split Search Console results.
+3. Identify or conduct qualified review of customs, tax, and trade-rule claims, especially US drawback assertions, UK relief terminology, and current EU product-identifier requirements.
+4. The recommended canonical host is `https://blog.tradedutyrefund.com`, based on the live page canonical, sitemap, robots.txt directive, and CNAME. The local Jekyll `url` setting now matches this host; the main company website remains on `https://tradedutyrefund.com`.
 5. Provide qualified-enquiry outcomes if available, so content changes can be assessed against leads rather than traffic alone.
 6. Reconfirm market, service, and industry priorities at the next quarterly review or sooner if business priorities change.
 
 ### Work to do next
 
-1. Have the owner review whether the US and UK draft positioning, CTA destinations, and service descriptions accurately represent TDR's offerings.
-2. Obtain qualified review of the US article's legal/eligibility/refund/statistic claims and the UK article's use of “duty drawback,” RGR/VAT distinctions, and application of HMRC conditions to TDR's target ecommerce flows.
-3. Verify whether an EU reform final act has been adopted and is applicable; only then revise the product-identifier article's title, deadline, and requirement language.
-4. Draft About-page and author updates only after receiving approved facts.
-5. After host confirmation, set and verify the canonical base URL, then inspect generated HTML, links, metadata, sitemap, and redirects; run the smallest applicable Jekyll build after changes.
-6. Keep all editorial and code edits as drafts until the owner approves publication.
+1. Obtain qualified review of the US article's legal/eligibility/refund/statistic claims and the UK article's use of “duty drawback,” RGR/VAT distinctions, and application of HMRC conditions to TDR's target ecommerce flows.
+2. Verify the legal status of the EU product-identifier requirement against an adopted, applicable act. The live article currently states the requirement took effect on November 1, 2026; correct or qualify that statement if the date or legal basis cannot be substantiated.
+3. Deploy the local canonical configuration through the normal publishing process, then confirm live titles, canonicals, sitemap entries, and host redirects match the local build.
+4. Record the current page-filtered Search Console baseline and compare it with an equal-length period after the changes have had time to accumulate data. Include qualified enquiries if available.
+5. Draft About-page and author updates only after receiving approved facts.
 
 ## Measurement and reporting rules
 
