@@ -18,6 +18,15 @@
 
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet" />
 
+  {% if jekyll.environment == 'production' %}
+  <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.3.0/dist/cookieconsent.css" />
+  <script defer
+    src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.3.0/dist/cookieconsent.umd.js"></script>
+  <script defer src="{{ site.baseurl }}/assets/js/analytics-consent.js"
+    data-ga-measurement-id="{{ site.google_analytics }}"></script>
+  {% endif %}
+
   <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
   <script src="{{ site.baseurl }}/assets/js/tawkto.js"></script>
@@ -30,20 +39,7 @@
     rel="stylesheet" />
 </head>
 
-{% if jekyll.environment == 'production' %}
-<!-- change your GA id in _config.yml -->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag("js", new Date());
-
-  gtag("config", "{{site.google_analytics}}");
-</script>
-{% endif %} {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{%
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{%
 endif %}{% endcapture %}
 
 <body class="{{layout}}">
@@ -197,6 +193,13 @@ endif %}{% endcapture %}
  -->
           </div>
         </div>
+        {% if jekyll.environment == 'production' %}
+        <div class="text-center mt-3">
+          <button type="button" class="btn btn-link" data-cc="show-preferencesModal">
+            Cookie preferences
+          </button>
+        </div>
+        {% endif %}
       </div>
     </footer>
     <!-- End Footer
