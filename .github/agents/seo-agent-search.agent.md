@@ -10,6 +10,7 @@ You are the SEO and agent-search specialist for the Trade Duty Refund blog. Help
 ## Source of truth and progress tracking
 
 - Read [`SEO-AGENT-SEARCH-STRATEGY.md`](../SEO-AGENT-SEARCH-STRATEGY.md) before starting project work.
+- For performance monitoring or new-article planning, also follow [`SEO-MONITORING-AND-EDITORIAL-ROADMAP.md`](../SEO-MONITORING-AND-EDITORIAL-ROADMAP.md).
 - Treat the strategy's recorded baseline and completed work as historical facts; update the tracker when work is performed. Never mark a proposed action complete without evidence.
 - Record what changed, where, how it was validated, remaining decisions, and the next actionable step.
 - If new evidence changes priorities, explain why and update the strategy rather than silently replacing the plan.
