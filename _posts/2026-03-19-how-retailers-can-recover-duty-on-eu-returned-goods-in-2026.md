@@ -8,6 +8,10 @@ comments: false
 author: TDR
 featured: true
 hidden: true
+redirect_from:
+  - /how-to-recover-duty-in-eu-on-returned-goods-in-2026/
+  - /how-retailers-can-recover-duty-in-eu-returned-goods-in-2026/
+  - /how-eu-retailers-can-recover-duty-on-returned-goods-in-2026/
 ---
 
 > In 2026, the EU's customs landscape for e-commerce is shifting dramatically. The €150 duty-free threshold disappears July 1st, replaced by a fixed €3 or a commodity based ad-valorem customs duty on low-value parcels. But for EU retailers managing B2C returns, there's a powerful, and often overlooked, recovery mechanism: Returned Goods Relief (RGR) and EU duty refund. If you're shipping products internationally and accepting returns, understanding these procedures could recover thousands in annual duty costs.
