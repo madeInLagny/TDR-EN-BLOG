@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Understanding Duty Drawback: A Guide to Customs Duties Refund Calculation"
-description: "Learn how to calculate customs duty refunds in the EU, UK, and US. Discover key factors and regional differences to maximize duty drawback claims."
+title: "How Duty Drawback Refunds Are Calculated: US, UK and EU"
+description: "How duty drawback refunds are calculated in the US, UK and EU: the key factors, regional differences and a worked US example."
 categories:
   [
     uk,
@@ -14,6 +14,7 @@ categories:
 image: assets/images/20241227-1.webp
 comments: false
 author: TDR
+last_modified_at: 2026-11-17
 ---
 
 > When trading internationally, customs duties can significantly impact your bottom line. Duty drawback programs provide an opportunity to reclaim duties paid during importation, potentially saving your business substantial costs. Learn how to maximize your refunds in the EU, UK, and US.
@@ -46,13 +47,13 @@ Several critical elements influence how much you can claim under duty drawback p
 
 ### Duty Drawback in the European Union and the UK
 
-In the EU and UK, the duty drawback program allows a **100% refund of import duties**. This is especially advantageous for businesses engaged in re-exporting goods or for items imported and later destroyed. To successfully claim a refund:
+In the EU and the UK, the duty drawback program allows a **100% refund of the customs duties and VAT paid**. This is especially advantageous for businesses engaged in re-exporting goods or for items imported and later destroyed. To successfully claim a refund:
 
 - Maintain accurate import/export documentation.  
 - Ensure goods meet all customs eligibility requirements.  
 - File your claims timely and completely.
 
-For further resources and expert guidance, visit [**Trade Duty Refund**](https://tradedutyrefund.com).
+For retailers, the most common cases are customer returns and re-exported inventory. See how this works on our pages for [EU duty drawback](https://tradedutyrefund.com/TDR-Duty-Drawback-in-the-EU.html) and [UK duty drawback](https://tradedutyrefund.com/TDR-Duty-Drawback-in-the-UK.html), or read about [Returned Goods Relief in the EU](https://tradedutyrefund.com/TDR-returned-goods-relief-in-the-EU.html) and [in the UK](https://tradedutyrefund.com/TDR-returned-goods-relief-in-the-UK.html) when goods that were exported come back.
 
 ---
 
@@ -64,9 +65,9 @@ In the US, businesses can recover **up to 99% of duties paid**, making it a valu
 - **Manufacturing Drawback**: When imported goods are used in manufacturing and the finished product is exported.  
 - **Rejected Merchandise Drawback**: Covers returns due to defects or non-conformance.
 
-Although slightly less than the 100% refund offered in the EU/UK, this program provides a significant cost-saving opportunity for US businesses.  
+**Worked example:** a company pays $10,000 in duties on imported goods and later exports eligible goods. A claim for the full amount could recover up to $9,900 (99%). Eligibility, documentation and deadlines still determine what is actually refunded.
 
-Visit [**Trade Duty Refund**](https://tradedutyrefund.com) to learn how to simplify your US duty drawback claims.
+Learn how we handle claims on our [US duty drawback](https://tradedutyrefund.com/TDR-Duty-Drawback-in-the-US.html) page.
 
 ---
 

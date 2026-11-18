@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "U.S. Importer of Record vs. Consignee: Key Differences"
-description: "Understand how the U.S. importer of record, customs broker, and consignee differ, who handles customs-entry responsibilities, and what ecommerce importers should verify."
+title: "U.S. Importer of Record vs. Consignee vs. Broker"
+description: "How the U.S. importer of record, customs broker and consignee differ, and what ecommerce importers should verify on entry documents."
 categories: [TDR, us, e-commerce, duty drawback]
 image: assets/images/20250812-1.webp
 comments: false
 author: TDR
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-17
 ---
 
 > The importer of record, customs broker, and consignee have different roles in a U.S. import transaction. The importer of record is responsible for the import entry; a customs broker may act on the importer's behalf; and the consignee is the party named to receive the goods. These roles can belong to different businesses, so ecommerce importers should confirm who is named on entry and shipping documents.
@@ -101,11 +101,9 @@ Consignees, though not directly targeted by CBP penalties for entry violations, 
 2. **Clearly define representation type** in your broker contract—direct or indirect.
 3. **Vet consignees** for their ability to handle, store, and report accurately on received goods.
 4. **Maintain meticulous records**, including all declarations, invoices, and communications with brokers.
-5. **Stay updated** on US trade policy changes; tariffs and regulations can shift quickly.
+5. **Stay updated** on US trade policy changes; tariffs and regulations can shift quickly. For example, when Section 301 tariffs on Chinese imports were introduced, importers of record had to rapidly adjust their payment structures and consider tariff engineering strategies such as minor product modifications or supply chain shifts.
 
-For a separate question—whether eligible goods imported into the U.S. and later exported may qualify for duty drawback—see our [U.S. duty drawback guide](https://blog.tradedutyrefund.com/duty-drawback-us-importers-guide-tariffs-refunds-e-commerce-retail/). Drawback eligibility is distinct from importer, broker, and consignee roles.
-
-For example, when Section 301 tariffs on Chinese imports were introduced, importers of record had to rapidly adjust their payment structures and consider tariff engineering strategies such as minor product modifications or supply chain shifts.
+For a separate question—whether eligible goods imported into the U.S. and later exported may qualify for duty drawback—see our [U.S. duty drawback guide](https://blog.tradedutyrefund.com/duty-drawback-us-importers-guide-tariffs-refunds-e-commerce-retail/). Drawback eligibility is distinct from importer, broker, and consignee roles, although the importer of record named on the entry is usually the starting point when checking who can claim. Our [US duty drawback](https://tradedutyrefund.com/TDR-Duty-Drawback-in-the-US.html) page explains how TDR handles claims.
 
 For CBP's explanation of importer responsibilities and working with a customs broker, see [Importer/Exporter Tips](https://www.cbp.gov/trade/basic-import-export/importer-exporter-tips).
 
@@ -117,4 +115,4 @@ Understanding these distinctions, and structuring clear agreements between all p
 
 ---
 
-_US importers who seek to ensure their processes are fully compliant with ever-evolving regulations and want expert guidance to navigate complexities can turn to the [Trade Duty Refund trade advisory team](https://tradedutyrefund.com/consulting.html?utm_source=Blog&utm_medium=Article&utm_campaign=202500812Article). We specialize in advising on regulatory requirements, helping you optimize your cross-border sales, reduce risks of penalties, and improve your competitive edge in global trade. Let our experts guide you through compliance challenges so your importing operations run smoothly and successfully._
+_US importers who seek to ensure their processes are fully compliant with ever-evolving regulations and want expert guidance to navigate complexities can turn to the [Trade Duty Refund trade advisory team](https://tradedutyrefund.com/consulting.html?utm_source=Blog&utm_medium=Article&utm_campaign=20250812Article). We specialize in advising on regulatory requirements, helping you optimize your cross-border sales, reduce risks of penalties, and improve your competitive edge in global trade. Let our experts guide you through compliance challenges so your importing operations run smoothly and successfully._

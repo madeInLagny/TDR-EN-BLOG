@@ -1,12 +1,12 @@
 ---
 layout: post_no_image
-title: "UK Duty Recovery for Ecommerce Returns: RGR vs. Drawback"
-description: "UK ecommerce brands: understand how Returned Goods Relief differs from duty repayment when goods are returned or exported, and what records to review with a customs expert."
+title: "UK Returned Goods Relief vs Duty Repayment: Ecommerce Returns"
+description: "Reclaiming UK import duty on ecommerce returns: how Returned Goods Relief differs from duty repayment, and which records to review."
 categories: [TDR, uk, duty drawback, e-commerce, b2c]
 image: assets/images/20251217-1.webp
 comments: false
 author: TDR
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-17
 ---
 
 > Cross-border ecommerce returns can involve different UK customs routes. Returned Goods Relief and repayment of duty after export are not interchangeable: the relevant route depends on how the goods crossed the UK border, why they are being returned or exported, and what evidence is available.
@@ -19,7 +19,7 @@ Ask whether the goods were **exported from the UK and are now being re-imported*
 
 ### Goods exported from the UK and returned to the UK
 
-UK Returned Goods Relief (RGR) may apply when goods previously exported from the UK are re-imported, subject to the applicable conditions. HMRC's guidance describes the usual three-year return period and requires the goods to be returned in the required state. The re-import must be declared correctly and evidence linking the returned goods to the original export may be needed.
+UK Returned Goods Relief (RGR) may apply when goods previously exported from the UK are re-imported, subject to the applicable conditions. HMRC's guidance describes the usual three-year return period and requires the goods to be returned in the required state. The re-import must be declared correctly and evidence linking the returned goods to the original export may be needed. For the conditions in more detail, see our guide to [Returned Goods Relief in the UK](https://tradedutyrefund.com/TDR-returned-goods-relief-in-the-UK.html).
 
 Import VAT treatment has separate conditions. HMRC states that, for import VAT relief under RGR, the person who exported the goods must also be the person re-importing them. Do not assume that duty and VAT relief have identical requirements.
 
@@ -27,7 +27,7 @@ For an ecommerce retailer, the records to review can include the original export
 
 ### Goods imported into the UK and later exported abroad
 
-This is not, by itself, Returned Goods Relief: RGR concerns goods previously exported from the UK and then re-imported. A UK import followed by an export may need to be assessed under a different HMRC repayment, remission, or customs procedure, and the reason for export matters.
+This is not, by itself, Returned Goods Relief: RGR concerns goods previously exported from the UK and then re-imported. A UK import followed by an export may need to be assessed under a different HMRC repayment, remission, or customs procedure, and the reason for export matters. Our page on [UK duty drawback](https://tradedutyrefund.com/TDR-Duty-Drawback-in-the-UK.html) explains the refund route for imported goods that are later exported.
 
 HMRC describes a separate route for some rejected imports, such as goods that are defective or do not meet contractual terms. Its current guidance says to apply at least 48 hours before packing the goods for re-export or destruction and gives a one-year claim limit for rejected-import claims. Other conditions apply to the goods and claimant. Ordinary customer change-of-mind returns should not be assumed to qualify. Check the [current HMRC conditions and deadlines](https://www.gov.uk/guidance/refunds-and-waivers-on-customs-debt) before describing a shipment as eligible.
 
@@ -56,7 +56,7 @@ The same review can be applied to apparel, sporting goods, and luxury goods, but
 
 ## Next step
 
-Trade Duty Refund offers UK duty-drawback and Returned Goods Relief services. The applicable route depends on the underlying customs movements and the facts of the case. Start with the [UK duty-refund questionnaire](https://tradedutyrefund.com/duty-refund-questionnaire-UK.html?utm_source=Blog&utm_medium=3-ways-UK-brands-can-reclaim-import-duties&utm_campaign=20251217) or [contact the team](https://tradedutyrefund.com/make-an-appointment.html?utm_source=Blog&utm_medium=3-ways-UK-brands-can-reclaim-import-duties&utm_campaign=20251217) to discuss which flow should be reviewed.
+Trade Duty Refund offers [UK duty-drawback](https://tradedutyrefund.com/TDR-Duty-Drawback-in-the-UK.html) and [Returned Goods Relief](https://tradedutyrefund.com/TDR-returned-goods-relief-in-the-UK.html) services. The applicable route depends on the underlying customs movements and the facts of the case. Start with the [UK duty-refund questionnaire](https://tradedutyrefund.com/duty-refund-questionnaire-UK.html?utm_source=Blog&utm_medium=3-ways-UK-brands-can-reclaim-import-duties&utm_campaign=20251217) or [contact the team](https://tradedutyrefund.com/make-an-appointment.html?utm_source=Blog&utm_medium=3-ways-UK-brands-can-reclaim-import-duties&utm_campaign=20251217) to discuss which flow should be reviewed.
 
 ## Official guidance
 
