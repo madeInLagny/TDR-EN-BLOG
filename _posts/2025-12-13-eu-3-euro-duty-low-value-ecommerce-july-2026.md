@@ -81,4 +81,4 @@ In summary—wait, no summaries—the EU's €3 duty reshapes low-value imports,
 
 **Official Statement from the European Commission**: [EU introduces customs duties on low-value e-commerce packages](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_3045)
 
-_Are you exporting goods to the EU and willing to properly prepare for the new 2026 new Customs regulations? Set up a free discovery call with an expert from [Trade Duty Refund](https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=bottomCallOut&utm_campaign=20251213Article) to find out how duty drawback, returned goods release and trade consulting can help you mitigate raising costs!_
+_Are you exporting goods to the EU and willing to properly prepare for the new 2026 new Customs regulations? Set up a free discovery call with an expert from [Trade Duty Refund](https://tradedutyrefund.com/contact-us.html?utm_source=Blog&utm_medium=bottomCallOut&utm_campaign=20251213Article) to find out how duty drawback, returned goods release and trade consulting can help you mitigate [raising costs!](https://tradedutyrefund.com/TDR-cross-border-ecommerce-cost.html)_

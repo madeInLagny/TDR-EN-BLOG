@@ -63,7 +63,7 @@ Brands that close their data gaps now will be better positioned to avoid clearan
 
 Item-level data matters beyond the import itself. In sectors like fashion, customs authorities may require item-level identification when goods come back, as discussed in our [Ask the Experts interview on Returned Goods Relief](https://blog.tradedutyrefund.com/ask-the-experts-rgr-with-elke-rodel-what-is-returned-goods-relief-and-who-can-benefit/). Product identifiers help identify exactly which items are being returned and provide a source for the refund. Clean identifiers also make it easier to match returned goods to the original shipment when reviewing [Returned Goods Relief in the EU](https://tradedutyrefund.com/TDR-returned-goods-relief-in-the-EU.html) or an [EU duty refund](https://tradedutyrefund.com/TDR-Duty-Drawback-in-the-EU.html).
 
-To estimate how the new rules affect your landed costs, try our [EU import regulations cost-impact tool](https://tradedutyrefund.com/eu-2026-import-regulations-cost-impact-tool.html). For the duty change that started on 1 July 2026, read [the EU €3 duty on low-value eCommerce](https://blog.tradedutyrefund.com/eu-3-euro-duty-low-value-ecommerce-july-2026/).
+To estimate how the new rules affect [your landed costs](https://tradedutyrefund.com/TDR-cross-border-ecommerce-cost.html), try our [EU import regulations cost-impact tool](https://tradedutyrefund.com/eu-2026-import-regulations-cost-impact-tool.html). For the duty change that started on 1 July 2026, read [the EU €3 duty on low-value eCommerce](https://blog.tradedutyrefund.com/eu-3-euro-duty-low-value-ecommerce-july-2026/).
 
 ## Official source
 
